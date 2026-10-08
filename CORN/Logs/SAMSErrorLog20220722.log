@@ -1,0 +1,109 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:09:23
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:32b1af29-a0ff-4ecb-82ac-13b5730745d0
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:20:51
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:cc47af84-ce8d-43fd-8393-87da1f6c1bdb
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:32:13
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:33:40
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:35:03
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:35:14
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:39:35
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:42:33
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 12:42:57
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spSelectCategoryItems has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+ClientConnectionId:fab60ab8-719c-4185-a790-63c360598125
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 22 Jul 22 03:53:32
+Exception Information:
+System.IndexOutOfRangeException: Cannot find table 0.
+   at CORNDatabaseLayer.InputClasses.spSelectCategoryItems.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectCategoryItems.cs:line 120
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdownCategoryItems(Int32 CATEGORY_ID, String SKU_NAME, Boolean IS_ACTIVE, Int32 Type_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 297
+: ----------------------------------

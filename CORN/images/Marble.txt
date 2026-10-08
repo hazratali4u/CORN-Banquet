@@ -1,0 +1,1932 @@
+1000000001	m sale card	11	11	11	NA	NA	100,000 	Cash	12/31/1999
+1000000003	  hamza butt	NA	NA	NA	NA	NA	390 	Customer	12/31/1999
+1000000004	Qureshi Jawad Mohammad	jawad@marbleslab.pk	0346-4442220	0	NA	NA	500 	Director	12/31/1999
+1000000006	Khalid - Mujtaba	-mujtaba.k.saigol@gmail.com	03204347454	NA	NA	NA	449 	Customer	12/31/1999
+1000000007	Sh Majed Salman	smgc01@hotmail.com	0322-4142222	NA	NA	NA	969 	Customer	12/31/1999
+1000000008	Aslam - Salman	salmanmaslam@hotmail.com	0300-8481982	NA	NA	NA	2,987 	Customer	12/31/1999
+1000000009	nasir - alina	NA	0321-5556516	NA	NA	NA	449 	Customer	12/31/1999
+1000000010	Hanan - Abdul	hanan880@gmail.com	0321-2222556	NA	NA	NA	1,608 	Customer	12/31/1999
+1000000011	tanzeel - -	tparacha2@gmail.com	0345-8342499	NA	NA	NA	309 	Customer	12/31/1999
+1000000012	Usama	NA	NA	NA	NA	NA	499 	Customer	12/31/1999
+1000000013	Ahmed sohaib muhammad	sohaib-ahmed16@hotmail.com	03234349434	NA	NA	NA	675 	Customer	12/31/1999
+1000000014	Ahmed khubaib muhammad	khubaibahmed3@hotmail.com	0323-4456653	NA	NA	NA	1,729 	Customer	12/31/1999
+1000000015	sh tariq osama	osama-sheik@hotmail.com	03244165555	NA	NA	NA	3,972 	Customer	12/31/1999
+1000000016	ahmed attique hasan	hasanattique@yahoo.com	0321-7878532	NA	NA	NA	780 	Customer	12/31/1999
+1000000017	omar - -	roop.omar@gmail.com	0300-8486898	0301-8486898	NA	NA	854 	Customer	12/31/1999
+1000000018	waleed - moazzam	12008740@hope.ac.uk	0344-4564606	NA	NA	NA	980 	Customer	12/31/1999
+1000000019	ahmed raza -	NA	0322-2111666	NA	NA	NA	2,229 	Customer	12/31/1999
+1000000020	aman tahir -	amantahir19@yahoo.com	0321-9444768	NA	NA	NA	1,698 	Customer	12/31/1999
+1000000021	majeed - adil	NA	0301-8457585	NA	NA	NA	1,049 	Customer	12/31/1999
+1000000022	ahmad  sheharyar	sheharyar	NA	03334377129	NA	NA	2,373 	Customer	12/31/1999
+1000000023	Ashfaq sohaib muhammad	sohaibashfaq.ashfaq7@gmail.com	0301-7333333	NA	NA	NA	1,600 	Customer	12/31/1999
+1000000024	asif - ammara	NA	0333-4489109	NA	NA	NA	1,973 	Customer	12/31/1999
+1000000025	khan alamgir mohammed	ALAMGIR@ALLAWASAYA.COM	NA	NA	NA	NA	677 	Customer	12/31/1999
+1000000026	khan usman romaisa	romaisakhan22.23hotmail.com	0304-4020173	0300-4888973	NA	NA	1,250 	Customer	12/31/1999
+1000000027	tahir - aima	poohbearr318@gmail.com	0333-9806812	NA	NA	NA	898 	Customer	12/31/1999
+1000000028	arshad - mahnoor	mahnoorarshad933@gmail.com	0300-4866802	0305-4041144	NA	NA	989 	Customer	12/31/1999
+1000000029	parvaiz - zubair	zubairpar88@hotmail.com	0321-4759932	NA	NA	NA	745 	Customer	12/31/1999
+1000000030	usama - ayesha	NA	NA	NA	NA	NA	2,119 	Customer	12/31/1999
+1000000031	azim abid muhammed	abid1@yahoo.com	0334-4227750	NA	NA	NA	1,279 	Customer	12/31/1999
+1000000032	iqbal - azhar	NA	0331-4122225	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000033	ali - wasey	NA	0321-4488006	NA	NA	NA	1,375 	Customer	12/31/1999
+1000000034	majid - sara	sara.munir@gmail.com	0336-9123333	0333-4214210	NA	NA	3,350 	Customer	12/31/1999
+1000000035	danish - hassan	alhas1@hotmail.com	0333-4333117	NA	NA	NA	495 	Customer	12/31/1999
+1000000036	abeer mohammad syed	abeerblackgoat@gmail.com	0323-4951683	NA	NA	NA	2,304 	Customer	12/31/1999
+1000000037	rehman - abdul	NA	0332-7045080	NA	NA	NA	1,615 	Customer	12/31/1999
+1000000038	nawaz - misha	NA	0322-4700878	NA	NA	NA	968 	Customer	12/31/1999
+1000000039	mumtaz - zohaib	mumtaz-brothers2yahoo.com	0321-8448403	NA	NA	NA	2,948 	Customer	12/31/1999
+1000000040	rasheed umar muhammad	umarrasheed9989@gmail.com	NA	0304-47552154	NA	NA	1,250 	Customer	12/31/1999
+1000000041	naveed - aashir	aashir@bahadur.com.pk	0333-4253545	NA	NA	NA	1,100 	Customer	12/31/1999
+1000000042	arif - adeel+	adeel-a83@hotmail.com	0321-8434646	NA	NA	NA	1,380 	Customer	12/31/1999
+1000000043	jawad  muhammad	NA	03218480839	03458480839	NA	NA	699 	Customer	12/31/1999
+1000000044	shah hasnan muhammad	justmomz@hotmail.com	03214464801	NA	NA	NA	7,019 	Customer	12/31/1999
+1000000045	moazzam - mrs	NA	NA	0321-4111156	NA	NA	469 	Customer	12/31/1999
+1000000046	asim - hamza	hamzaasim@yahoo.com	0321-4661677	NA	NA	NA	985 	Customer	12/31/1999
+1000000047	tariq - nabeel	miannabeeltariq@yahoo.com	0313-8180333	NA	NA	NA	990 	Customer	12/31/1999
+1000000048	waqar - saima	saimawaqar1@hotmail.com	0322-4354700	0300-8461238	NA	NA	6,035 	Customer	12/31/1999
+1000000049	bukhari ammar muhammad	bukhari.ammar@gmail.com	0300-8443233	NA	NA	NA	2,458 	Customer	12/31/1999
+1000000050	shafi iqbal mian	iki.3000@gmail.com	0321-4470097	NA	NA	NA	748 	Customer	12/31/1999
+1000000051	arjumand maqsood -	maqsi@hotmail.com	NA	NA	NA	NA	1,050 	Customer	12/31/1999
+1000000052	taj ayaz mian	borningulf2003@hotmail.com	0300-8456766	NA	NA	NA	5,691 	Customer	12/31/1999
+1000000053	asim - uneeb	uneeb.asim@hotmail.com	0302-8456466	NA	NA	NA	1,030 	Customer	12/31/1999
+1000000054	tariq - ahmed	ahmedtariq10@gmail.com	0333-4618668	NA	NA	NA	1,163 	Customer	12/31/1999
+1000000055	dar ahmed umair	NA	0321-4445515	NA	NA	NA	980 	Customer	12/31/1999
+1000000056	shakoor - fatima	NA	0301-4187392	NA	NA	NA	2,950 	Customer	12/31/1999
+1000000057	zubair - aleem	aleemzubair@hotmail.com	0321-4422843	NA	NA	NA	500 	Customer	12/31/1999
+1000000058	sabur waleed muhammad	waleed-sabur@hotmail.com	0322-8466123	NA	NA	NA	1,050 	Customer	12/31/1999
+1000000059	Creamery Slab Marble	NA	NA	NA	NA	NA	12,292,783 	Cash	12/31/1999
+1000000060	rehman abdul  laiba	laraibabdulrehman@gmail.com	0323-6629406	0323-5503305	NA	NA	1,765 	Customer	12/31/1999
+1000000061	khan ullah saad	saadk60@hotmail.com	0300-4213581	0300-4369012	NA	NA	600 	Customer	12/31/1999
+1000000062	munir - ahmer	ahmar.munir@yahoo.com	NA	NA	NA	NA	740 	Customer	12/31/1999
+1000000063	Creamery Slab Marble	NA	NA	NA	NA	NA	4,000,000 	Cash	12/31/1999
+1000000064	Mahmood - Asim	aasim.mahmud@gmail.com	NA	03219471300	NA	NA	1,630 	Customer	12/31/1999
+1000000065	qadri  mobin	NA	03214400803	NA	NA	NA	750 	Customer	12/31/1999
+1000000066	zaman - amina	we.artist2hotmail.com	0333-4372922	NA	NA	NA	1,600 	Customer	12/31/1999
+1000000067	Zain Ijaz Khan	zainijaz@gmail.com	0321-4505150	NA	NA	NA	1,329 	Customer	12/31/1999
+1000000068	imam hamza -	hamzaimam@gmail.com	0345-4066618	NA	NA	NA	495 	Customer	12/31/1999
+1000000069	KHWAJA - HOOR	HOORI-92@HOTMAIL.COM	0331-4982542	NA	NA	NA	490 	Customer	12/31/1999
+1000000070	KHAN ASAD FARZOUQ	FARZOUQKHAN@GMAIL.COM	0321-6332253	NA	NA	NA	1,030 	Customer	12/31/1999
+1000000071	SHEIKH AHMED MAKHDOOM	MAKHDOO-SHEIKH@YAHOO.COM	0300-4001833	NA	NA	NA	3,147 	Customer	12/31/1999
+1000000072	batool - kanwal	kanwalbatoolnaqvi@gmail.com	0300-0900021	0	NA	NA	809 	Customer	12/31/1999
+1000000073	hafiz muhammad hashim	hashimsheikh88@gmail.com	0321-4083068	NA	NA	NA	847 	Customer	12/31/1999
+1000000074	hassan ather chaudhry	chatherhanan@gmail.com	0321-4822291	NA	NA	NA	800 	Customer	12/31/1999
+1000000075	raza - minahil	minahil.raza2001@gmail.com	NA	NA	NA	NA	657 	Customer	12/31/1999
+1000000076	adnan - zaid	adnan.aman76@gmail.com	0300-8400070	NA	NA	NA	1,380 	Customer	12/31/1999
+1000000077	shaukat arslan omer	skasint@gmail.com	0321-8868884	NA	NA	NA	3,995 	Customer	12/31/1999
+1000000078	sikander  ali	sikanderali@mail.ru	03227184116	NA	NA	NA	878 	Customer	12/31/1999
+1000000079	khwaja - junaid	jojeeee@gmail.com	0300-8475007	NA	NA	NA	2,886 	Customer	12/31/1999
+1000000080	elahi - RIZWAN	RIZWANELAHI85@GMAIL.COM	0300-8420011	NA	NA	NA	2,228 	Customer	12/31/1999
+1000000081	ANSAR - HUMZA	HUMZA7@GMAIL.COM	0301-8232483	NA	NA	NA	0 	Customer	12/31/1999
+1000000082	CHAUDHRY SHARIQ USAF	NA	0321-4770916	NA	NA	NA	1,738 	Customer	12/31/1999
+1000000083	DAR - HARIS	harisdar777@gmail.com	03224388301	NA	NA	NA	2,060 	Customer	12/31/1999
+1000000084	Iyaz  UL Haque	iyaz.haque@gmail.com	03008463338	NA	NA	NA	699 	Customer	12/31/1999
+1000000085	ali ahmed shuja	alishuja104@gmail.com	0321-5555104	NA	NA	NA	740 	Customer	12/31/1999
+1000000086	khan  kehkashan	NA	0345-4949925	NA	NA	NA	3,413 	Customer	12/31/1999
+1000000087	chishti ahmad irfan	NA	03329797723	NA	NA	NA	0 	Customer	12/31/1999
+1000000088	touseel  muhammad	NA	03217666665	NA	NA	NA	0 	Customer	12/31/1999
+1000000089	aslam  danish	NA	03224444123	NA	NA	NA	0 	Customer	12/31/1999
+1000000090	zahid  iraj	NA	03214266310	NA	NA	NA	1,248 	Customer	12/31/1999
+1000000091	khan  asif	NA	03378900291	NA	NA	NA	800 	Customer	12/31/1999
+1000000092	salman  aliya	NA	03238093937	NA	NA	NA	0 	Customer	12/31/1999
+1000000093	rehman  talha	NA	03454809482	NA	NA	NA	0 	Customer	12/31/1999
+1000000094	person m shawna	shawnapersone@fccolageedu.pk	03454051718	NA	NA	NA	980 	Customer	12/31/1999
+1000000095	Ibrahim  Muhammad	ibrahim646@hotmail.com	03217526467	NA	NA	NA	0 	Customer	12/31/1999
+1000000096	Irfan - Hira	hirafan990Gmail.com	03444358006	NA	NA	NA	1,317 	Customer	12/31/1999
+1000000097	Irfan - Ahmed	NA	NA	03334699769	NA	NA	0 	Customer	12/31/1999
+1000000098	Virk - Ghalib	ghalibchilli@hotmail.com	0300858585	NA	NA	NA	780 	Customer	12/31/1999
+1000000099	Moheed - Husnain	NA	03336568889	NA	NA	NA	785 	Customer	12/31/1999
+1000000100	Khan nawaz Muhamamd	NA	03008500919	03360007764	NA	NA	0 	Customer	12/31/1999
+1000000101	Nasma Mazri -	NA	03067640000	NA	NA	NA	0 	Customer	12/31/1999
+1000000102	Ahmed - Jawad	NA	NA	03204780032	NA	NA	1,950 	Customer	12/31/1999
+1000000103	Ateeq - Kashif	kashif_ateeq@hotmail.com	03224840762	NA	NA	NA	0 	Customer	12/31/1999
+1000000104	Khan Mir Daniyal	NA	NA	0321445060	NA	NA	0 	Customer	12/31/1999
+1000000105	Jabbar - Umer	NA	0322222219	NA	NA	NA	0 	Customer	12/31/1999
+1000000106	Taha - Muhammad	NA	03218025888	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000107	Khan - Umer	NA	03227227224	03229999918	NA	NA	1,299 	Customer	12/31/1999
+1000000108	butt kamran liza	liza-kamran@yahoo.com	03009426187	03008647207	NA	NA	310 	Customer	12/31/1999
+1000000109	butt kamran aniq	aniq-	NA	0315-4981075	NA	NA	0 	Customer	12/31/1999
+1000000110	nadeem - anees	aahoooo@hotmail.com	0322-2227794	NA	NA	NA	358 	Customer	12/31/1999
+1000000111	sabri - sabahat	sabahat.sabri82@gmail.com	0300-4809039	0300-4440135	NA	NA	1,030 	Customer	12/31/1999
+1000000112	Syed - Gillani	hamza.gillaini@gmail.com	03214663240	NA	NA	NA	966 	Customer	12/31/1999
+1000000113	- Ali Ahmed	ahmed-ai901@yahoo.com	NA	03244134448	NA	NA	250 	Customer	12/31/1999
+1000000114	hassian - Afrin	NA	NA	03008448999	NA	NA	1,420 	Customer	12/31/1999
+1000000115	Khan Ali haris	khanpeople88@hotmail.com	03222033330	NA	NA	NA	1,633 	Customer	12/31/1999
+1000000116	Khan latif usman	usman.khan@pakistan.com	03219498286	NA	NA	NA	0 	Customer	12/31/1999
+1000000117	basit - Fasih	NA	03004000008	NA	NA	NA	880 	Customer	12/31/1999
+1000000118	Mian Hamid  Rahma	NA	03004455666	NA	NA	NA	1,107 	Customer	12/31/1999
+1000000119	Toor Rahim Abdur	rahimtoor@gmail.com	03334060792	NA	NA	NA	2,928 	Customer	12/31/1999
+1000000120	Shahed - Rameez	NA	03106222880	03234736891	NA	NA	0 	Customer	12/31/1999
+1000000121	Khan - Maryam	NA	03214708081	NA	NA	NA	0 	Customer	12/31/1999
+1000000122	Slaman Younus -	NA	03218402662	NA	NA	NA	2,390 	Customer	12/31/1999
+1000000123	Asad Rehman Raza	NA	03455071513	NA	NA	NA	0 	Customer	12/31/1999
+1000000124	naeem - Younus	NA	03333899222	NA	NA	NA	1,438 	Customer	12/31/1999
+1000000125	Ali Sair Muhammad	sairali79@hotmail.com	03214263006	03214263003	NA	NA	980 	Customer	12/31/1999
+1000000126	Hussain - Arwa	NA	03344772284	NA	NA	NA	0 	Customer	12/31/1999
+1000000127	Shabbir malik zeeshan	NA	03214062316	03214062396	NA	NA	1,074 	Customer	12/31/1999
+1000000128	mahreen - -	NA	03244929098	03224277622	NA	NA	2,459 	Customer	12/31/1999
+1000000129	Wajid - Junaid	NA	03233344441	NA	NA	NA	0 	Customer	12/31/1999
+1000000130	  chadhary	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000131	husnain  ali	NA	03457507501	NA	NA	NA	0 	Customer	12/31/1999
+1000000132	butt mahmood kamran	NA	03008647207	NA	NA	NA	0 	Customer	12/31/1999
+1000000133	butt  muhammad	NA	03237055670	NA	NA	NA	980 	Customer	12/31/1999
+1000000134	saeed  nimra	NA	03224442992	NA	NA	NA	0 	Customer	12/31/1999
+1000000135	bhatti nawaz hamid	NA	03134400885	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000136	khan aamer faraz	farazaamer@gmail.com	0322-2458191	NA	NA	NA	0 	Customer	12/31/1999
+1000000137	baig - usama	baig-locked-loaded@hotmail.com	0323-4665656	NA	NA	NA	939 	Customer	12/31/1999
+1000000138	arshad - haroon	haroonarshad@me.com	NA	NA	NA	NA	1,280 	Customer	12/31/1999
+1000000139	CHAUDRY AHMAD ALI	aliahmadchaudhry@gmail.com	0320-4996966	NA	NA	NA	0 	Customer	12/31/1999
+1000000140	samad abdul hafiz	hafizabdulsamad@gmail.com	0345-8443326	NA	NA	NA	0 	Customer	12/31/1999
+1000000141	yousaf - saad	NA	0321-8800071	NA	NA	NA	447 	Customer	12/31/1999
+1000000142	mohsin - hassan	rimi-87@hotmail.com	0321-4428969	NA	NA	NA	980 	Customer	12/31/1999
+1000000143	ul-mulk - shazil	NA	0321-8432919	NA	NA	NA	716 	Customer	12/31/1999
+1000000144	- ahmad nuheel	nuheelkeh@gmail.com	0345-9990903	0300-8443110	NA	NA	495 	Customer	12/31/1999
+1000000145	TAWAB - IBRAHIM	ibrahimktawab@hotmail.com	0321-2425609	NA	NA	NA	909 	Customer	12/31/1999
+1000000146	anwar umar shekh	sinsar-7@live.com	NA	NA	NA	NA	25,000 	Customer	12/31/1999
+1000000147	WAQAS - IQRA	iqra-raheel@yahoo.com	0321-8450098	0321-6247030	NA	NA	1,470 	Customer	12/31/1999
+1000000148	- MUSHTAQ UMAIR	oocacola12399@hotmail.com	0300-4082844	NA	NA	NA	830 	Customer	12/31/1999
+1000000149	QAISER - ZOHAIB	NA	0302-8400280	NA	NA	NA	799 	Customer	12/31/1999
+1000000150	FEROZ - ASAD	NA	0300-0803070	NA	NA	NA	2,500 	Customer	12/31/1999
+1000000151	HASHMI FARHAN SYED	FARY959@HOTMAIL.COM	0333-3866665	NA	NA	NA	1,140 	Customer	12/31/1999
+1000000152	AZHAR - AHMAD	16100205@LUMS.EDU.PK	0323-8831094	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000153	SAEED - JANNAT	JANNATSAEED98@GMAIL.COM	NA	0300-8420424	NA	NA	1,557 	Customer	12/31/1999
+1000000154	CHAUDHRY - NARMEEN	NARMEEN.CHAUDRY@HOTMAIL.COM	0321-4578577	NA	NA	NA	1,595 	Customer	12/31/1999
+1000000155	DIN - FAISAL	FAISAL.DIN@GMAIL.COM	0323-4909001	NA	NA	NA	1,549 	Customer	12/31/1999
+1000000156	PALWISHA KHAN TAREEN	PALTAREEN@HOTMAIL.COM	0321-8176559	NA	NA	NA	0 	Customer	12/31/1999
+1000000157	TOFIQUE - AIMEN	aimeen.tofique@hotmail.com	0336-4104188	NA	NA	NA	908 	Customer	12/31/1999
+1000000158	TARIQ - HAMD	NA	0321-3333306	NA	NA	NA	0 	Customer	12/31/1999
+1000000159	SITARA HAMD -	SITARA-HAMD@HOTMAIL.COM	0321-8888983	NA	NA	NA	2,250 	Customer	12/31/1999
+1000000160	SAIGOL - NOORIYA	NA	NA	NA	NA	NA	2,857 	Customer	12/31/1999
+1000000161	KHAN - UMAR	UMIRKHAN24@GMAIL.COM	0300-4547046	NA	NA	NA	500 	Customer	12/31/1999
+1000000162	CHAUDHRY SHAVAIZ YOUSAF	CHWAYS@HOTMAIL.COM	0300-8489191	NA	NA	NA	868 	Customer	12/31/1999
+1000000163	ZAIDI - MUHAMMAD	z.mm.14@gmail.com	03314929601	NA	NA	NA	0 	Customer	12/31/1999
+1000000164	shaid  syed hasan	hassan-shahid81@hotmail.com	0322-4241484	NA	NA	NA	0 	Customer	12/31/1999
+1000000165	GHUMAN SALEEM KASHIF	kashif-saleem-23@hotmail.com	0333-4426102	NA	NA	NA	500 	Customer	12/31/1999
+1000000166	MALIK - HAIDER	haidermalik-01@hotmail.com	0320-4484489	NA	NA	NA	0 	Customer	12/31/1999
+1000000167	ali  ana	NA	03214075757	NA	NA	NA	848 	Customer	12/31/1999
+1000000168	shakir  adil	NA	03218484584	NA	NA	NA	0 	Customer	12/31/1999
+1000000169	saqib  hasan	NA	03434445550	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000170	shabbir  azizah	NA	03006184110	NA	NA	NA	0 	Customer	12/31/1999
+1000000171	hoti  haroon	NA	03362554358	NA	NA	NA	0 	Customer	12/31/1999
+1000000172	Rana - Rakshanada	NA	03213222214	NA	NA	NA	0 	Customer	12/31/1999
+1000000173	Arshad - Ammar	NA	03224488692	NA	NA	NA	0 	Customer	12/31/1999
+1000000174	ahmed - zain	zainahmed13@gmail.com	03414009709	NA	NA	NA	1,489 	Credit	12/31/1999
+1000000175	paracha moazzam saleha	NA	0322-4462693	0302-8488805	NA	NA	1,612 	Customer	12/31/1999
+1000000176	khuram hashim muhammad	hashimkhurram58@gmail.com	0323-4264793	NA	NA	NA	1,470 	Customer	12/31/1999
+1000000177	TOOR NAJEM FAROOQ	toor.farooq@gmail.com	0321-4432805	NA	NA	NA	980 	Customer	12/31/1999
+1000000178	Marble  Slab Creamery	NA	NA	NA	NA	NA	300,000 	Cash	12/31/1999
+1000000179	Humayun - Waseem	NA	03004440122	NA	NA	NA	0 	Customer	12/31/1999
+1000000180	Naeem Siraj -	NA	03008428506	NA	NA	NA	0 	Customer	12/31/1999
+1000000181	naseer Ali Miadad	NA	03008270708	NA	NA	NA	3,076 	Customer	12/31/1999
+1000000182	Hayat - Maham	NA	03316584444	03006692026	NA	NA	0 	Customer	12/31/1999
+1000000183	Ibrahim  - Asif	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000184	Muhammad Omer naseem	NA	03224704449	NA	NA	NA	1,946 	Customer	12/31/1999
+1000000185	farooq - aymen	NA	03004499279	NA	NA	NA	0 	Customer	12/31/1999
+1000000186	malik Iftikhar faisal	NA	03007999752	NA	NA	NA	0 	Customer	12/31/1999
+1000000187	Ali ur  Rehamn	NA	03204777632	NA	NA	NA	1,030 	Customer	12/31/1999
+1000000188	AMJAD ALI SAAD	NA	03008897743	NA	NA	NA	4,522 	Customer	12/31/1999
+1000000189	malik - Hamza	NA	03002516661	NA	NA	NA	0 	Customer	12/31/1999
+1000000190	amjad - bilal	bilal.amjad@xceltecs.com	03334674670	NA	NA	NA	980 	Customer	12/31/1999
+1000000191	shahzad  ashraf	shazad422@gmail.com	03007729422	NA	NA	NA	0 	Customer	12/31/1999
+1000000192	Tahir Hayat Yasir	NA	03215944128	NA	NA	NA	1,780 	Customer	12/31/1999
+1000000193	javaid umer Muhammad	abdsblpk@gmail.com	03214444997	NA	NA	NA	1,495 	Customer	12/31/1999
+1000000194	jibran - tahir	NA	03008453054	NA	NA	NA	598 	Customer	12/31/1999
+1000000195	iftikhar  saad	SAAD_GONDAL85@yahoo.com	03224444845	NA	NA	NA	798 	Customer	12/31/1999
+1000000196	TANVEER - MOHSIN	kmt125@gmail.com	0321-4409999	NA	NA	NA	0 	Customer	12/31/1999
+1000000197	RIAZ AWAIS MUHAMMAD	awaisriaz@live.com	0300-9683336	NA	NA	NA	1,706 	Customer	12/31/1999
+1000000198	NASEEM - ADIL	adilnasim@themediabri	0321-4762003	NA	NA	NA	0 	Customer	12/31/1999
+1000000199	BUTT SHAHID FAISAL	faisal794@hotmail.com	0321-9177776	NA	NA	NA	4,960 	Customer	12/31/1999
+1000000200	JAVED - FAHAD	fahadjaved333@live.com	0322-4694403	NA	NA	NA	358 	Customer	12/31/1999
+1000000201	anwar  raja	NA	03214449343	NA	NA	NA	1,049 	Customer	12/31/1999
+1000000202	luqman  haseeb	NA	03219460843	NA	NA	NA	573 	Customer	12/31/1999
+1000000203	SHEIKH HASSAN ATIF	NA	03004430725	NA	NA	NA	559 	Customer	12/31/1999
+1000000204	TANVEER AHSAN MUHAMMAD	NA	03008405118	NA	NA	NA	0 	Customer	12/31/1999
+1000000205	SALEH  JAHANZEB	NA	03004009700	NA	NA	NA	2,603 	Customer	12/31/1999
+1000000206	SHEIKH - OSMAN	osman.s@mobilink.net	0300-8422232	NA	NA	NA	500 	Customer	12/31/1999
+1000000207	ASGHAR - AMAAD	imaadas@hotmail.com	NA	NA	NA	NA	880 	Customer	12/31/1999
+1000000208	ELAHI SHAHZAD SHEIKH	s-elahi@yahoo.c0m	0300-8442390	NA	NA	NA	2,505 	Customer	12/31/1999
+1000000209	JAWAD - SHAZIA	ssb70@hotmail.com	0301-6826444	NA	NA	NA	1,250 	Customer	12/31/1999
+1000000210	zeeshan arshad -	grannitto@hotmail.com	0321-8856691	NA	NA	NA	1,356 	Customer	12/31/1999
+1000000211	SULTAN SIBGHAT ULLAH HOOR NAHL	nahlsibghat@gmail.com	0300-9425814	0322-9425814	NA	NA	1,250 	Customer	12/31/1999
+1000000212	HAKEEM MUJTABA AHMAD	ahmadhakeem1991@gmail.com	0323-8886956	NA	NA	NA	3,666 	Customer	12/31/1999
+1000000213	butt  umair	NA	03213697777	NA	NA	NA	0 	Customer	12/31/1999
+1000000214	ZAFFAR - DEEMA	deema-zee@hotmail.com	0321-7600067	NA	NA	NA	1,147 	Customer	12/31/1999
+1000000215	EUM RAC -- CHANG	katekatie859@gmail.com	0321-4711552	NA	NA	NA	1,106 	Customer	12/31/1999
+1000000216	ALAM - MUHAMMAD	babar.alam@zong.com.pk	0315-9536536	NA	NA	NA	495 	Customer	12/31/1999
+1000000217	ZAFAR - SHAHEEN	shaheenzfr@hotmail.com	0300-8467400	NA	NA	NA	2,395 	Customer	12/31/1999
+1000000218	ATA - RIZWAN	rizwanata@bankalfalah.com	0321-3592592	NA	NA	NA	1,348 	Customer	12/31/1999
+1000000219	BHATTI - FARHAN	pharhan@msn.com	0300-8481307	NA	NA	NA	7,231 	Customer	12/31/1999
+1000000220	BILAL - MUHAMMAD	bilal@chief.pk	0321-4505550	NA	NA	NA	575 	Customer	12/31/1999
+1000000221	JAVED MAJID KHAWAJA	kh-majid@yahoo.com	0300-8426608	0321-4046000	NA	NA	1,139 	Customer	12/31/1999
+1000000222	RIZVI - MASROOR	mahmad.rizvi@gmail.com	0335-4456604	NA	NA	NA	500 	Customer	12/31/1999
+1000000223	AKRAM - SARA	NA	0322-8454896	NA	NA	NA	490 	Customer	12/31/1999
+1000000224	AMIR - AKBAR	amirkhan78@hotmail.com	0300-8649090	NA	NA	NA	780 	Customer	12/31/1999
+1000000225	nasir - raza	raza@ayeshaspinning.com	0300-8455572	NA	NA	NA	1,480 	Customer	12/31/1999
+1000000226	SIBTAIN AJMAL SYED	mrsibtain@hotmail.com	NA	NA	NA	NA	2,446 	Customer	12/31/1999
+1000000227	CH - QASIM	QCH16@HOTMAIL.COM	0346-6000001	NA	NA	NA	399 	Customer	12/31/1999
+1000000228	BHATTS AHMED MUHAMMAD	ahmedbhatti@hotmail.com	0321-9405593	NA	NA	NA	980 	Customer	12/31/1999
+1000000229	ARIF ALI AGHA	agha2002@hotmail.com	0333-5400006	NA	NA	NA	0 	Customer	12/31/1999
+1000000230	AHMED NAVEED SYED	naveed217@yahoo.com	0302-5029620	NA	NA	NA	0 	Customer	12/31/1999
+1000000231	sh ejaz ahsan	ahsan.ejaz@yahoo.com	0321-4322330	NA	NA	NA	250 	Customer	12/31/1999
+1000000232	Ahmed Sohail Mian	NA	NA	NA	NA	NA	103,639 	Director	12/31/1999
+1000000233	Qureshi Jawad Muhammad	NA	NA	NA	NA	NA	102,134 	Director	12/31/1999
+1000000234	Sheikh  Akmal	NA	NA	NA	NA	NA	0 	Director	12/31/1999
+1000000235	Bukhari  Moaaz	NA	NA	NA	NA	NA	79,648 	Director	12/31/1999
+1000000236	Rehman  Fahad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000237	Mahnoor - Kiran	NA	03218346980	NA	NA	NA	800 	Customer	12/31/1999
+1000000238	din ud salahu	aws333333@gmail.com	03364051400	NA	NA	NA	390 	Customer	12/31/1999
+1000000239	arshad bilal muhammad	mbilalarshad786@hotmail.com	03314140650	NA	NA	NA	2,080 	Customer	12/31/1999
+1000000240	saqib  sana	sanasaqib@live.com	03218488228	NA	NA	NA	0 	Customer	12/31/1999
+1000000241	Butt Farooq Asad	NA	03444244807	NA	NA	NA	980 	Customer	12/31/1999
+1000000242	Kadiya Jalal -	NA	03214139512	NA	NA	NA	0 	Customer	12/31/1999
+1000000243	maqsood - Sarver	NA	0321889597	NA	NA	NA	640 	Customer	12/31/1999
+1000000244	Akbar - Walid	NA	03215895897	NA	NA	NA	0 	Customer	12/31/1999
+1000000245	sab salim muhammad	aps277@hotmail.com	03008490630	NA	NA	NA	0 	Customer	12/31/1999
+1000000246	shami  mohy-ud-din	mdshami@hotmail.com	03018446760	NA	NA	NA	0 	Customer	12/31/1999
+1000000247	ilyas  arsalan	irslanilyas@gloriajeanscoffees.com.pk	03338988887	NA	NA	NA	0 	Customer	12/31/1999
+1000000248	irfan  khadija	khadija_irfan15@hotmail.com	03444227777	NA	NA	NA	0 	Customer	12/31/1999
+1000000249	aftab  subhan	NA	0321469934	NA	NA	NA	0 	Customer	12/31/1999
+1000000250	khan masroof samira	NA	03214643247	NA	NA	NA	0 	Customer	12/31/1999
+1000000251	adil khan mustanser bahadara	NA	03214432432	03009480523	NA	NA	965 	Customer	12/31/1999
+1000000252	siddque  usman	USMAN@ECSEHSAN.COM	03218458881	NA	NA	NA	0 	Customer	12/31/1999
+1000000253	khalid  usman	usman.mirza@hotmail.com	03219411110	03228444650	NA	NA	0 	Customer	12/31/1999
+1000000254	khan m khurrm	NA	0300855335	NA	NA	NA	0 	Customer	12/31/1999
+1000000255	khalid  waqas	waqasle01@hotmail.com	03214066221	NA	NA	NA	0 	Customer	12/31/1999
+1000000256	khan huzaifa maila	lai.huzaifa@gmail.com	03002000676	NA	NA	NA	495 	Customer	12/31/1999
+1000000257	hussan tahir muhammad	NA	03214429674	NA	NA	NA	1,295 	Customer	12/31/1999
+1000000258	aslaam  noiman	ch-nomi@live.com	03233339603	NA	NA	NA	0 	Customer	12/31/1999
+1000000259	shahid  ammara	ammara_shahid_91@hotmail.com	03234493322	NA	NA	NA	390 	Customer	12/31/1999
+1000000260	dar  amsa	ansa_d@yahoo.co.uk	03219474205	NA	NA	NA	0 	Customer	12/31/1999
+1000000261	liaqat  fahad	fahad.liaqat91@hotmail.com	03218891136	NA	NA	NA	0 	Customer	12/31/1999
+1000000262	yahya  zubair	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000263	jamil  ahmed	ahmedjk@hotmail.com	03024434767	NA	NA	NA	0 	Customer	12/31/1999
+1000000264	iftikhar  hussain	NA	03008459400	NA	NA	NA	0 	Customer	12/31/1999
+1000000265	saeed salman sheikh	NA	03004405377	NA	NA	NA	0 	Customer	12/31/1999
+1000000266	farooqi tashfeen ahmed	tashfien@gmail.com	03214342540	NA	NA	NA	1,529 	Customer	12/31/1999
+1000000267	shahid naveed m	NA	03214045450	NA	NA	NA	0 	Customer	12/31/1999
+1000000268	Nabeel - Mr	mnabeel4488@hotmail.com	03214070700	03224886811	NA	NA	0 	Customer	12/31/1999
+1000000269	masood  aleem	NA	03084444140	NA	NA	NA	0 	Customer	12/31/1999
+1000000270	hanif  zara	NA	03139999931	NA	NA	NA	0 	Customer	12/31/1999
+1000000271	hassan eliya syeda	NA	03136577014	NA	NA	NA	0 	Customer	12/31/1999
+1000000272	RAFI  MINAHIL	NA	03234087377	NA	NA	NA	0 	Customer	12/31/1999
+1000000273	MAJID  WASAY	NA	NA	NA	NA	NA	559 	Customer	12/31/1999
+1000000274	qayyum  sajjad	sajjadqayyum@yahoo.com	03004161176	NA	NA	NA	1,448 	Customer	12/31/1999
+1000000275	rabi  fazley	fazleyrabi@hotmail.com	03214427657	NA	NA	NA	0 	Customer	12/31/1999
+1000000276	RANA SALEEM USMAN	usmansr@yahoo.com	0322-4030011	NA	NA	NA	1,800 	Customer	12/31/1999
+1000000277	JUNAID UZAIR MIAN	jellytheking@hotmail.com	0323-4013732	NA	NA	NA	500 	Customer	12/31/1999
+1000000278	awan ahmed mumtaz	mumtaz_awan786@hotmail.com	03008410863	NA	NA	NA	0 	Customer	12/31/1999
+1000000279	riaz muhammad mian	mianriaz63@hotmail.com	03218426760	NA	NA	NA	750 	Customer	12/31/1999
+1000000280	hasan  ramasha	hasan.ent@live.com	NA	NA	NA	NA	938 	Customer	12/31/1999
+1000000281	MASOOD  MAHSOOR	NA	03218471061	NA	NA	NA	0 	Customer	12/31/1999
+1000000282	Company Brands Western	NA	NA	NA	NA	NA	159,926 	Promo	12/31/1999
+1000000283	basharat  anaab	NA	NA	NA	NA	NA	475 	Customer	12/31/1999
+1000000284	naeem  iqra	NA	03354067231	NA	NA	NA	0 	Customer	12/31/1999
+1000000285	hussian  hundal	hundalhussain@live.com	03354542211	NA	NA	NA	0 	Customer	12/31/1999
+1000000286	yousaf  hazik	hazikyousaf@gmail.com	03228822883	NA	NA	NA	0 	Customer	12/31/1999
+1000000287	abaid  maria	mabaid71@gmail.com	03238882731	NA	NA	NA	0 	Customer	12/31/1999
+1000000288	 jahanzaib moiz	mi217@live.com	03215005666	NA	NA	NA	2,737 	Customer	12/31/1999
+1000000289	shoaib  fasiha	fasiha.shoaib36@hotmail.com	03218074262	NA	NA	NA	250 	Customer	12/31/1999
+1000000290	muhayudin  faizan	fayzanmohayudin412@gmail.com	03475029599	NA	NA	NA	1,869 	Customer	12/31/1999
+1000000291	najmi  umair	umairnajmi@live.co.uk	03004903642	03214288189	NA	NA	0 	Customer	12/31/1999
+1000000292	gul ammar shaikh	saad.ammar.bss@gmail.com	03201485837	NA	NA	NA	1,603 	Customer	12/31/1999
+1000000293	HUSSAIN - NADIA	nadiahussain328@gmail.com	0321-4027555	NA	NA	NA	6,114 	Customer	12/31/1999
+1000000294	mirza zia owais	owaisziamirza@gmail.com	03009433330	03208400064	NA	NA	490 	Customer	12/31/1999
+1000000295	Butt Naseer Minahil	NA	03238440101	NA	NA	NA	2,966 	Customer	12/31/1999
+1000000296	hayder ali zaman	hayderalizaman@gmail.com	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000297	hayder  sadia	sadiaali10@gmail.com	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000298	khan  atif	atif170@hotmail.com	03334673709	NA	NA	NA	0 	Customer	12/31/1999
+1000000299	butt zaheer khurram	baogeezaheer@yahoo.com	03004172704	NA	NA	NA	0 	Customer	12/31/1999
+1000000300	chauhdry  asim	prettyasim@hotmail.com	03214883025	03004612279	NA	NA	440 	Customer	12/31/1999
+1000000301	raza  hassan	hassanraza10@hotmail.com	03214222239	NA	NA	NA	2,450 	Customer	12/31/1999
+1000000302	sibbtain  muhammad	NA	03218616090	NA	NA	NA	0 	Customer	12/31/1999
+1000000303	Mustafa - Hussain	NA	03334240537	NA	NA	NA	1,587 	Customer	12/31/1999
+1000000304	rehmat sabir muhammad	NA	03348111133	NA	NA	NA	3,037 	Customer	12/31/1999
+1000000305	masood saleem mirza	letstt@icloud.com	03015186666	03008490111	NA	NA	1,447 	Customer	12/31/1999
+1000000306	zia  rehan	REHANZIA@HOTMAIL.COM	03224639812	NA	NA	NA	300 	Customer	12/31/1999
+1000000307	naqvi zain ul abidieen syed muhammad	naqvioski@gmail.com	03454127202	NA	NA	NA	300 	Customer	12/31/1999
+1000000308	din ud sami	sami@silverlighting.com	03334395141	NA	NA	NA	2,066 	Customer	12/31/1999
+1000000309	BHATTI YOUNAS IRFAN	info@mechanofurnture.com	0300-8441060	NA	NA	NA	1,879 	Customer	12/31/1999
+1000000310	butt kamran hashim	hashimbuttsahab@hotmail.com	03458461275	NA	NA	NA	750 	Customer	12/31/1999
+1000000311	 Ahmed Muhammad	NA	03124042430	NA	NA	NA	0 	Customer	12/31/1999
+1000000312	riaz  zaaid	zahid9889@gmail.com	03214449889	NA	NA	NA	1,997 	Customer	12/31/1999
+1000000313	HANIF SOBAN MUHAMMAD	sobanhanif@gmail.com	0300-9471417	0321-9471417	NA	NA	490 	Customer	12/31/1999
+1000000314	SHAHEEN - HUZAIRA	huzairashaheen@gmail.com	0321-4154000	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000315	malik  TOUSEEF	NA	03004295285	03214295285	NA	NA	0 	Customer	12/31/1999
+1000000316	NAZIA  GURAYA	NA	03249416659	NA	NA	NA	0 	Customer	12/31/1999
+1000000317	hassan taha muhammad	ghassan6777@gmail.com	03214461211	NA	NA	NA	810 	Customer	12/31/1999
+1000000318	fiaz  fatima	NA	03454008923	NA	NA	NA	0 	Customer	12/31/1999
+1000000319	tariq muhammad sheikh	NA	03363676151	NA	NA	NA	1,075 	Customer	12/31/1999
+1000000320	ahmed  zeeshan	NA	03213203333	NA	NA	NA	490 	Customer	12/31/1999
+1000000321	khalid  arslan	NA	03234342842	NA	NA	NA	0 	Customer	12/31/1999
+1000000322	imran  rozina	NA	03004814086	NA	NA	NA	500 	Customer	12/31/1999
+1000000323	chaudhry  nouman	nouman618@gmail.com	03236666619	NA	NA	NA	1,139 	Customer	12/31/1999
+1000000324	RAZA - AMNA	zxacky@gmail.com	0342-2770888	NA	NA	NA	2,578 	Customer	12/31/1999
+1000000325	khwaja  khurram	Brxcorb@hotmail.com	03008441450	NA	NA	NA	0 	Customer	12/31/1999
+1000000326	IJAZ ABUBAKAR MUHAMMAD	abubakarijaz@hotmail.com	0321-8864992	NA	NA	NA	0 	Customer	12/31/1999
+1000000327	TARIQ - UBAER	UBAER.TARIQ.MALIK@GMAIL.COM	0321-4222677	NA	NA	NA	0 	Customer	12/31/1999
+1000000328	CH - OMER	mochaudry@gmail.com	0342-8466262	NA	NA	NA	495 	Customer	12/31/1999
+1000000329	TARIQ  FAIZAN	Shfazain@hotmail.com	03216404000	NA	NA	NA	0 	Customer	12/31/1999
+1000000330	khan sabir aqba	cutieepriencess@gmail.com	03004466060	NA	NA	NA	4,259 	Customer	12/31/1999
+1000000331	khan  sania	perfect_click@hotmail.com	03216929749	NA	NA	NA	608 	Customer	12/31/1999
+1000000332	naseem  masood	afeefa-24@hotmail.com	03054065041	NA	NA	NA	1,230 	Customer	12/31/1999
+1000000333	shafique  taimur	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000334	khan nawaz faisal	sadiatelecom@gmail.com	03464222777	NA	NA	NA	0 	Customer	12/31/1999
+1000000335	chouhdry bilawal muhammad	bilawalhanif@yahoo.com	03434750757	NA	NA	NA	0 	Customer	12/31/1999
+1000000336	ZAKA AHMAD TAHA	TAHAZAKA@GMAIL.COM	NA	NA	NA	NA	980 	Customer	12/31/1999
+1000000337	Khawaja Abbas Ambreen	NA	03009400402	03008424550	NA	NA	1,596 	Customer	12/31/1999
+1000000338	Nayyar Subhani -	NA	NA	NA	NA	NA	3,850 	Customer	12/31/1999
+1000000339	ahmad  manzoor	emiratesauto@hotymail,com	NA	03009478953	NA	NA	0 	Customer	12/31/1999
+1000000340	tahir  moeed	moeed.tahir@gmail.com	03224455222	NA	NA	NA	0 	Customer	12/31/1999
+1000000341	MALIK WAHID OSMAN	osmanwmalik@gmail.com	0321-4008899	NA	NA	NA	2,839 	Customer	12/31/1999
+1000000342	AFZAL - AMMAR	ammars.afzal@gmail.com	0321-8498622	NA	NA	NA	2,660 	Customer	12/31/1999
+1000000343	 khtiaq bilal	NA	03214561234	NA	NA	NA	0 	Customer	12/31/1999
+1000000344	 zahid zubair	NA	03228070760	NA	NA	NA	0 	Customer	12/31/1999
+1000000345	- ZAHEER SHOAIB	shoaib.zaheer.s@gmail.com	0303-7775444	0300-8445873	NA	NA	1,227 	Customer	12/31/1999
+1000000346	TAMOOR AZEEM MUHAMMAD	azeem555@hotmail.com	0321-4802080	NA	NA	NA	0 	Customer	12/31/1999
+1000000347	MALIK BILAL MRS	kiranhaseen@hotmail.com	0300-8432156	NA	NA	NA	1,800 	Customer	12/31/1999
+1000000348	ZUBAIR - AUSAH	arifpervaiz@hotmail.com	0300-4382148	NA	NA	NA	0 	Customer	12/31/1999
+1000000349	Muhammad yasir Younas	NA	03004247729	NA	NA	NA	0 	Customer	12/31/1999
+1000000350	ghafoor basit abasit	NA	03324819942	NA	NA	NA	1,485 	Customer	12/31/1999
+1000000351	rana  omair	NA	03218488791	NA	NA	NA	0 	Customer	12/31/1999
+1000000352	fatima  noor	NA	03324114399	NA	NA	NA	0 	Customer	12/31/1999
+1000000353	HAq UL FAIZAN	ulhaqfazan@gmail.com	0307-3334020	NA	NA	NA	0 	Customer	12/31/1999
+1000000354	asim  hamza	hamzaasim@yahoo.com	03334541466	NA	NA	NA	3,885 	Customer	12/31/1999
+1000000355	hassan mustafa syed	chgulhassan@gmail.com	03214207543	NA	NA	NA	0 	Customer	12/31/1999
+1000000356	KHALID - HASSAN	hassankhurshid.ravia@gmail.com	0333-9994668	NA	NA	NA	0 	Customer	12/31/1999
+1000000357	KHALIL NAVEED FAIZAN	faizannaveed@live.com	0333-3358822	NA	NA	NA	0 	Customer	12/31/1999
+1000000358	JUNAID - RIMSHA	NA	0333-4257488	NA	NA	NA	0 	Customer	12/31/1999
+1000000359	Shariq  Shiekh	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000360	Ahmed Waleed Syed	NA	NA	NA	NA	NA	1,556 	Customer	12/31/1999
+1000000361	YASIR - ARHAM	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000362	naseem ahmad muhammad	ahmad.naseem3344@gmail.com	03344559480	NA	NA	NA	900 	Customer	12/31/1999
+1000000363	khan bano noor	NA	03004441540	NA	NA	NA	0 	Customer	12/31/1999
+1000000364	SAJJAD - KHURRAM	khurramsajjad234@hotmail.com	0344-0044130	NA	NA	NA	449 	Customer	12/31/1999
+1000000365	masud  ayrhan	NA	NA	03215955106	NA	NA	898 	Customer	12/31/1999
+1000000366	akhtar naeem muhammad	maeem.akhtarpendextery.pk	03334748082	NA	NA	NA	1,179 	Customer	12/31/1999
+1000000367	atif	attikhan@gmail.com	03134245147	NA	NA	NA	0 	Customer	12/31/1999
+1000000368	ali qaisar muhammad hafiz	qaisarali955@gmail.com	03234473591	03044663664	NA	NA	0 	Customer	12/31/1999
+1000000369	ali bin basit	basit@zivic.pk	03344556661	NA	NA	NA	550 	Customer	12/31/1999
+1000000370	munir  mohsin	mohsin_azri@ymail.com	03333011111	03214278667	NA	NA	0 	Customer	12/31/1999
+1000000371	rayyan m s	NA	03117018014	03363676151	NA	NA	825 	Customer	12/31/1999
+1000000372	AHNAD - ZAIN	zainkhanlana@gmail.com	0345-4107501	NA	NA	NA	1,865 	Customer	12/31/1999
+1000000373	Waheed - Mannan	NA	03214149449	NA	NA	NA	0 	Customer	12/31/1999
+1000000374	bajwa ashraf ahmu	ahmedbajwa@gmail.com	03324449585	NA	NA	NA	1,250 	Customer	12/31/1999
+1000000375	zahid  yousaf	yousafzahid@live.com	NA	NA	NA	NA	2,201 	Customer	12/31/1999
+1000000376	ahmed  ilyas	sins6564@yahoo.com	03247070698	NA	NA	NA	300 	Customer	12/31/1999
+1000000377	rizvi hassan sibt ul	xibtrixiv@gmail.com	NA	NA	NA	NA	300 	Customer	12/31/1999
+1000000378	iftikhar noman muhammad	nomaniftikhar@gmail.com	03346286262	NA	NA	NA	1,020 	Customer	12/31/1999
+1000000379	ahmad  hassan	hassanahmad1992@hotmail.com	03316179172	NA	NA	NA	299 	Customer	12/31/1999
+1000000380	Rashid  Azfar	NA	NA	NA	NA	NA	1,495 	Customer	12/31/1999
+1000000381	kayani  taimoor	NA	03226943315	NA	NA	NA	0 	Customer	12/31/1999
+1000000382	nasar  uzair	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000383	KHUSHNOOD  YASMEEN	beenhina1983@yahoo.com	03074749958	NA	NA	NA	0 	Customer	12/31/1999
+1000000384	Qadir Daud Muhammad	NA	03004894895	NA	NA	NA	0 	Customer	12/31/1999
+1000000385	najam Khan fary	NA	03234575838	NA	NA	NA	0 	Customer	12/31/1999
+1000000386	sani  imad	imadsani@gmail.com	03144771666	NA	NA	NA	0 	Customer	12/31/1999
+1000000387	Athar - Ambreen	NA	03454026677	NA	NA	NA	0 	Customer	12/31/1999
+1000000388	ahad  zainab	aquareankaram@hotmail.com	NA	NA	NA	NA	3,417 	Customer	12/31/1999
+1000000389	sahzad moon khurram	rajasharoonalibaig@gmail.com	03235910138	03219965116	NA	NA	0 	Customer	12/31/1999
+1000000390	haroon  shahid	shaidtoosy@yahoo.com	03008431874	NA	NA	NA	0 	Customer	12/31/1999
+1000000391	umaar  haleema	NA	03008450060	NA	NA	NA	0 	Customer	12/31/1999
+1000000392	khan  awais	anniawais2hotmail.com	03217266725	NA	NA	NA	0 	Customer	12/31/1999
+1000000393	elavi  zubair	zusaieelavi@yahoo.com	03214012900	NA	NA	NA	0 	Customer	12/31/1999
+1000000394	habib  haris	haaris_habib@hotmail.com	03234140069	NA	NA	NA	0 	Customer	12/31/1999
+1000000395	fatima  aresha	areesha867@hotmail.com	03068888801	03024626666	NA	NA	1,795 	Customer	12/31/1999
+1000000396	bhatti bin absar ayzed	NA	NA	NA	NA	NA	1,560 	Customer	12/31/1999
+1000000397	poonawala  qanit	poonawala789@hotmail.com	03331448853	03312827390	NA	NA	0 	Customer	12/31/1999
+1000000398	mahmood  naiha	naiha.mahmood@hotmail.com	03325566242	NA	NA	NA	0 	Customer	12/31/1999
+1000000399	arif  irfan	NA	03018559000	NA	NA	NA	0 	Customer	12/31/1999
+1000000400	malik  umer	NA	03008400097	NA	NA	NA	0 	Customer	12/31/1999
+1000000401	inaaya  zia	NA	03008484850	NA	NA	NA	0 	Customer	12/31/1999
+1000000402	sana  maham	NA	03234649957	NA	NA	NA	0 	Customer	12/31/1999
+1000000403	main  atique	NA	03334864639	NA	NA	NA	0 	Customer	12/31/1999
+1000000404	Theresa Rosales Chew	NA	03009443373	NA	NA	NA	0 	Customer	12/31/1999
+1000000405	Rasool - Saad	NA	03006388030	NA	NA	NA	0 	Customer	12/31/1999
+1000000406	julie estuaina delatorne	NA	03104722892	NA	NA	NA	0 	Customer	12/31/1999
+1000000407	tariq shaikh halima	NA	03218442373	NA	NA	NA	0 	Customer	12/31/1999
+1000000408	Atta - Ali	NA	NA	0320438100	NA	NA	689 	Customer	12/31/1999
+1000000409	behram - raja Faran	NA	034584444204	NA	NA	NA	0 	Customer	12/31/1999
+1000000410	Iqbal - Hammad	NA	03214240236	NA	NA	NA	0 	Customer	12/31/1999
+1000000411	Akhtar - Mariam	NA	03334779764	NA	NA	NA	0 	Customer	12/31/1999
+1000000412	bhatti  iram	NA	03324598865	NA	NA	NA	0 	Customer	12/31/1999
+1000000413	Jabbar  Tazeem	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000414	javed  omer	NA	03454760720	NA	NA	NA	390 	Customer	12/31/1999
+1000000415	ain ul qatat	NA	03224414447	NA	NA	NA	0 	Customer	12/31/1999
+1000000416	atif  saeed	saeed_soomro@yahoo.com	03334555721	NA	NA	NA	0 	Customer	12/31/1999
+1000000417	mansoor  imran	imshaikh@gmail.com	03218498433	NA	NA	NA	850 	Customer	12/31/1999
+1000000418	muhammad musa chohdary	NA	03200446003	NA	NA	NA	0 	Customer	12/31/1999
+1000000419	phool malany khan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000420	javed  daniyal	danyaljaved@hotmail.com	03371450942	NA	NA	NA	0 	Customer	12/31/1999
+1000000421	malila asif seep	seepasifmalik@gmail.com	03208887444	NA	NA	NA	0 	Customer	12/31/1999
+1000000422	malih asif musa	NA	03208880444	03226066666	NA	NA	0 	Customer	12/31/1999
+1000000423	khalid bakar mirza	mirza.bilal@hotmail.com	03008622244	NA	NA	NA	0 	Customer	12/31/1999
+1000000424	khan  mahelaqa	malhliqa@yahoo.com	03008404903	NA	NA	NA	0 	Customer	12/31/1999
+1000000425	najeeb furqan muhammad	NA	03219766596	NA	NA	NA	0 	Customer	12/31/1999
+1000000426	annm shankat alslana	NA	0321406770	NA	NA	NA	0 	Customer	12/31/1999
+1000000427	muhammad  imtiaz chouhdry	IMTIAZCHOHDURY@gmail.com	03009404260	NA	NA	NA	0 	Customer	12/31/1999
+1000000428	rehan  amina	amina.rehan117@gmail.com	03008445420	03009476536	NA	NA	0 	Customer	12/31/1999
+1000000429	akhtar anas sheikh	anasve@hotmail.com	03238484488	NA	NA	NA	0 	Customer	12/31/1999
+1000000430	KHALID HASSAN SH	hasan-travels@hotmail.com	0324-4266294	NA	NA	NA	0 	Customer	12/31/1999
+1000000431	AQUIB ARIF -	aaquib14@gmail.com	0345-2232023	NA	NA	NA	0 	Customer	12/31/1999
+1000000432	ABDUL HAADI -	qhaadi02@gmail.com	0336-2265900	NA	NA	NA	0 	Customer	12/31/1999
+1000000433	EBRAHIM ABDUL SAMAD	aaquib-14@hotmail.com	0313-2203423	NA	NA	NA	0 	Customer	12/31/1999
+1000000434	Shahiq  Amna	NA	03334414145	NA	NA	NA	0 	Customer	12/31/1999
+1000000435	wauaj  Muhammad	NA	03314465512	NA	NA	NA	0 	Customer	12/31/1999
+1000000436	ahmad muhammad syed	NA	03454787668	03214540553	NA	NA	0 	Customer	12/31/1999
+1000000437	khan ahmed bilal	doctorbilal@gmail.com	03008449967	NA	NA	NA	0 	Customer	12/31/1999
+1000000438	saddiqui  fahad	fahad.siddiqui@fatima-group.com	0345-4624887	NA	NA	NA	0 	Customer	12/31/1999
+1000000439	BURKI - USMAN	usmanburki@hotmail.com	0300-9429915	NA	NA	NA	1,380 	Customer	12/31/1999
+1000000440	nasrullah  -	NA	03004525531	NA	NA	NA	0 	Customer	12/31/1999
+1000000441	nadeem  hamza	hamza.nadeem1996@yahoo.com	03122224488	03018404422	NA	NA	0 	Customer	12/31/1999
+1000000442	nadeem  san	sana.nadeem@hotmail.com	03009472211	NA	NA	NA	0 	Customer	12/31/1999
+1000000443	AHMAD - MUTAHIR	mutahira@gmail.com	0300-4012183	NA	NA	NA	0 	Customer	12/31/1999
+1000000444	khan  haroon	haroo.khan@gmail.com	03214555501	NA	NA	NA	0 	Customer	12/31/1999
+1000000445	masood  rushda	NA	03234276823	NA	NA	NA	0 	Customer	12/31/1999
+1000000446	murtaza qasim syed	NA	03004483865	NA	NA	NA	0 	Customer	12/31/1999
+1000000447	babar  Naushurwan	NA	03334653456	NA	NA	NA	817 	Customer	12/31/1999
+1000000448	MANZOOR  TABISH	NA	03004820761	NA	NA	NA	0 	Customer	12/31/1999
+1000000449	BOKHARI  KIRAN	NA	06674939	NA	NA	NA	0 	Customer	12/31/1999
+1000000450	gillane shoaib syed	NA	03234340009	NA	NA	NA	1,990 	Customer	12/31/1999
+1000000451	Arslan Asghar Muhammad	NA	NA	NA	NA	NA	299 	Customer	12/31/1999
+1000000452	Azhar  Rabia	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000453	shah asad syed	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000454	malik  maryam	NA	03244499222	NA	NA	NA	839 	Customer	12/31/1999
+1000000455	FAISAL - FATIMA	fatimafq@gmail.com	0300-8418868	NA	NA	NA	0 	Customer	12/31/1999
+1000000456	SALMAN - MEHREEN	liban1994@yahoo.com	0320-3299999	0321-2725555	NA	NA	875 	Customer	12/31/1999
+1000000457	FATIMA - TARIQ	fatima89902@hotmail.com	0321-8442373	NA	NA	NA	2,775 	Customer	12/31/1999
+1000000458	NAZIR TARIQ EMMAN	emman-55@live.com	0324-4155555	NA	NA	NA	0 	Customer	12/31/1999
+1000000459	JAMIL - HAROON	samyalon6@gmail.com	0321-6406777	NA	NA	NA	0 	Customer	12/31/1999
+1000000460	RAZA - ALI	rocky-beat@hotmail.com	0321-6406777	NA	NA	NA	0 	Customer	12/31/1999
+1000000461	MEER ALI NOSHEEN	ali.meer@hi.edu.pk	0321-8133222	NA	NA	NA	250 	Customer	12/31/1999
+1000000462	afzal sh harris	HARRISSHEIKH@ROCKETMAIL.COM	0322-4444156	NA	NA	NA	1,240 	Customer	12/31/1999
+1000000463	muhammad nadir khan	NA	03364852835	NA	NA	NA	549 	Customer	12/31/1999
+1000000464	haris mahmood faizi	NA	03314721030	NA	NA	NA	917 	Customer	12/31/1999
+1000000465	zubair  zunaira	NA	03224867097	NA	NA	NA	0 	Customer	12/31/1999
+1000000466	Afzal - Imrana	NA	03014228018	NA	NA	NA	930 	Customer	12/31/1999
+1000000467	Sheikh - Mohd Shahrukh	NA	03135742701	NA	NA	NA	820 	Customer	12/31/1999
+1000000468	Khan Asif Muhammad	NA	03217774888	NA	NA	NA	0 	Customer	12/31/1999
+1000000469	sheihk  bill	NA	NA	03007677167	NA	NA	0 	Customer	12/31/1999
+1000000470	Shoaib -- Muhammad	NA	03219402294	NA	NA	NA	0 	Customer	12/31/1999
+1000000471	Butt Asif Mohd	NA	NA	03248887770	NA	NA	830 	Customer	12/31/1999
+1000000472	Mushtaq Babar muhammad	NA	03217217610	NA	NA	NA	0 	Customer	12/31/1999
+1000000473	Rahman ur Obaid	NA	0321416655	NA	NA	NA	0 	Customer	12/31/1999
+1000000474	TIWANA  TIWANA	NA	NA	NA	NA	NA	640 	Customer	12/31/1999
+1000000475	 shahid faryal	NA	03008434883	NA	NA	NA	1,656 	Customer	12/31/1999
+1000000476	hasan  maryam	NA	03008455250	NA	NA	NA	0 	Customer	12/31/1999
+1000000477	irfan muhammad anas	NA	03216574418	NA	NA	NA	250 	Customer	12/31/1999
+1000000478	farooq  ammar	NA	03314836589	NA	NA	NA	0 	Customer	12/31/1999
+1000000479	tariq  mirza	NA	03006766306	NA	NA	NA	1,170 	Customer	12/31/1999
+1000000480	husain RIAZ SONIA	SONIAZHUSSAIA@GMAIL.COM	03217973583	NA	NA	NA	0 	Customer	12/31/1999
+1000000481	KHAN  ZARISH	NA	03228469692	NA	NA	NA	250 	Customer	12/31/1999
+1000000482	SHAHIL  AHUSEH	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000483	Tarar  Mahin	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000484	IDREES  UMAYAH	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000485	shahid  alizeh	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000486	CHEEMA AKRAM MAHNOOR	NA	03214818466	NA	NA	NA	0 	Customer	12/31/1999
+1000000487	fosooq ch aimen	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000488	salmabn  amna	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000489	khaiq  aminah	NA	NA	03004403400	NA	NA	0 	Customer	12/31/1999
+1000000490	asim  anusha	NA	NA	03228472113	NA	NA	0 	Customer	12/31/1999
+1000000491	 abbas ana	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000492	saroya habib hadia	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000493	waseem  faria	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000494	 abbas ana	NA	NA	NA	NA	NA	1,098 	Customer	12/31/1999
+1000000495	shahzd  aina	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000496	 abbas ana	NA	NA	NA	NA	NA	1,289 	Customer	12/31/1999
+1000000497	abbas  allaina	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000498	Adil  Ali	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000499	Kasif  Muhammad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000500	saad - -	NA	NA	NA	NA	NA	500 	Customer	12/31/1999
+1000000501	jahanzaib - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000502	asghar - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000503	aziz - mudasser	NA	NA	NA	NA	NA	390 	Customer	12/31/1999
+1000000504	butt kaleem taimoor	buttaimoor@gmail.com	0322-4176186	NA	NA	NA	0 	Customer	12/31/1999
+1000000505	kaplia  ahsan	NA	NA	03228485900	NA	NA	0 	Customer	12/31/1999
+1000000506	shahzad  dr. rabia	NA	NA	NA	NA	NA	807 	Customer	12/31/1999
+1000000507	syed  hassan	NA	NA	NA	NA	NA	495 	Customer	12/31/1999
+1000000508	Khan Ahsan mania	NA	NA	NA	NA	NA	490 	Customer	12/31/1999
+1000000509	mahmood zafer sana	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000510	qukeshi manzoor afraz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000511	sulaiman  rania	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000512	khan  mibad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000513	MALIK UMER -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000514	Ajmal - maha	NA	NA	03344467616	NA	NA	0 	Customer	12/31/1999
+1000000515	fawaz  mahad	NA	NA	03004373310	NA	NA	0 	Customer	12/31/1999
+1000000516	Cash Till 2	NA	NA	NA	NA	NA	0 	Cash	12/31/1999
+1000000517	ejaz  azhar	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000518	Sheikh Shahzad -	NA	03224155811-	NA	NA	NA	0 	Customer	12/31/1999
+1000000519	sheikh ibraheam tariq	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000520	hisham - mohammad	NA	0333-5111256	NA	NA	NA	0 	Customer	12/31/1999
+1000000521	shamas - muzamil	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000522	shujai - umair	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000523	Waseem - Mahnoor	NA	03344368446	03008451142	NA	NA	0 	Customer	12/31/1999
+1000000524	wattoo shehroze mohammad	shehrozewatoo@hotmail.com	0321-8488434	NA	NA	NA	0 	Customer	12/31/1999
+1000000525	rana tahir ahsan	NA	0300-4027656	NA	NA	NA	0 	Customer	12/31/1999
+1000000526	jaffer - ahmad	NA	0300-9406544	NA	NA	NA	2,030 	Customer	12/31/1999
+1000000527	amjad - zeeshan	dhannda@yahoo.com	0301-8405447	NA	NA	NA	0 	Customer	12/31/1999
+1000000528	ATHAR  MUHAMMAD	NA	03214499098	NA	NA	NA	0 	Customer	12/31/1999
+1000000529	TAFFEY  SYEOL	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000530	Hussain  Aamna	NA	03214706798	NA	NA	NA	0 	Customer	12/31/1999
+1000000531	saah ali husnain	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000532	yausaf lheikh -	NA	NA	NA	NA	NA	1,865 	Customer	12/31/1999
+1000000533	tariq kamal ahmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000534	ashir asfandyar -	asfandyar.96@hotmail.com	0322-8443939	NA	NA	NA	0 	Customer	12/31/1999
+1000000535	mitha abubakar omar	omar.mitha03@gmail.com	0300-8229524	NA	NA	NA	0 	Customer	12/31/1999
+1000000536	Mitha Abu bakr Mehreen	NA	03008229524	NA	NA	NA	0 	Customer	12/31/1999
+1000000537	mehreen - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000538	farukh - awais	NA	NA	NA	NA	NA	1,965 	Customer	12/31/1999
+1000000539	Faraz Masood -	farazmasood2hotmail.com	03004509945	NA	NA	NA	0 	Customer	12/31/1999
+1000000540	shazad  mohmmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000541	irshad  mehreen	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000542	hasnain - -	NA	NA	NA	NA	NA	1,230 	Customer	12/31/1999
+1000000543	 butt hina	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000544	 khan nadza	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000545	malik waseem amber	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000546	nawaz  zain	NA	NA	NA	NA	NA	4,796 	Customer	12/31/1999
+1000000547	javed  mohmmad	NA	NA	NA	NA	NA	1,050 	Customer	12/31/1999
+1000000548	karana  maryia	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000549	khan ullah asad	NA	NA	03331920192	NA	NA	0 	Customer	12/31/1999
+1000000550	mohmmad - yousaf	NA	NA	NA	NA	NA	1,396 	Customer	12/31/1999
+1000000551	Ikram  Uzair	NA	NA	NA	NA	NA	250 	Customer	12/31/1999
+1000000552	khan tariq	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000553	 bast abdul	NA	NA	NA	NA	NA	440 	Customer	12/31/1999
+1000000554	tarar zaman	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000555	cheema  talal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000556	chaudhary  muaaz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000557	ahmad  fasaz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000558	anjum  mamoona	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000559	asif  sidra	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000560	naqi  zaya	NA	NA	NA	NA	NA	1,243 	Customer	12/31/1999
+1000000561	miza  beenish	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000562	amtad imean -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000563	alvi aziz imarn	NA	NA	NA	NA	NA	1,058 	Customer	12/31/1999
+1000000564	Luqman - Qadeer	NA	03004432741	NA	NA	NA	0 	Customer	12/31/1999
+1000000565	bari  husain	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000566	butt ALI RAAINA	NA	NA	NA	NA	NA	250 	Customer	12/31/1999
+1000000567	mehood  hyra	NA	03314400409	NA	NA	NA	0 	Customer	12/31/1999
+1000000568	butt isar omer	NA	03006001000	NA	NA	NA	0 	Customer	12/31/1999
+1000000569	Usman - Bilal	NA	03008437985	NA	NA	NA	0 	Customer	12/31/1999
+1000000570	ali - rehan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000571	ahmad - -	NA	NA	NA	NA	NA	1,450 	Customer	12/31/1999
+1000000572	hasan sajjad ali	NA	03028474008	NA	NA	NA	1,295 	Customer	12/31/1999
+1000000573	RABANI - AURNGZAIB	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000574	Sayyid - yasir	NA	NA	034664433004	NA	NA	1,347 	Customer	12/31/1999
+1000000575	sajjad  priya	NA	03331461620	NA	NA	NA	0 	Customer	12/31/1999
+1000000576	shakeel - mehrosh	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000577	akbar  arslan	NA	NA	NA	NA	NA	560 	Customer	12/31/1999
+1000000578	iqbal - ahmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000579	saeed - kashif	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000580	AHMAD - WAQAR	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000581	aamir  omar	NA	03238886944	NA	NA	NA	0 	Customer	12/31/1999
+1000000582	- Iqbal Shoaib	NA	03004818334	NA	NA	NA	0 	Customer	12/31/1999
+1000000583	Bhati Imran fahad	NA	03214455234	NA	NA	NA	0 	Customer	12/31/1999
+1000000584	Shazil - -	NA	03216020637	NA	NA	NA	0 	Customer	12/31/1999
+1000000585	HAROON - -	NA	03214544101	NA	NA	NA	0 	Customer	12/31/1999
+1000000586	Meerum mehdi Raza	NA	03008499112	03014267199	NA	NA	0 	Customer	12/31/1999
+1000000587	Sharjeel Chaudry Rija	NA	03214057821	NA	NA	NA	0 	Customer	12/31/1999
+1000000588	Gilani Saleha Syeda	NA	03349779837-	NA	NA	NA	0 	Customer	12/31/1999
+1000000589	BAIG Akhtar Mirza	akhtarmira13@gmail.com	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000590	malik Zaib Jahan	NA	03238962277	NA	NA	NA	0 	Customer	12/31/1999
+1000000591	Syed Masood Ahmed	NA	03228199994	NA	NA	NA	0 	Customer	12/31/1999
+1000000592	Ahsan M Bilal	NA	03219444439	NA	NA	NA	0 	Customer	12/31/1999
+1000000593	Imtiaz Amber -	NA	03007336765	NA	NA	NA	2,060 	Customer	12/31/1999
+1000000594	ijaz ahmad -	NA	NA	NA	NA	NA	950 	Customer	12/31/1999
+1000000595	raja anwcv ali	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000596	xshah ali khawar	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000597	hafeez  minhil	NA	03245406777	NA	NA	NA	0 	Customer	12/31/1999
+1000000598	Zubair - Imran	NA	03338547896	NA	NA	NA	1,485 	Customer	12/31/1999
+1000000599	ejaz - waseem	NA	NA	NA	NA	NA	1,485 	Customer	12/31/1999
+1000000600	qazi aqil -	NA	NA	NA	NA	NA	560 	Customer	12/31/1999
+1000000601	adeel - mumtaz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000602	ahmad - assaq	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000603	bouhran - zatmar	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000604	iqbal - basit-	NA	NA	NA	NA	NA	875 	Customer	12/31/1999
+1000000605	shawnawaz - shumila	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000606	MARBLE SLAB CREAMERY	NA	NA	NA	NA	NA	0 	Cash	12/31/1999
+1000000607	nauman  shehla	NA	03214774742	NA	NA	NA	0 	Customer	12/31/1999
+1000000608	zaidi zia khadija	NA	03349681131	NA	NA	NA	0 	Customer	12/31/1999
+1000000609	khan - hassan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000610	ahmad - taimour	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000611	tanveer - bilal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000612	awan - mohmmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000613	aeln  anah	NA	NA	NA	NA	NA	449 	Customer	12/31/1999
+1000000614	mansoor  ABBUL	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000615	SHIRAZ  ZYNNIA	NA	NA	NA	NA	NA	754 	Customer	12/31/1999
+1000000616	UMER  ALI	NA	NA	NA	NA	NA	449 	Customer	12/31/1999
+1000000617	Sheikh Fazal Assad	NA	03008484282	NA	NA	NA	0 	Customer	12/31/1999
+1000000618	amer - umer	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000619	hussain - kashif	NA	NA	NA	NA	NA	1,960 	Customer	12/31/1999
+1000000620	taugeer - mahum	NA	NA	NA	NA	NA	1,229 	Customer	12/31/1999
+1000000621	KHAN - MOHMMAD	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000622	HAQVE - AYAZ	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000623	mehmood sajad talal	NA	NA	NA	NA	NA	1,260 	Customer	12/31/1999
+1000000624	tanveer  faran	NA	03454742164	NA	NA	NA	0 	Customer	12/31/1999
+1000000625	riaz  mehrunisa	NA	03244425511	NA	NA	NA	0 	Customer	12/31/1999
+1000000626	ali  imran	NA	03009239998	NA	NA	NA	598 	Customer	12/31/1999
+1000000627	azhar - jamal	NA	NA	NA	NA	NA	250 	Customer	12/31/1999
+1000000628	rana - usman	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000629	zeshan - ahmad	NA	NA	NA	NA	NA	1,920 	Customer	12/31/1999
+1000000630	altaf - mewish	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000631	Rabia  rabia	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000632	Afzal  Nida	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000633	fawaz shazia shazir	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000634	jabbar  nouman	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000635	nabeep  taiza	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000636	haris  rabir	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000637	nalik talik mahnoor	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000638	mehmood - khuram	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000639	beg - azam	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000640	rabi - faziy	NA	NA	NA	NA	NA	1,737 	Customer	12/31/1999
+1000000641	Khan Jan Jahanzaib	NA	03156011001	NA	NA	NA	0 	Customer	12/31/1999
+1000000642	Khalid - Zzroon	NA	03454112408	NA	NA	NA	0 	Customer	12/31/1999
+1000000643	Maeen - Waqas	NA	03219496196	NA	NA	NA	0 	Customer	12/31/1999
+1000000644	Khan Anees Asadullah	NA	03349779597	NA	NA	NA	0 	Customer	12/31/1999
+1000000645	Rafique - Atif	NA	03218459224	03218459224	NA	NA	0 	Customer	12/31/1999
+1000000646	waseem  madiha	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000647	shams - faisal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000648	 mb rana	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000649	haiden  aluya	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000650	dar asghar kiran	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000651	noom  sabook	NA	NA	NA	NA	NA	3,790 	Customer	12/31/1999
+1000000652	sharif - mohmmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000653	itrat - ausf	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000654	khan - amna	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000655	ali  alma	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000656	baig moazzam mashaal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000657	naeem - anas	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000658	irfan  nida	NA	03144090111	NA	NA	NA	0 	Customer	12/31/1999
+1000000659	rana  amara	NA	03314009311	NA	NA	NA	0 	Customer	12/31/1999
+1000000660	sohail  anum	NA	03354525550	NA	NA	NA	0 	Customer	12/31/1999
+1000000661	ain + anni	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000662	eusaf - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000663	hafeez - minahil	NA	03245406777	NA	NA	NA	0 	Customer	12/31/1999
+1000000664	chan - mohmmab	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000665	tanveer - iqbal	NA	NA	NA	NA	NA	1,640 	Customer	12/31/1999
+1000000666	wajeeha ali -	hanuwad@gmail.com	03138137133	NA	NA	NA	1,960 	Customer	12/31/1999
+1000000667	asad - aslam	NA	NA	NA	NA	NA	1,293 	Customer	12/31/1999
+1000000668	 hasan - zainul	NA	NA	NA	NA	NA	2,500 	Customer	12/31/1999
+1000000669	riaz - khawja	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000670	liaqat - numair	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000671	abdullah - mohmmad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000672	saad - ahmad	NA	NA	03008448463	NA	NA	2,289 	Customer	12/31/1999
+1000000673	malik - imran	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000674	haider- - ijlal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000675	sahil bin abdullah	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000676	qurshi - anwar	NA	NA	NA	NA	NA	780 	Customer	12/31/1999
+1000000677	iobrahem - haris	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000678	arshad  aasma	NA	03004712221	NA	NA	NA	500 	Customer	12/31/1999
+1000000679	peracha  feriha	NA	03004448691	NA	NA	NA	1,447 	Customer	12/31/1999
+1000000680	kausar  samina	NA	03228000331	NA	NA	NA	250 	Customer	12/31/1999
+1000000681	omar  mahnum	NA	03008492505	NA	NA	NA	0 	Customer	12/31/1999
+1000000682	bhatti - mian azam	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000683	irshad - asad	NA	NA	NA	NA	NA	2,490 	Customer	12/31/1999
+1000000684	mubisher - imran	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000685	ahtisham - malik	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000686	asad - rehman	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000687	Rashid - Zubair	NA	03224001939	03334224990	NA	NA	0 	Customer	12/31/1999
+1000000688	tarar - ambreen	NA	NA	03005810666	NA	NA	2,850 	Customer	12/31/1999
+1000000689	bashir - bilal	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000690	aballah  saeed	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000691	waheed - anam	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000692	mughal - aleena	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000693	zac osama ali	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000694	saeel m kamar	NA	NA	NA	NA	NA	500 	Customer	12/31/1999
+1000000695	hassan - syed	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000696	azulfqar - noumanz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000697	majeed - hamza	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000698	SHOAIB - M FAWAD	NA	NA	03218480810	NA	NA	0 	Customer	12/31/1999
+1000000699	ALI - ASIM	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000700	ali basin syed	NA	03234270832	NA	NA	NA	495 	Customer	12/31/1999
+1000000701	shoaib  adnan	NA	03008484698	NA	NA	NA	0 	Customer	12/31/1999
+1000000702	redwan  arham	NA	NA	NA	NA	NA	1,554 	Customer	12/31/1999
+1000000703	monad -mahmoo sudfj	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000704	naser - munwaer	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000705	Mujtaba - Ali	NA	03	NA	NA	NA	0 	Customer	12/31/1999
+1000000706	khan - salaar	NA	03330443344	NA	NA	NA	0 	Customer	12/31/1999
+1000000707	ajmal - umair	NA	NA	NA	NA	NA	2,248 	Customer	12/31/1999
+1000000708	jamshaid - afzal	NA	NA	NA	NA	NA	500 	Customer	12/31/1999
+1000000709	barq ALI HAIDER	NA	NA	NA	NA	NA	995 	Customer	12/31/1999
+1000000710	WAHEED  AHMAD	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000711	ABBS  AHMED	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000712	KHAN  MUAZ	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000713	toor aftab muhamad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000714	chaudhara  muaaz	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000715	anees  amna	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000716	khan anees hiba	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000717	khan  kaim	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000718	asif  amna	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000719	aslam  nasik	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000720	khan  abu	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000721	zafar  tazib	NA	NA	NA	NA	NA	1,347 	Customer	12/31/1999
+1000000722	khakav shahid ramash	NA	NA	NA	NA	NA	1,439 	Customer	12/31/1999
+1000000723	augustin alayon lilybeht	NA	03238845557	NA	NA	NA	330 	Customer	12/31/1999
+1000000724	muazzam  ayesha	NA	03324511241	NA	NA	NA	500 	Customer	12/31/1999
+1000000725	malik  hamza	NA	03224310166	NA	NA	NA	0 	Customer	12/31/1999
+1000000726	tarar  hamza	NA	04299201430	NA	NA	NA	490 	Customer	12/31/1999
+1000000727	shauket  taha	NA	03224444222	NA	NA	NA	0 	Customer	12/31/1999
+1000000728	khan  abdullah	NA	03234391953	NA	NA	NA	0 	Customer	12/31/1999
+1000000729	asgher  m.wahab	NA	03361346595	NA	NA	NA	716 	Customer	12/31/1999
+1000000730	tariq  usama	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000731	syed riaz zoraiz	NA	03219980008	NA	NA	NA	399 	Customer	12/31/1999
+1000000732	ahmad  ali	NA	03412004455	NA	NA	NA	0 	Customer	12/31/1999
+1000000733	asghar  faisal	NA	03218464859	NA	NA	NA	560 	Customer	12/31/1999
+1000000734	asad  maryam	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000735	farhan  zainab	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000736	snuja  eman	NA	03237819900	NA	NA	NA	0 	Customer	12/31/1999
+1000000737	saeed  haris	NA	03444555126	NA	NA	NA	1,270 	Customer	12/31/1999
+1000000738	ahsan  neha	NA	04235830623	NA	NA	NA	0 	Customer	12/31/1999
+1000000739	wasim mian irfan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000740	jawaid  shehzad	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000741	sajid  sumaira	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000742	javed  ayesha	NA	03222227932	NA	NA	NA	500 	Customer	12/31/1999
+1000000743	Nighat Shafiq Nighat	NA	03008467844	NA	NA	NA	0 	Customer	12/31/1999
+1000000744	saqib  hashaam	NA	03006301666	NA	NA	NA	944 	Customer	12/31/1999
+1000000745	siddiq  faizan	NA	03454074662	NA	NA	NA	0 	Customer	12/31/1999
+1000000746	mushatq - Asim	NA	NA	03008430749	NA	NA	0 	Customer	12/31/1999
+1000000747	khawar  fahad	NA	03054036444	NA	NA	NA	0 	Customer	12/31/1999
+1000000748	ahmad  aslam	NA	03234220395	NA	NA	NA	1,329 	Customer	12/31/1999
+1000000749	abbasi  qasim	NA	03214946986	NA	NA	NA	1,179 	Customer	12/31/1999
+1000000750	amajd  salman	NA	03214457157	NA	NA	NA	1,700 	Customer	12/31/1999
+1000000751	baig  ayesha	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000752	 hasnat umer	NA	NA	NA	NA	NA	1,000 	Customer	12/31/1999
+1000000753	mujtaba  neha	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000754	abbasi  omair	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000755	riaz  junaid	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000756	farooq umer muhammad	NA	03344822900	NA	NA	NA	1,383 	Customer	12/31/1999
+1000000757	khan  zunria	NA	03334002999	NA	NA	NA	0 	Customer	12/31/1999
+1000000758	burhi  sarmad	NA	03224113568	NA	NA	NA	0 	Customer	12/31/1999
+1000000759	altamusia  baig	NA	03028488123	NA	NA	NA	0 	Customer	12/31/1999
+1000000760	usman  zeest	NA	03214447126	NA	NA	NA	0 	Customer	12/31/1999
+1000000761	mustaq  hassan	NA	03158418025	NA	NA	NA	476 	Customer	12/31/1999
+1000000762	anwar mohd mohsin	NA	03008408320	NA	NA	NA	4,008 	Customer	12/31/1999
+1000000763	tahir  jahanban	NA	03224970126	NA	NA	NA	0 	Customer	12/31/1999
+1000000764	khalid  waqas	NA	03228044448	NA	NA	NA	0 	Customer	12/31/1999
+1000000765	Joya Waqar suhaib	NA	NA	NA	NA	NA	3,000 	Customer	12/31/1999
+1000000766	kanwal  iram	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000767	zahid  taimur	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000768	dar muhammad waseem	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000769	rao amir mansur	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000770	aktar junaid syed	NA	03005703775	NA	NA	NA	1,250 	Customer	12/31/1999
+1000000771	irfan  sadia	NA	03034444742	NA	NA	NA	0 	Customer	12/31/1999
+1000000772	TARAH ZAMAN ASAD	NA	03217796595	NA	NA	NA	0 	Customer	12/31/1999
+1000000773	qadir abdul noman	NA	03008462624	NA	NA	NA	0 	Customer	12/31/1999
+1000000774	RAZA  KAYNAT	NA	03213754666	NA	NA	NA	0 	Customer	12/31/1999
+1000000775	Chaudry  Irfan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000776	butt  rayan	NA	0426660605	NA	NA	NA	250 	Customer	12/31/1999
+1000000777	shakoor jahaanjir hassan	NA	03225444015	NA	NA	NA	0 	Customer	12/31/1999
+1000000778	saqib daniyal muhammad	daniyalsaqib9@gmail.com	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000779	zia - ishaque	NA	NA	NA	NA	NA	500 	Customer	12/31/1999
+1000000780	Jahanzaib  Alam -	NA	03034427574	NA	NA	NA	0 	Customer	12/31/1999
+1000000781	- Arsalan Muhammad	NA	03005421142	NA	NA	NA	0 	Customer	12/31/1999
+1000000782	rana shear khan	NA	NA	03316903838	NA	NA	0 	Customer	12/31/1999
+1000000783	saad - baig	madihamahmood92@gmail.com	NA	NA	NA	NA	918 	Customer	12/31/1999
+1000000784	imran  rabail	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000785	chouhan janhazaib ahmad	ahmed.chouhan@gmail.com	03457692939	03346643463	NA	NA	300 	Customer	12/31/1999
+1000000786	butt  rehan	rrehanbutt@gmail.com	03349941096	03212870009	NA	NA	300 	Customer	12/31/1999
+1000000787	hassan  hamad	NA	03122277747	NA	NA	NA	990 	Customer	12/31/1999
+1000000788	klhokhar murad ali	khokharalimurad@gmail.com	03006593161	NA	NA	NA	0 	Customer	12/31/1999
+1000000789	Khan - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000790	Irshad Usman -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000791	aRHAM - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000792	Munir - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000793	butt abbubakar daniyal	NA	03078886669	NA	NA	NA	1,278 	Customer	12/31/1999
+1000000794	amin - mehak	m3hak@live.com	NA	NA	NA	NA	798 	Customer	12/31/1999
+1000000795	chaudhry zaheer hamza	NA	NA	NA	NA	NA	1,220 	Customer	12/31/1999
+1000000796	khalid  mahnoor	NA	03007804446	NA	NA	NA	1,717 	Customer	12/31/1999
+1000000797	sajad nadeem waqas	NA	NA	NA	NA	NA	440 	Customer	12/31/1999
+1000000798	wasi  ghanni	NA	032158878487	NA	NA	NA	1,105 	Customer	12/31/1999
+1000000799	khaild - usman	NA	NA	NA	NA	NA	1,045 	Customer	12/31/1999
+1000000800	bodla hassan hamza	NA	03434545604	NA	NA	NA	750 	Customer	12/31/1999
+1000000801	gull khan basit ABDUAL	NA	03228479884	NA	NA	NA	390 	Customer	12/31/1999
+1000000802	ADEEL QUZIL SYEDA	NA	03314418324	NA	NA	NA	957 	Customer	12/31/1999
+1000000803	ataullah amani amani	NA	03214380747	NA	NA	NA	799 	Customer	12/31/1999
+1000000804	qasi ghafar amir	NA	03004004049	NA	NA	NA	0 	Customer	12/31/1999
+1000000805	safdar khan   rana	NA	03006707016	NA	NA	NA	2,500 	Customer	12/31/1999
+1000000806	aism  butt	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000807	raza  hasan	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000808	tufail  aqsa	NA	03008084270	NA	NA	NA	689 	Customer	12/31/1999
+1000000809	mehmood  haris	NA	03224750009	NA	NA	NA	1,070 	Customer	12/31/1999
+1000000810	qadi  nasir	NA	03334395011	NA	NA	NA	2,100 	Customer	12/31/1999
+1000000811	rabi - huda	rabihuda3@gmail.com	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000812	Hussan Sheikh -	NA	0321421333	NA	NA	NA	0 	Customer	12/31/1999
+1000000813	abid  ahmed sabeeh	NA	03314564574	NA	NA	NA	1,870 	Customer	12/31/1999
+1000000814	mian haseeb tahir	NA	0342888574	NA	NA	NA	500 	Customer	12/31/1999
+1000000815	khan  janhangir	NA	03218402784	NA	NA	NA	2,045 	Customer	12/31/1999
+1000000816	choudry  nabil	NA	03320555887	NA	NA	NA	1,013 	Customer	12/31/1999
+1000000817	rehan  humayu	NA	03008958080	NA	NA	NA	2,000 	Customer	12/31/1999
+1000000818	fatima  salena	03214976535	NA	03366038211	NA	NA	1,560 	Customer	12/31/1999
+1000000819	fraz ayesha Dr	NA	NA	NA	NA	NA	1,738 	Customer	12/31/1999
+1000000820	ahmad - mujtaba	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000821	hira - mobeen	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000822	shahid m chuadry	NA	03357070000	NA	NA	NA	1,030 	Customer	12/31/1999
+1000000823	raza  sakina	NA	03218443900	NA	NA	NA	560 	Customer	12/31/1999
+1000000824	shehzad  zeenat	NA	03218455689	NA	NA	NA	250 	Customer	12/31/1999
+1000000825	sufwan  usaman	NA	03133333999	NA	NA	NA	0 	Customer	12/31/1999
+1000000826	aslam  zeshan	NA	NA	0320841851	NA	NA	0 	Customer	12/31/1999
+1000000827	arslan ayub saigol	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000828	shabbir  zainab	NA	03214810593	NA	NA	NA	495 	Customer	12/31/1999
+1000000829	arshad majid khawaja	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000830	hassan ahmed agha	NA	03219644745	NA	NA	NA	0 	Customer	12/31/1999
+1000000831	haris  iqra	NA	NA	NA	NA	NA	250 	Customer	12/31/1999
+1000000832	afzal  ayesha	NA	03336189999	NA	NA	NA	817 	Customer	12/31/1999
+1000000833	hussain Zahid Muhammad	NA	NA	0321400325	NA	NA	0 	Customer	12/31/1999
+1000000834	khan ali taimour	NA	NA	NA	NA	NA	780 	Customer	12/31/1999
+1000000835	tahawar muhammad -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000836	sahi nawaz sadaf	NA	03368640006	NA	NA	NA	0 	Customer	12/31/1999
+1000000837	souban  nauman	NA	03214412395	NA	NA	NA	0 	Customer	12/31/1999
+1000000838	Arif javed -	NA	03018478479	NA	NA	NA	3,305 	Customer	12/31/1999
+1000000839	Sajid - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000840	Atteeq - -	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000841	usman  malaika	NA	NA	03015555124	NA	NA	0 	Customer	12/31/1999
+1000000842	aslam  usman	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000843	islam - hatim	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000844	SHAHBAZ - ALI	NA	03244433090	NA	NA	NA	0 	Customer	12/31/1999
+1000000845	MAQSOOD DANA AISHA	NA	03004262827	NA	NA	NA	0 	Customer	12/31/1999
+1000000846	malik  zaheer	NA	03213251000	NA	NA	NA	0 	Customer	12/31/1999
+1000000847	azhar  jamal	NA	03224997744	NA	NA	NA	550 	Customer	12/31/1999
+1000000848	allaudin  faizan	NA	03214899664	NA	NA	NA	390 	Customer	12/31/1999
+1000000849	Hasham Khan Naizi	NA	0305695553	NA	NA	NA	0 	Customer	12/31/1999
+1000000850	ahsan - shakir	NA	03008455383	NA	NA	NA	0 	Customer	12/31/1999
+1000000851	Anam Saleem -	NA	03215777728	NA	NA	NA	0 	Customer	12/31/1999
+1000000852	fARIHA  Saleem *-	NA	03214888882	NA	NA	NA	0 	Customer	12/31/1999
+1000000853	Noman   Ameen	NA	03004130215	NA	NA	NA	0 	Customer	12/31/1999
+1000000854	Najam Saleem -	NA	03334875619	NA	NA	NA	0 	Customer	12/31/1999
+1000000855	Moosa nadeem Siddique	NA	03223000705	NA	NA	NA	0 	Customer	12/31/1999
+1000000856	sultan  khuram	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000857	Arshad - -	NA	03218458119	NA	NA	NA	0 	Customer	12/31/1999
+1000000858	naveed  rabia	NA	NA	03009469256	NA	NA	980 	Customer	12/31/1999
+1000000859	ghani usman -	NA	0321455556	NA	NA	NA	0 	Customer	12/31/1999
+1000000860	talib  rubeet	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000861	zanaib  sarwar	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000862	talib - hassan	NA	03004001444	NA	NA	NA	1,497 	Customer	12/31/1999
+1000000863	Muhammad Adil -	NA	03462679007	NA	NA	NA	0 	Customer	12/31/1999
+1000000864	mir  rabia	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000865	azhar  ali	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000866	khuram  muneeb	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000867	Hareem Ali -	NA	03217777297	NA	NA	NA	0 	Customer	12/31/1999
+1000000868	fazal  muneeb	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000869	yasir - hafeez	NA	03004018317	NA	NA	NA	0 	Customer	12/31/1999
+1000000870	waleed - khawaja	NA	03004049999	NA	NA	NA	0 	Customer	12/31/1999
+1000000871	omer - syed	NA	03345324277	NA	NA	NA	0 	Customer	12/31/1999
+1000000872	akram - adill	NA	03314412178	NA	NA	NA	0 	Customer	12/31/1999
+1000000873	 osama khalid	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+1000000874	JAWAD  QURESHI	NA	0	NA	NA	NA	169,219 	Director	12/31/1999
+1000000875	Y A S	NA	03008448855	NA	NA	NA	50,885 	Director	12/31/1999
+1000000876	Bukhari  Moaaz	NA	0	NA	NA	NA	0 	Customer	12/31/1999
+1000000877	Muhammad Moaaz Bukhari	NA	03334415557	NA	NA	NA	179,135 	Director	12/31/1999
+1000000878	Sheikh Imdad Akmal	NA	0	NA	NA	NA	168,108 	Director	12/31/1999
+1000000879	Ahmed Sohail Mian	NA	0	NA	NA	NA	152,493 	Director	12/31/1999
+1000000880	Abbasi Masood Qasim	42qasim@gmail.com	0321-4946986	NA	NA	NA	0 	Customer	12/31/1999
+NA	 TAMOOR SB	NA	0334 9991333	NA	NA	NA	0 	Customer	12/31/1999
+NA	NA	NA	03008649319	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Bari Sb	NA	0301-8449182	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Hameed	NA	03004814945	NA	NA	NA	0 	Customer	12/31/1999
+NA	ABDUL HAMEED SB	NA	03334293274	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Majid	NA	03334449009	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Manan Sb	NA	03008689541	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Mutlib Sb	NA	03224405121	NA	NA	NA	0 	Customer	12/31/1999
+NA	ABDUL RAUF SB	NA	0300-8483212	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Razaq sb	NA	03008062324	NA	NA	NA	0 	Customer	12/31/1999
+NA	ABDUL SATTAR C/O ARCH SAAD	NA	0332-5448655	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Sattar Sb	NA	0321 8484017	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdul Wahid Qureshi Sb	NA	03312219109	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abdullah sb	NA	03334309964	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abrar Hadir Sb	NA	03224261642	NA	NA	NA	0 	Customer	12/31/1999
+NA	Abu Bakar Sb	NA	0322-4097777	NA	NA	NA	0 	Customer	12/31/1999
+NA	ADAN SB	NA	03008690546	NA	NA	NA	0 	Customer	12/31/1999
+NA	Adeel Akram	NA	03218458888	NA	NA	NA	0 	Customer	12/31/1999
+NA	Adil Sb	NA	0333 9400334	NA	NA	NA	0 	Customer	12/31/1999
+NA	Adil Sb	NA	03323114070	NA	NA	NA	0 	Customer	12/31/1999
+NA	ADIL SB.	NA	03214010000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Adnan Sb	NA	0322 4343444	NA	NA	NA	0 	Customer	12/31/1999
+NA	ADNAN SB C/O AMIR JAAN SB	NA	03008440805	NA	NA	NA	0 	Customer	12/31/1999
+NA	AFFAN SB	NA	03227277705	NA	NA	NA	0 	Customer	12/31/1999
+NA	Aftab Ahmad Malik	NA	03214397219	NA	NA	NA	0 	Customer	12/31/1999
+NA	AFTAB SB	NA	03004572578	NA	NA	NA	0 	Customer	12/31/1999
+NA	AFTAB Sb C/O AR HASSAN FAKHAR Sb	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Afzal Malak Sb	NA	0321-6172121	NA	NA	NA	0 	Customer	12/31/1999
+NA	Afzal Sb	NA	03218461120	NA	NA	NA	0 	Customer	12/31/1999
+NA	AHMAD MOBEEN Sb	NA	03228488747	NA	NA	NA	0 	Customer	12/31/1999
+NA	AHMAD Sb	NA	03214224868	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ahmed Malik Sb /O, Amir Jaan Sb	NA	0300-8491144	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ahmed Sadiq Sb	NA	0321-4156000	NA	NA	NA	0 	Customer	12/31/1999
+NA	AHMED-UL-ALLAH KHAN C/0 WASEEM SB	NA	0321-4006571	NA	NA	NA	0 	Customer	12/31/1999
+NA	AHSAN C/O MIAN HASSAN SB	NA	0307-4444234	NA	NA	NA	0 	Customer	12/31/1999
+NA	AHSAN SB.	NA	0322-4858431	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ahsan Zaki Sb	NA	03222222905	NA	NA	NA	0 	Customer	12/31/1999
+NA	Akber C/O Shoaib	NA	03004103566	NA	NA	NA	0 	Customer	12/31/1999
+NA	Akber Khan Sb	NA	0333-4410107	NA	NA	NA	0 	Customer	12/31/1999
+NA	AKHTAR SAB	NA	03364056665	NA	NA	NA	0 	Customer	12/31/1999
+NA	Akhtar Sb	NA	03332378347	NA	NA	NA	0 	Customer	12/31/1999
+NA	Akram Durani Sb	NA	03028276666	NA	NA	NA	0 	Customer	12/31/1999
+NA	Akram ul Haq Sb	NA	03334336197	NA	NA	NA	0 	Customer	12/31/1999
+NA	ALI ABBAS	NA	0321-4240194	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Amir	NA	03214380823	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Bokhari Sb	NA	03008577779	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Chaudhry Sb C/O Ahmad Hassan	NA	03232077786	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Haroon	NA	03214180787	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Khan Sb	NA	03004919191	NA	NA	NA	0 	Customer	12/31/1999
+NA	ALI NAWAZ Sb	NA	03018453500	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Sb	NA	03228441121	NA	NA	NA	0 	Customer	12/31/1999
+NA	ALI SB	NA	03008000018	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Sb	NA	03008441588	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ali Sb C/O Arc Rashid Sb	NA	03217144444	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMAR NASEEM SB	NA	03216000030	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amin Butt Sb	NA	03008478673	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amin Hamza	NA	03234796770	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIN SB	NA	0333-4278146	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR KHAN	NA	0300-4436100	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR KHAN Sb	NA	03004436100	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amir Sb	NA	03008468548	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amir Sb	NA	03218383886	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amir Sb	NA	03008468548	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amir Sb	NA	03154627770	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amir Sb	NA	03324356944	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR SB	NA	0333-4888777	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR Sb  443 N	NA	03008462007	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR SB GH	NA	0323-8402610	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR SB GH	NA	0323-8402610	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMIR SHOHAIL SB	NA	03008479933	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMJAD C/O ARCH SAAD	NA	0345-8441655	NA	NA	NA	0 	Customer	12/31/1999
+NA	Amjad Malik Sb	NA	0333 4362099	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMJAD Sb C/O SAAD	NA	03458441655-	NA	NA	NA	0 	Customer	12/31/1999
+NA	AMMAR AKRAM Sb	NA	03212373832	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ammer Hamza	NA	03214444543	NA	NA	NA	0 	Customer	12/31/1999
+NA	ANJUM SAEED SB	NA	0333-3436677	NA	NA	NA	0 	Customer	12/31/1999
+NA	Anjum Saeed Sb	NA	03333436677	NA	NA	NA	0 	Customer	12/31/1999
+NA	ansar butt sb	NA	0300-4320082	NA	NA	NA	0 	Customer	12/31/1999
+NA	ANSAR SB.	NA	0322-9428647	NA	NA	NA	0 	Customer	12/31/1999
+NA	Anwar Ali Sb	NA	0301-4003282	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar : Salman	NA	3008467868	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar Jiad Sb	NA	03230459705	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar Qasim Khalid	NA	03216000666	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar.Abu Bakar Sb	NA	03222446677	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar.Ayyaz Sb	NA	03218427035	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar.Kanwar Salman C/O Mian Nadeem	NA	03008467868	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ar.Mehmood 1119-L	NA	03004290509	NA	NA	NA	0 	Customer	12/31/1999
+NA	AR.Umair Ahmed Khan	NA	03214144150	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARCH HASSAN FAKHAR Sb	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARCH IMRAN TOOR SB	NA	0300-9417687	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARCH MAHMOOD SB	NA	0300-4290509	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARCH SARWAR SB	NA	0300-4017787	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARCH. KHALID FAROOQ	NA	03008493137	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARSHAD Sb	NA	03233337593	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARSHAD Sb	NA	0333-4265292	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARSHAD Sb	NA	03009424637	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARSHAD ZAMAN	NA	0300-8486295	NA	NA	NA	0 	Customer	12/31/1999
+NA	ARTC FAWAD NABI SB	NA	0321-4461260	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asad Raza	NA	03009425021	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asghar Islam Sb	NA	03214469755	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asghar Sb	NA	03224421214	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASHFAQ SB C/O AHMED SB	NA	03218800668	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ashraf Sb	NA	03433333233	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASIF BASHIR Sb	NA	03004335300	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asif Chishti Sb	NA	03009494504	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASIF SB	NA	03009440077	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASIF Sb	NA	03008448695	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASIF Sb C/O Faisal Rasool	NA	03224433003;	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asim Sb	NA	0321-4005911	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asim Sb	NA	0322 4122352	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asim Sb	NA	03084449938	NA	NA	NA	0 	Customer	12/31/1999
+NA	Asim Watto	NA	03244060196	NA	NA	NA	0 	Customer	12/31/1999
+NA	ASLAM BAJWA SB	NA	0302-8466100	NA	NA	NA	0 	Customer	12/31/1999
+NA	ATIF SB	NA	03008468296	NA	NA	NA	0 	Customer	12/31/1999
+NA	Atif Sb	NA	03214437710	NA	NA	NA	0 	Customer	12/31/1999
+NA	ATTA Sb	NA	03222037999	NA	NA	NA	0 	Customer	12/31/1999
+NA	Attique Ur Rehman Sb	NA	03004314821	NA	NA	NA	0 	Customer	12/31/1999
+NA	Awais Arch	NA	03214451586	NA	NA	NA	0 	Customer	12/31/1999
+NA	Awais Sb	NA	03084215912	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ayesha Malik	NA	0313-4397039	NA	NA	NA	0 	Customer	12/31/1999
+NA	AZAM MAHMOOD SB	NA	0300-8441591	NA	NA	NA	0 	Customer	12/31/1999
+NA	Azeem C/O Mian Nadeem	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	AZEEM SB	NA	03008482218	NA	NA	NA	0 	Customer	12/31/1999
+NA	Azhar Malik	NA	03324000990	NA	NA	NA	0 	Customer	12/31/1999
+NA	AZHAR SB	NA	03009323923	NA	NA	NA	0 	Customer	12/31/1999
+NA	AZHAR Sb	NA	03006334907	NA	NA	NA	0 	Customer	12/31/1999
+NA	AZIZ QURESHI Sb C/O ASIM BUTT Sb	NA	03334171594	NA	NA	NA	0 	Customer	12/31/1999
+NA	azmat baig	NA	0321-4555937	NA	NA	NA	0 	Customer	12/31/1999
+NA	Azmat Baig	NA	03004555937	NA	NA	NA	0 	Customer	12/31/1999
+NA	Azmat Sb	NA	0300 4479004	NA	NA	NA	0 	Customer	12/31/1999
+NA	Azmat Ullah Sb	NA	03004479004	NA	NA	NA	0 	Customer	12/31/1999
+NA	Babar Jhanghir Sb	NA	03218442494	NA	NA	NA	0 	Customer	12/31/1999
+NA	BABAR Sb	NA	03214223445	NA	NA	NA	0 	Customer	12/31/1999
+NA	Baig. Shahid Sb	NA	0333-5438490	NA	NA	NA	0 	Customer	12/31/1999
+NA	BARAN SB	NA	03218254600	NA	NA	NA	0 	Customer	12/31/1999
+NA	BASAT Sb C/O AR ADIL	NA	03337436580	NA	NA	NA	0 	Customer	12/31/1999
+NA	BASHIIR SB  C\O MIAN NADEEM SB	NA	0300-0600438	NA	NA	NA	0 	Customer	12/31/1999
+NA	BASHIR SB.	NA	0322-4858438	NA	NA	NA	0 	Customer	12/31/1999
+NA	Basit Khan Sb	NA	03219418797	NA	NA	NA	0 	Customer	12/31/1999
+NA	Bedar Bakht Sb	NA	03008886683	NA	NA	NA	0 	Customer	12/31/1999
+NA	BILAL	NA	0333-4649803	NA	NA	NA	0 	Customer	12/31/1999
+NA	BILAL AHMAD Sb	NA	03331490538	NA	NA	NA	0 	Customer	12/31/1999
+NA	Bilal Ahmed Sb	NA	03231484261	NA	NA	NA	0 	Customer	12/31/1999
+NA	Bilal Sb	NA	0321-4290977	NA	NA	NA	0 	Customer	12/31/1999
+NA	Bilal Sb	NA	03234122871	NA	NA	NA	0 	Customer	12/31/1999
+NA	Bilal Sb C/O Ar Attiq Ur Rahman	NA	03224449449	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRG.TAHIR SB	NA	0321-8466970	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRIG ALAMZAB	NA	03214186239	NA	NA	NA	0 	Customer	12/31/1999
+NA	Brig Anjum Arshad	NA	03216364222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Brig Anjum Irshad	NA	03216364222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Brig Aslal	NA	03215176240	NA	NA	NA	0 	Customer	12/31/1999
+NA	Brig Bajwa C/O Imran SB	NA	03236211111	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRIG ISAR HUSSAIN SB	NA	0310-4551240	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRIG RAHEEL ASHRAF Sb	NA	03222333239	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRIG RIAZ Sb	NA	03335198481	NA	NA	NA	0 	Customer	12/31/1999
+NA	Brig Simon Sharaf	NA	03008504514	NA	NA	NA	0 	Customer	12/31/1999
+NA	BRIG. SHAHID MAJEED SB	NA	03234194444	NA	NA	NA	0 	Customer	12/31/1999
+NA	Burhan Sb	NA	03339997220	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH ARSHAD ALI	NA	03014188825	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ch Javed Sb	NA	03008461100	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH REHMAT SB	NA	03214441664	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH SAJAD Sb	NA	03238448128	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH SHABBIR SB	NA	0300-8404243	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ch. IJAZ Sb C/O MAHMOOD Sb	NA	03064194003	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH.HAMID Sb	NA	03334698520	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ch.Javeed Sb	NA	03008461100	NA	NA	NA	0 	Customer	12/31/1999
+NA	CH.Mansoor Ahmad	NA	03224047777	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ch.Muhammad Asif Sb.	NA	03218491912	NA	NA	NA	0 	Customer	12/31/1999
+NA	ch.sajjad	NA	03212008786	NA	NA	NA	0 	Customer	12/31/1999
+NA	ch.zahid sb	NA	0301-8492101	NA	NA	NA	0 	Customer	12/31/1999
+NA	CHRISTA	NA	03454004433	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL AMIR SB	NA	03214045544	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL Aqeel	NA	03215815028	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL ASLAM SB C/O IMRAN SB	NA	03014930671	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL IFTIKHAR SB	NA	03009853887	NA	NA	NA	0 	Customer	12/31/1999
+NA	Col Javed Sb	NA	03216425000	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL KHALID MEHMOOD Sb	NA	03025667890	NA	NA	NA	0 	Customer	12/31/1999
+NA	Col Nadeem Sb C/O Imran Sb	NA	03211111546	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL PASHA	NA	03008871915	NA	NA	NA	0 	Customer	12/31/1999
+NA	Col Riaz	NA	03334225128	NA	NA	NA	0 	Customer	12/31/1999
+NA	Col Tahir Sb	NA	0344-4448945	NA	NA	NA	0 	Customer	12/31/1999
+NA	Col. Nadeem Sb	NA	03009434946	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL.ALI RAZA	NA	03214041947	NA	NA	NA	0 	Customer	12/31/1999
+NA	COL.HASSAN ASKARI	NA	03219461771	NA	NA	NA	0 	Customer	12/31/1999
+NA	CRISTEL MATHILDE	NA	03454004433	NA	NA	NA	0 	Customer	12/31/1999
+NA	Danial Mehmood Sb	NA	03214495223	NA	NA	NA	0 	Customer	12/31/1999
+NA	DAWOOD NABI Sb	NA	03214467360	NA	NA	NA	0 	Customer	12/31/1999
+NA	Design Matrix	NA	03224790379	NA	NA	NA	0 	Customer	12/31/1999
+NA	DOCTOR RIAZ SB	NA	03004280227	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ABDUL KARIM	NA	03244959945	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr Abdul Rehman Sb	NA	03004215306	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr Ahmad	NA	03338908900	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ANAS	NA	03004225858	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ARIF SB	NA	03009474873	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR AZHAR JAMAL SB	NA	0334349456	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR FAKHAR SB	NA	03214462024	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr Hamood Sb	NA	03224200091	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ILYAS SB	NA	03009655052	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr Kamran Sb	NA	0321 6413269	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR KHALID Sb	NA	NA	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR MAHFOZ SB	NA	03234407964	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR MUBASHIR Sb	NA	03218411011	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR MUDSAR Sb	NA	03214923878	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR MUHAMMAD ALI	NA	03334904000	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR NADEEM SB	NA	03214470803	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR RIZWAN SB C/O IMRAN SB	NA	03227272042	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR SHAHID	NA	03218412257	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR SHAHID SB	NA	0322 4082013	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr Shahid Shareef	NA	03224364824	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR SOHAIL CH	NA	03068029357	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ZAHID	NA	03214008280	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ZAHID	NA	0300-8562587	NA	NA	NA	0 	Customer	12/31/1999
+NA	DR ZAHOOR ELLAHI CHEEMA SB	NA	03344188825	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr. Abid Sb.	NA	0333-5185418	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr. Asim Sb	NA	03214864288	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr. Fatima	NA	0300-9466797	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dr. Saleem Sb	NA	0300-4220012	NA	NA	NA	0 	Customer	12/31/1999
+NA	dr.anas	NA	03004225858	NA	NA	NA	0 	Customer	12/31/1999
+NA	Dura Ceramic	NA	0323-4712952	NA	NA	NA	0 	Customer	12/31/1999
+NA	DZIERZ	NA	03218477762	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ehmar Hamad Sb	NA	0300-8719787	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ehsan-ullha Sb	NA	0321-7425970	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ejaz sb.	NA	0321-401044	NA	NA	NA	0 	Customer	12/31/1999
+NA	elvin jalal din sb	NA	03008440933	NA	NA	NA	0 	Customer	12/31/1999
+NA	Fahad Bashir	NA	0321-8433328	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAHAD SB	NA	03214543096	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAISAL DARR SB.	NA	0300-8444428	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAISAL IFTKHAR Sb	NA	03218444480	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAISAL MIRZA SB	NA	0322-4678178	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAISAL NADEEM Sb	NA	03214454429	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal Sb	NA	03218414433	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal sb	NA	03217337777	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal Sb	NA	03018460713	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal Sb Architect	NA	03055500998	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAISAL SB C/O FAHEEM QURESHI	NA	0331-4978767	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal sb HBL	NA	04235740480	NA	NA	NA	0 	Customer	12/31/1999
+NA	Faisal Sharif	NA	0300-8490242	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAKHAR SB C/O ASIF SB	NA	0336-4084051	NA	NA	NA	0 	Customer	12/31/1999
+NA	FARASAT Sb C/O HASSAN Sb	NA	03222000027	NA	NA	NA	0 	Customer	12/31/1999
+NA	Fareed  Sb	NA	03218458945	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb	NA	03008444317	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb	NA	03008444317	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb	NA	0302-4469998	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb	NA	03004001818	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAROOQ Sb	NA	03442333333	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb	NA	03004029585	NA	NA	NA	0 	Customer	12/31/1999
+NA	Farooq Sb C/O Galleria	NA	03214831030	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAROOQ SB C/O MUNIR BUIDER	NA	03068122201	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAROOQ SB C/O WASEEM SB	NA	03008450446	NA	NA	NA	0 	Customer	12/31/1999
+NA	FARRUKH SAEED Sb	NA	03470544915	NA	NA	NA	0 	Customer	12/31/1999
+NA	Fasih Sb	NA	0321-4098989	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAWAD KHAN	NA	03216500786	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAWAD KHAN Sb	NA	03224870450	NA	NA	NA	0 	Customer	12/31/1999
+NA	FAWAD SB	NA	03218448897	NA	NA	NA	0 	Customer	12/31/1999
+NA	Fayyaz Sb	NA	03219403187	NA	NA	NA	0 	Customer	12/31/1999
+NA	FITURS SAB	NA	03008479147	NA	NA	NA	0 	Customer	12/31/1999
+NA	FIZAN Sb	NA	03004314533	NA	NA	NA	0 	Customer	12/31/1999
+NA	FUAD ASSOCIATE	NA	0321-8422971	NA	NA	NA	0 	Customer	12/31/1999
+NA	galaria design	NA	0322-4496134	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ghaznfar DAR	NA	0333-0222708	NA	NA	NA	0 	Customer	12/31/1999
+NA	GLAM BAR	NA	0301-8442150	NA	NA	NA	0 	Customer	12/31/1999
+NA	GLOREA JEANS	NA	03004744465	NA	NA	NA	0 	Customer	12/31/1999
+NA	GOHAR BUTT SB	NA	03008226356	NA	NA	NA	0 	Customer	12/31/1999
+NA	Gohar Pervaiz	NA	0322 4462460	NA	NA	NA	0 	Customer	12/31/1999
+NA	Gourment	NA	03216767730	NA	NA	NA	0 	Customer	12/31/1999
+NA	GOURMET CATTERING	NA	03200253537	NA	NA	NA	0 	Customer	12/31/1999
+NA	GOURMET CATTERING	NA	0321-6767730	NA	NA	NA	0 	Customer	12/31/1999
+NA	Haji Abdul Majeed C/O Shoaib	NA	03214462117	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAJI AKRAM SB	NA	03004431909	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAJI IMDAD HUSSAIN SB	NA	03004412635	NA	NA	NA	0 	Customer	12/31/1999
+NA	Haji Liaqat	NA	03211115050	NA	NA	NA	0 	Customer	12/31/1999
+NA	Haji Liaqat	NA	03211115050	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAJI M. MUNEER	NA	0300-4331793	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAJI MUSHTAQ BUILDER	NA	03004280587	NA	NA	NA	0 	Customer	12/31/1999
+NA	haji usman sb	NA	0321 4574842	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAMMAD KHAWAJA SB	NA	0321-6676880	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAMMAD SB	NA	03214161250	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAMMOD Sb	NA	03214298958	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hamood Sb C/O Ahmad Kamal Sb	NA	03004260657	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hamza Saeed Sb	NA	03008106666	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAMZA TARAR SB	NA	03214138148	NA	NA	NA	0 	Customer	12/31/1999
+NA	Haq Nawaz Sb	NA	0301-8423309	NA	NA	NA	0 	Customer	12/31/1999
+NA	HARIS SB	NA	03218360007	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAROON LASHARI Sb	NA	03004380445	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAROON SB	NA	03018475505	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAROON SB	NA	03009429027	NA	NA	NA	0 	Customer	12/31/1999
+NA	Haroon Zaroor	NA	03018489450	NA	NA	NA	0 	Customer	12/31/1999
+NA	Harris sb	NA	03008492515	NA	NA	NA	0 	Customer	12/31/1999
+NA	HARRIS SB	NA	0333-5704747	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hashim Khan	NA	03208400030	NA	NA	NA	0 	Customer	12/31/1999
+NA	HASSAIN Sb	NA	03225050506	NA	NA	NA	0 	Customer	12/31/1999
+NA	HASSAN	NA	0315-4677641	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hassan Fakhar Sb	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hassan Imam Bukhari	NA	03008632168	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hassan Muneer Sb	NA	03219426074	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hassan Sb	NA	03225050506	NA	NA	NA	0 	Customer	12/31/1999
+NA	HASSAN Sb	NA	03224075033	NA	NA	NA	0 	Customer	12/31/1999
+NA	HASSAN SB	NA	03214377777	NA	NA	NA	0 	Customer	12/31/1999
+NA	HASSAN Sb	NA	0322 8871249	NA	NA	NA	0 	Customer	12/31/1999
+NA	HAZIQ Sb	NA	03231482161	NA	NA	NA	0 	Customer	12/31/1999
+NA	Honda Gateway	NA	0300-8405789	NA	NA	NA	0 	Customer	12/31/1999
+NA	Humayun Malik Sb	NA	0321 8479394	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hur Qasir	NA	03008577779	NA	NA	NA	0 	Customer	12/31/1999
+NA	HUSSAIN NASIR SB	NA	03218406926	NA	NA	NA	0 	Customer	12/31/1999
+NA	Hussnain Mahmood Sb	NA	03009685660	NA	NA	NA	0 	Customer	12/31/1999
+NA	IBRAR SB	NA	03008455015	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ibrar Sb	NA	03009438629	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ibrar Sb	NA	0300-9498629	NA	NA	NA	0 	Customer	12/31/1999
+NA	IFRAH	NA	03004434778	NA	NA	NA	0 	Customer	12/31/1999
+NA	IFTIKHAR AHMAD Sb	NA	03334333976	NA	NA	NA	0 	Customer	12/31/1999
+NA	IFTKHAR JAVED SB	NA	0302-8472199	NA	NA	NA	0 	Customer	12/31/1999
+NA	IFTKHAR SB C/O ARCH SHOAIB REHMAN	NA	0300-4619949	NA	NA	NA	0 	Customer	12/31/1999
+NA	IJAZ AHMED	NA	0300-8400428	NA	NA	NA	0 	Customer	12/31/1999
+NA	IJAZ KHAN	NA	0300 2075527	NA	NA	NA	0 	Customer	12/31/1999
+NA	IJAZ SAB	NA	03008416346	NA	NA	NA	0 	Customer	12/31/1999
+NA	ILYAS AHMAD C/O ARCH NOMAN	NA	0334-4196870	NA	NA	NA	0 	Customer	12/31/1999
+NA	ILYAS AHMAD C/O ARCH NOUMAN	NA	0334-4196870	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Afzal C/O Ar Hassan Fakhar	NA	03334242101	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Ahmad	NA	03444447066	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN ASGHAR Sb	NA	03225006655	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Chaudhary Builder	NA	03222505880	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN SB	NA	0321-4430027	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN SB	NA	0305-8033881-03	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN Sb	NA	0323-4320300	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN SB	NA	03244735184	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Sb ,	NA	03334702567	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN SB 311 CC	NA	03204051657	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Sb C/O Shoaib	NA	03009419000	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMRAN SHEIKH SB	NA	03004122898	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Sidiqe	NA	03004846626	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imran Tahir Sb	NA	03006344670	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imtiaz Butt Sb	NA	03214950099	NA	NA	NA	0 	Customer	12/31/1999
+NA	IMTIAZ Sb	NA	03008505556	NA	NA	NA	0 	Customer	12/31/1999
+NA	Imtiaz Siddique C/O Haroon Ar	NA	03034446662	NA	NA	NA	0 	Customer	12/31/1999
+NA	Iqbal Sb	NA	03225314565	NA	NA	NA	0 	Customer	12/31/1999
+NA	Iqbal Sb	NA	0300-8416318	NA	NA	NA	0 	Customer	12/31/1999
+NA	IRFAN DAR SB	NA	0321-4054000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Irfan Khalid Dar Sb C/O Mian Nadeem Sb	NA	03334222866	NA	NA	NA	0 	Customer	12/31/1999
+NA	IRFAN NAZAR Sb	NA	03334316660	NA	NA	NA	0 	Customer	12/31/1999
+NA	Irfan SB	NA	0300500905	NA	NA	NA	0 	Customer	12/31/1999
+NA	irfan sb	NA	03002018520	NA	NA	NA	0 	Customer	12/31/1999
+NA	Irfan Shukr u Allah	NA	03005009053	NA	NA	NA	0 	Customer	12/31/1999
+NA	IRTAZA SB	NA	03007456500	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ishfaq Ali	NA	03074770044	NA	NA	NA	0 	Customer	12/31/1999
+NA	Jabran Sb	NA	0300 4787073	NA	NA	NA	0 	Customer	12/31/1999
+NA	Jahanzaib Fareed	NA	03343032244	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAMSHEED MIRZA SB	NA	03234674253	NA	NA	NA	0 	Customer	12/31/1999
+NA	Javad Sb	NA	0321-4266145	NA	NA	NA	0 	Customer	12/31/1999
+NA	Javaid Alvi Arch	NA	03008403264	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAVAID MURTZA Sb	NA	03008866244	NA	NA	NA	0 	Customer	12/31/1999
+NA	Javed Alam Sb	NA	0333-4236981	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAVED IQBAL SB.	NA	0300-7268755	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAVED Sb	NA	03334236981	NA	NA	NA	0 	Customer	12/31/1999
+NA	javed sb.	NA	0321-41444000	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAVEED ALAM	NA	03334236981	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAWAD AHMED Sb	NA	03313884483	NA	NA	NA	0 	Customer	12/31/1999
+NA	JAWAD UMER	NA	03224109111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kamran Sb	NA	03324348686	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Butt	NA	03218466664	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Butt	NA	0321846664	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Sb	NA	03004128636	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Sb	NA	0321 8485311	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Sb	NA	03216677997	NA	NA	NA	0 	Customer	12/31/1999
+NA	KASHIF SB	NA	03229777600	NA	NA	NA	0 	Customer	12/31/1999
+NA	KASHIF Sb	NA	03355399399	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kashif Sb 209 L	NA	0322 4103324	NA	NA	NA	0 	Customer	12/31/1999
+NA	KASHIF Sb C/O AR ATTIQE	NA	03228432800	NA	NA	NA	0 	Customer	12/31/1999
+NA	kashif sb.	NA	0300-4128636	NA	NA	NA	0 	Customer	12/31/1999
+NA	KHALID ADREES Sb	NA	03212066622	NA	NA	NA	0 	Customer	12/31/1999
+NA	KHALID BASHIR Sb C/O DAWN ESTAT	NA	03219423751	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khalid Mahmood C/O Sultan	NA	03228456786	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khalid Manzor	NA	03238449951	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khalid Sb	NA	03228476063	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khalid Zulfiqar Sb	NA	0332349597	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khalil Sb	NA	03028559092	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khan Sb	NA	0300 4171717	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khawaja Farooq Sb.	NA	0300-8613645	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khawaja Nouman Sb	NA	0321 8417720	NA	NA	NA	0 	Customer	12/31/1999
+NA	khawaja zubair sb	NA	0322-4496134	NA	NA	NA	0 	Customer	12/31/1999
+NA	KHAWAR SB.	NA	0300-9490566	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khawja Aman	NA	03334297799	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khuda Baksh	NA	03334238700	NA	NA	NA	0 	Customer	12/31/1999
+NA	KHURAM SB	NA	03218429255	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khuram Sb	NA	03214202027	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khuram Sb	NA	03218466311	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khuram Sb	NA	03004988477	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khuram Sb	NA	03314200262	NA	NA	NA	0 	Customer	12/31/1999
+NA	Khush Akhter Subhani Sb	NA	0301-8611747	NA	NA	NA	0 	Customer	12/31/1999
+NA	Kokab Ansri	NA	03224148500	NA	NA	NA	0 	Customer	12/31/1999
+NA	komal iftikhar	NA	03218867770	NA	NA	NA	0 	Customer	12/31/1999
+NA	LAHORE GARISON UNIVERSITY	NA	0300-4166648	NA	NA	NA	0 	Customer	12/31/1999
+NA	Lala Fiaz	NA	03214450666	NA	NA	NA	0 	Customer	12/31/1999
+NA	Lateef Bajwa	NA	03228408216	NA	NA	NA	0 	Customer	12/31/1999
+NA	LIAQAT HADI SB	NA	03214687106	NA	NA	NA	0 	Customer	12/31/1999
+NA	Liaqat Sb	NA	03224729080	NA	NA	NA	0 	Customer	12/31/1999
+NA	LIQAT ALI C/O MAHMOOD Sb	NA	03214687106	NA	NA	NA	0 	Customer	12/31/1999
+NA	M Ali Sb	NA	0300 4744465	NA	NA	NA	0 	Customer	12/31/1999
+NA	M Ashraf Sb	NA	03218875919	NA	NA	NA	0 	Customer	12/31/1999
+NA	M SAAD SB	NA	03244746147	NA	NA	NA	0 	Customer	12/31/1999
+NA	M Umar Farooq	NA	03214638484	NA	NA	NA	0 	Customer	12/31/1999
+NA	M. Amir Khan	NA	03007366869	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.Arshad C/O Faisal Rasool	NA	03228442204	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.Asif khan Builder	NA	03004059939	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.ASLAM SB	NA	0321-6087089	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.BUTT SB	NA	0322-9428647	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.ILyas C/O Razzaq	NA	03217500200	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.ISLAM JOYIA C/O ARCH SAAD	NA	0300-8455360	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.Munir	NA	03008499485	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.MUZZAMIL Sb	NA	03224818088	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.Raza	NA	03334526665	NA	NA	NA	0 	Customer	12/31/1999
+NA	m.shahzaib	NA	0322-4613682	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.TARIQ RAFIQUE	NA	0302-4662828	NA	NA	NA	0 	Customer	12/31/1999
+NA	M.UMAR SHAHZAD C/O SHOAIB	NA	03218448468	NA	NA	NA	0 	Customer	12/31/1999
+NA	Madam Sanam	NA	0306-317182	NA	NA	NA	0 	Customer	12/31/1999
+NA	Madieh Khawar Sb	NA	0301-8456869	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mah Noor Wali	NA	03214447996	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mahboob Sb	NA	0300 2031192	NA	NA	NA	0 	Customer	12/31/1999
+NA	MAHMOOD ANSRI Sb	NA	03064703696	NA	NA	NA	0 	Customer	12/31/1999
+NA	MAHMOOD SB C/O WASEEM SB	NA	0300-4290509	NA	NA	NA	0 	Customer	12/31/1999
+NA	MAJ KHALID Sb	NA	03028401122	NA	NA	NA	0 	Customer	12/31/1999
+NA	MAJID SAB	NA	03228470138	NA	NA	NA	0 	Customer	12/31/1999
+NA	Majid Sb C/O Asim Butt	NA	03328436614	NA	NA	NA	0 	Customer	12/31/1999
+NA	Major Shuja Sb	NA	0333-4394496	NA	NA	NA	0 	Customer	12/31/1999
+NA	Major Sohail Sb	NA	0300-4844008	NA	NA	NA	0 	Customer	12/31/1999
+NA	Major Tawana Sb	NA	0300-8505388	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Aanosh Sb	NA	0320-5555212	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK ABU BAKAR Sb	NA	03009124242	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK AMJAD	NA	0333-4362099	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK AMJAD	NA	0333-4362099	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK AMJAD	NA	03334362099	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Azhar Sb	NA	03004613141	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK BABAR Sb	NA	03004220472	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Babar Sb.	NA	0322-4467096	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Ghulam Abbas Sb	NA	03004243320	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Jahanzaib Builder	NA	03224181818	NA	NA	NA	0 	Customer	12/31/1999
+NA	MALIK M,QAIS	NA	0300-9494301	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Munir Builder	NA	03214388501	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Shabbir Sb.	NA	03216440236	NA	NA	NA	0 	Customer	12/31/1999
+NA	Malik Tahir Sb	NA	0300-00	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mansoor Sb	NA	03008230573	NA	NA	NA	0 	Customer	12/31/1999
+NA	MANSOOR SB.	NA	03008230573	NA	NA	NA	0 	Customer	12/31/1999
+NA	Maqsood Sb	NA	03204000456	NA	NA	NA	0 	Customer	12/31/1999
+NA	marvellous makers	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Marvellous Makers	NA	0323-4077217	NA	NA	NA	0 	Customer	12/31/1999
+NA	Marvellous Makers	NA	03217369004	NA	NA	NA	0 	Customer	12/31/1999
+NA	Marvelous Makers & Designers	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	MASOOD Sb	NA	03219990137	NA	NA	NA	0 	Customer	12/31/1999
+NA	MEHMOOD SB	NA	0321-8468922	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN ABDUL GHANI Sb C/O AR.UMAIR UMER Sb	NA	03008425118	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Ahmad	NA	0323-4444222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Ahmad Sb	NA	03008472009	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN AHMAD Sb C/O MIAN HASSAN Sb	NA	0323 4444222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Akhter C/O Shoaib	NA	03332139919	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN AMIR SB	NA	0300-8433097	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN AMJAD SAHAB.	NA	0343-6630003	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Amjad Sb	NA	03436630003	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Builder	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb	NA	03214222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb	NA	03214222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb	NA	03214222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb	NA	0321-4455336	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb C/O Mian Nadeem Sb	NA	03214222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb C/O Mian Nadeem Sb	NA	03214455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fakhar Sb.	NA	0321-4222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian fakkhar sb.	NA	0321-4222111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Fareed Sb	NA	03200008080	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Habiburehaman Sb	NA	03457987111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Hassan Fakhar Sb	NA	0321-4455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN HASSAN SB	NA	0321 4455338	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN IRFAN SB C/O Mian Nadeem Sb	NA	03214761006	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Irfan Sb C/O mian Nadeem Sb	NA	03214761006	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Javaid Sb	NA	03217502194	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Javaid Sb	NA	03334466964	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Javed	NA	03217502194	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Khalil Builder	NA	03028559092	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Khuda Bux	NA	03234238700	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN LIQAT ALI Sb	NA	03008450090	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN MAHMOOD Sb	NA	03364783979	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN MAZHAR ALI	NA	0302-4144102	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN MEHMOOD SB	NA	0336-4789309	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN MUJAHID ALI	NA	03008461986	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian nadeem	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Nadeem	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN NADEEM	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN nadeem hone	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Nadeem sb	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN NADEEM SB	NA	0321-4455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Pervaiz sb	NA	0333-4330916	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Pervaiz Sb	NA	03334330916	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Pervaiz Sb C/O Mian Nadeem Sb	NA	03334330916	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Rasheed	NA	03008869752	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN RIAZ SB 125	NA	03008450091	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIAN SOHAIL Sb	NA	03009491222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Sohail Sb Form	NA	03009491222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Umar Sb	NA	0321-4444222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mian Usman Sb	NA	03004429904	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mirza Nadeem	NA	0321 4005911	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mirza Pervaiz	NA	03334345928	NA	NA	NA	0 	Customer	12/31/1999
+NA	MIRZA SB	NA	03008617130	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mirza Waqas sb	NA	03214130626	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS ANWAR	NA	0322-8411958	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Fozia	NA	0321-4170394	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Hammed Ajmal	NA	03234374518	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Mansoor	NA	03227600049	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Mehjabeen	NA	0321 8457735	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS MUNAWAR	NA	0333-4487503	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS NELAM	NA	03214297828	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS REHAN	NA	03008595042	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Rizwan	NA	03004679670	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS SAEED	NA	03208500799	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS SAIRA AYYAZ	NA	0321-4840055	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Salahuddin	NA	04235921624	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Samena Mehmood	NA	03009440380	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Shahzad	NA	03004297112	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Suman	NA	0300-4699577	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Umamah	NA	03218483277	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss Uzair	NA	0321 9464338	NA	NA	NA	0 	Customer	12/31/1999
+NA	MISS ZAHID	NA	03018401694	NA	NA	NA	0 	Customer	12/31/1999
+NA	Miss. Gohar	NA	0300-8451878	NA	NA	NA	0 	Customer	12/31/1999
+NA	Moazzam Sb	NA	03334485035	NA	NA	NA	0 	Customer	12/31/1999
+NA	Moazzam Sb	NA	0308 4444833	NA	NA	NA	0 	Customer	12/31/1999
+NA	MOHAMMAD MUQADAM	NA	03214177747	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mohammed Qasim Sb	NA	0321489697	NA	NA	NA	0 	Customer	12/31/1999
+NA	MOHSIN SB	NA	0321-4591508	NA	NA	NA	0 	Customer	12/31/1999
+NA	MOHSIN SB	NA	0300-8420804	NA	NA	NA	0 	Customer	12/31/1999
+NA	Moj Tiwana	NA	03008505388	NA	NA	NA	0 	Customer	12/31/1999
+NA	MOSA SB	NA	03218100000	NA	NA	NA	0 	Customer	12/31/1999
+NA	MOUZAM KHAN	NA	03204687654	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Abdul Kaleem	NA	03219466540	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR AFTAB AHMAD	NA	03004572578	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR ALI C/O ARCH ANAM	NA	0331-1371111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Ali Raza	NA	03444187006	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Ali Raza C/O Shelter Associates	NA	03024142980	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Anwar Baig	NA	03204445200	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR ARBAB	NA	0333-8633030	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR ARSLAN	NA	03008467233	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Asim Akram	NA	03444944472	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR BILAL SB	NA	0333-4649803	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR DAWOOD SB	NA	0332-4353325	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR FAHEEM MASOOD	NA	03214428113	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR FAIZ SB	NA	0322-4225515	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Farooq Sb.	NA	03008444317	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Fawad	NA	0321-4461260	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR HUSNAIN MAHMOOD SB	NA	0300-9685660	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Imran C/O Shoaib	NA	03216661096	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Imran C/O Shoaib	NA	03009419000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Irfan C/O Waseem Sb	NA	03219450936	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Irfan Mir	NA	03002008470	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Jabbar C/O Shahid Shreef	NA	03004437907	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR JAVAID C/O USMAN Sb	NA	03214266145	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR KASHIF	NA	03334366382	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR KASHIF SB	NA	0322-4103324	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR KHALID ADREES	NA	03212066622	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR KHAN	NA	0300-4171717	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR MAZIR	NA	03024144102	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Mudasir Khoker C/O Ar:Miss Rahat	NA	03334217121	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR MUHAMMAD AFZAL	NA	0307-4907206	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Nadeem Rafi	NA	0321421478	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Noor Khawaja	NA	0334 5337347	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Pervez Mir	NA	03334060709	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Qamar Hassan	NA	03004323520	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR RASSAL C/O Zaheer A Khan	NA	03008400625	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR SAAD	NA	03004142406	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Saad C/O Anser Sb	NA	03008042323	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Saqib Hanif	NA	03214209000	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR SHAHID C/O AMJAD SB.	NA	0322-4566562	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Shahid Hameed	NA	03008492318	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Shahid Hussain	NA	03009889400	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Shahida Mujid sb	NA	03218882600	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Shahzad	NA	03214321662	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Shoukat Ali Mayo	NA	03008450786	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Tariq	NA	03447420007	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR TARIQ WATO	NA	03008488415	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR TAYYAB C/O COL TARIQ SB	NA	0333 4252058	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Usman Ahmed	NA	03214205994	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr Zaheer Builder	NA	03004775964	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR ZUHAIB C/O SHOAIB Sb	NA	03008450203	NA	NA	NA	0 	Customer	12/31/1999
+NA	MR-SUBHAN	NA	0300-9471417	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr. imran Sb	NA	0302-843484	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mr. Rehan Sahab	NA	0321-6160006	NA	NA	NA	0 	Customer	12/31/1999
+NA	mr.azhar	NA	0333-7923338	NA	NA	NA	0 	Customer	12/31/1999
+NA	mr.javed sb	NA	0321-4266145	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS AHMAD	NA	03239635672	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Amir	NA	03224708807	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Arif	NA	03004427374	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Arshad	NA	03044206684	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Azhar	NA	0333 7923338	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Babar	NA	03450738210	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Babar Sb	NA	0321 9482474	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS DR.HAMMAD	NA	03084597013	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS FAIQA	NA	03334216758	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Faisal	NA	03454178614	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS GENRAL MASOOD BURKI	NA	03334649907	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Haris	NA	03214386895	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS HAROON	NA	03232176761	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Husnain	NA	0300 2870000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Hussain	NA	03214049993	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Imran	NA	03004494181	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Inam Barri	NA	03332203737	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS JAVAID	NA	03455090007	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS JAVED HASSAN	NA	03008421286	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Kamran Shahid C/O Shoaib	NA	03404090968	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Majid	NA	0300 9429360	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Mansha	NA	03214177747	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Mussarat Lashari	NA	03212122123	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS NAEEM AFZAL	NA	03008042084	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Najeeb	NA	03224316395	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS Nayyer	NA	03004848348	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Rehan	NA	0300-8595042	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS RIAZ SB	NA	0333-4657584	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Rizwan C/O Shoaib Sb	NA	03218464706	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Saddique	NA	03028611121	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS SHAFIQ	NA	03214467543	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS SHAHID	NA	03234342772	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Shahid	NA	03228610125	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs shahid	NA	03234342772	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Shahzad	NA	03214444442	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Shoaib Saeed	NA	0323 8415321	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Sohail Sb	NA	03332127820	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Sydea Sajjad	NA	0336 4551896	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Tahir	NA	0321-8478720	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS TAHIR	NA	03004143504	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Tariq	NA	0300-9493908	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS TASNEEM AFTAB	NA	03334211616	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Yasir Rasheed	NA	0321 4400012	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS ZUBAIR	NA	03215158000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs Zulfiqar	NA	03088884452	NA	NA	NA	0 	Customer	12/31/1999
+NA	MRS-IDREES	NA	0300-6043650	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Aamir Sb	NA	03214045544	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Aamna Nawaz	NA	0302-9558880	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Ameer	NA	03218110055	NA	NA	NA	0 	Customer	12/31/1999
+NA	mRS. aSIF	NA	03238444446	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Baber	NA	0300-4448637	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Hi	NA	03214266635	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Mehmood	NA	0333-3731373	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Pervaiz	NA	0321-4156000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Rehman	NA	0300-4127949	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Sajjad	NA	03237200001	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Tahira Shafqat	NA	0307-4702736	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Usman	NA	0322-4455047	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mrs. Zafar	NA	03228470847	NA	NA	NA	0 	Customer	12/31/1999
+NA	MS CHEEMA	NA	03344188825	NA	NA	NA	0 	Customer	12/31/1999
+NA	MS HAROON	NA	03324611290	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ms Javaid	NA	03008480872	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ms Munawar	NA	03334487503	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ms Rizwan	NA	03004679670	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ms Salahdin	NA	04235921624	NA	NA	NA	0 	Customer	12/31/1999
+NA	MS SHAUKAT	NA	03008491069	NA	NA	NA	0 	Customer	12/31/1999
+NA	Ms Usman 767	NA	0342-7656564	NA	NA	NA	0 	Customer	12/31/1999
+NA	MS YOUNIS	NA	03008470611	NA	NA	NA	0 	Customer	12/31/1999
+NA	MT FAWAD NABEEL SB	NA	0321-4461260	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mubashar Heera Sb	NA	0321-9471755	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mubashar Sb	NA	0300-8487327	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mubashir Sb.	NA	03344668899	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mudaser Sb	NA	03004011642	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mudassir	NA	03218873849	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mudassir Khalid sb	NA	03334204001	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mugheez Builder	NA	03104450555	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad  Tayyab	NA	03212484488	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Afi Lal Sb	NA	0333-4474515	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AFZAL	NA	03008486093	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Afzal Sb	NA	0300-8739040	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Afzal Sb	NA	03017519504	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AFZAL Sb	NA	03228470138	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AKRAM SB	NA	0300-4431909	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AKRAM SB	NA	0300-4431909	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Akram Sb	NA	03004205389	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Ali Sb	NA	03004744465	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD ALI SHAH Sb	NA	03008406070	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AMEEN SB	NA	0333-4278146	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Amin Sb	NA	03219481015	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Amjad Sb	NA	0304-0920981	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Anwer	NA	03224609414	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Arif Sb	NA	0333-9783075	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Arif Sb	NA	0300-8487701	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Ashraf Sb	NA	03334239808	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Asif	NA	0312-6900069	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Asif Sb	NA	03228090531	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Asif Sb	NA	0322-4248573	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Asif Sb	NA	03004690271	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD ASIM Sb	NA	03335410672	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD AWAIS SB	NA	03008445456	NA	NA	NA	0 	Customer	12/31/1999
+NA	muhammad Azhar Sb	NA	03468431071	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD BAHJAT MAJID Sb	NA	03008441741	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Bashir Sb	NA	0304-6221117	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD BUTT SB	NA	0322-9428647	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD FAROOQ ABBASI Sb	NA	03084440497	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD FAROOQ KHAWAJA SB	NA	0300-8613645	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD HASSAN Sb C/O ARCH BILLAL	NA	03408321029	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Idrees Sb	NA	03224000655	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD ILYAS SEETHI C/O MOHSIN Sb	NA	03234882781	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Imran Sb	NA	03008479294	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD IMRAN SB	NA	03212490446	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD IRFAN SB	NA	0322-4454494	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Kashif Sb	NA	03007798246	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Khawar Sethi Sb	NA	03008440676	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Mehmood sb	NA	0333-4312288	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Munawar Sb	NA	03008429856	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Nawaz C/O Mian Ndeem	NA	03074444144	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Sadiq	NA	03084477614	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Salman Sb	NA	03004071143	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD SAQIB Sb	NA	03008380700	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Shahid Sb	NA	03008431925	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD SHAHZAIB	NA	0322-4613682	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD SUMAIR SB	NA	0307-4248684	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhammad Tariq Builders	NA	03340061867	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD TARIQ Sb	NA	03008602276	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD USMAN Sb	NA	03338871109	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD WAQAS KHIAL SB	NA	0336-6561932	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMAD YOUSAF CH	NA	03216664557	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHAMMD ASIF SB	NA	0321-9401220	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUHMMAD HAFEEZ SB	NA	03004178009	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muhmmad Tanveer Sb	NA	0300-8459875	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mujahid Ahmad	NA	03028444737	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mujahid Alam Sb	NA	0321-4076066	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUJAHID Sb	NA	0302 8444737	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mujtab Sb	NA	0321-9451822	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUKARAM SB	NA	03218444060	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mukhtar Sb C/O mian Nadeem Sb	NA	03008488848	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mumtaz Ahmad Sb	NA	0321-2475399	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUMTAZ AHMED SB	NA	0321-2475399	NA	NA	NA	0 	Customer	12/31/1999
+NA	Munawar Ali	NA	0300-8248982	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUNAWAR SHAH Sb	NA	03004661458	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUNER AKBAR SAB	NA	03017510820	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUNIR SB	NA	03214046181	NA	NA	NA	0 	Customer	12/31/1999
+NA	Munir Sb	NA	03214840055	NA	NA	NA	0 	Customer	12/31/1999
+NA	Munwar Ali Sb	NA	03008248982	NA	NA	NA	0 	Customer	12/31/1999
+NA	MURTAZA SB	NA	0344-4422033	NA	NA	NA	0 	Customer	12/31/1999
+NA	Murtaza Sb	NA	0334-4273651	NA	NA	NA	0 	Customer	12/31/1999
+NA	Musa Raza	NA	03008474713	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUSHTAQ DOGAR SB	NA	0321-4444419	NA	NA	NA	0 	Customer	12/31/1999
+NA	Musrhat Khan	NA	03008482442	NA	NA	NA	0 	Customer	12/31/1999
+NA	MUSTAFA Sb	NA	03019764844	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mustafa Sb	NA	03219415756	NA	NA	NA	0 	Customer	12/31/1999
+NA	Mustafa Sb.	NA	03218446995	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muzamal Sb	NA	0321-7232696	NA	NA	NA	0 	Customer	12/31/1999
+NA	Muzhar Iqbal Sb	NA	0333-4296063	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nabeel Sb	NA	0322 8444446	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM AHMAD	NA	0321 4441199	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Ahmad	NA	03218480623	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM ASHFAQ SB	NA	0321-4838209	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Irfan Buliders	NA	03228448441	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem khan	NA	03214990803	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM QURESHI C/O SHOAIB SB	NA	03218426862	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM RAFI	NA	03214211478	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM RAFI	NA	03214211478	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Sb	NA	0301 8442915	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Sb	NA	0300 4902605	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Sb	NA	03214403200	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadeem Sb	NA	0321 9666955	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM SB	NA	03008446784	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM Sb 65 D	NA	03214838209	NA	NA	NA	0 	Customer	12/31/1999
+NA	NADEEM TAHIR SB	NA	0300-9483768	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nadir Malik	NA	03008453955	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Ahmad Sb	NA	03103388440	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem C/O Shaukat Abbas	NA	03007327181	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Qureshi	NA	03334836017	NA	NA	NA	0 	Customer	12/31/1999
+NA	NAEEM SB	NA	0300-8445861	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Sb	NA	03037303378	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Sb	NA	03014809668	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Sb	NA	03009415334	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Sb C/o Moeen Sb	NA	03214309088	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naeem Sheikh	NA	03008442660	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naghmana Hussain	NA	03222288666	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naila Gurmani	NA	03008449822	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naseem Sb	NA	03224858431	NA	NA	NA	0 	Customer	12/31/1999
+NA	NASEEM SB.	NA	0322-4858431	NA	NA	NA	0 	Customer	12/31/1999
+NA	naseer sb	NA	0321-8424443	NA	NA	NA	0 	Customer	12/31/1999
+NA	naseer sb	NA	0321-8424443	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nasir  Mehmood Sb	NA	03088883888	NA	NA	NA	0 	Customer	12/31/1999
+NA	NASIR JAMAL Sb	NA	03008485910	NA	NA	NA	0 	Customer	12/31/1999
+NA	NASIR KHAN Sb	NA	03218417766	NA	NA	NA	0 	Customer	12/31/1999
+NA	NASIR SB	NA	03008456723	NA	NA	NA	0 	Customer	12/31/1999
+NA	NAVEED  Sb	NA	03004648871	NA	NA	NA	0 	Customer	12/31/1999
+NA	Naveed Aslam	NA	03008447133	NA	NA	NA	0 	Customer	12/31/1999
+NA	NAVEED SB -162	NA	0334-4222216	NA	NA	NA	0 	Customer	12/31/1999
+NA	NAZIM ALI Sb 107 E	NA	03219414136	NA	NA	NA	0 	Customer	12/31/1999
+NA	NISAR AHMAD SB	NA	0322-4613682	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nisar Sb	NA	03008456219	NA	NA	NA	0 	Customer	12/31/1999
+NA	nisar sb	NA	0300-8456219	NA	NA	NA	0 	Customer	12/31/1999
+NA	NOMAN MALIK	NA	0337 7297777	NA	NA	NA	0 	Customer	12/31/1999
+NA	NOMAN RAFIQ Sb	NA	03204477577	NA	NA	NA	0 	Customer	12/31/1999
+NA	NOMAN SB	NA	03009498384	NA	NA	NA	0 	Customer	12/31/1999
+NA	NOMAN SB -ASKARI 11	NA	0324-7377777	NA	NA	NA	0 	Customer	12/31/1999
+NA	NOMAN SB-212-XX	NA	0300-8445861	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nouman Sb	NA	03074001111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nouman Sb	NA	03334971241	NA	NA	NA	0 	Customer	12/31/1999
+NA	Nouman Sb	NA	03034440428	NA	NA	NA	0 	Customer	12/31/1999
+NA	OBAID UR REHMAN	NA	0302-4687411	NA	NA	NA	0 	Customer	12/31/1999
+NA	OLYMPIA BUILDERS	NA	03314357275	NA	NA	NA	0 	Customer	12/31/1999
+NA	OLYMPIN BULDERS	NA	0321 8493325	NA	NA	NA	0 	Customer	12/31/1999
+NA	ORBIT DEVELOPERS	NA	03004422024	NA	NA	NA	0 	Customer	12/31/1999
+NA	OSAMA HAMID SB	NA	0333-4292244	NA	NA	NA	0 	Customer	12/31/1999
+NA	OSAMA YOUSUF	NA	03218473940	NA	NA	NA	0 	Customer	12/31/1999
+NA	PASHA Sb	NA	03008575008	NA	NA	NA	0 	Customer	12/31/1999
+NA	Pasha Sb C/O Faisal Rasool	NA	03008575008	NA	NA	NA	0 	Customer	12/31/1999
+NA	Perwaiz	NA	03214680642	NA	NA	NA	0 	Customer	12/31/1999
+NA	Prof Toseef	NA	03008457040	NA	NA	NA	0 	Customer	12/31/1999
+NA	PUNJAB DEVELOPERS	NA	0324-4816099	NA	NA	NA	0 	Customer	12/31/1999
+NA	QAMAR SB	NA	03208380838	NA	NA	NA	0 	Customer	12/31/1999
+NA	QASIM SB	NA	0333-4273339	NA	NA	NA	0 	Customer	12/31/1999
+NA	Qasim Sb C/O Ahmad Kamal Sb	NA	03008662337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Qasir Saleem Sb	NA	03334345009	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rabnawaz SB	NA	03008600003	NA	NA	NA	0 	Customer	12/31/1999
+NA	RANA ABDUL MAJEED C/O ARCH SAAD HASHMI	NA	0300-4006388	NA	NA	NA	0 	Customer	12/31/1999
+NA	RANA ABDUL RAZA	NA	0300-8062324	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rana Ashraf Sb	NA	0336-4200175	NA	NA	NA	0 	Customer	12/31/1999
+NA	RANA JAVEDSB	NA	0300-9411360	NA	NA	NA	0 	Customer	12/31/1999
+NA	RANA KHIZAR SB	NA	03018490021	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rana Masood	NA	0300 8457105	NA	NA	NA	0 	Customer	12/31/1999
+NA	RANA NAEEM SB	NA	0322-4444594	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rao Tasneem	NA	03007332413	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rauf Akhtar Sb	NA	0306 4067779	NA	NA	NA	0 	Customer	12/31/1999
+NA	RAUF AKHTAR SB.	NA	0324-452112	NA	NA	NA	0 	Customer	12/31/1999
+NA	RAUF FAROOQI SB	NA	0306-4067779	NA	NA	NA	0 	Customer	12/31/1999
+NA	RAUF FAROOQI Sb	NA	13244452112	NA	NA	NA	0 	Customer	12/31/1999
+NA	raza sb.	NA	0321-4399403	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rizwan Sb	NA	03004344704	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rizwan Sb	NA	03214840055	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rizwan Sb 184	NA	03004246003	NA	NA	NA	0 	Customer	12/31/1999
+NA	RIZWAN Sb C/O SAAD HASHMI	NA	03008402472	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rubina Nabi	NA	03224122352	NA	NA	NA	0 	Customer	12/31/1999
+NA	Rubina Nabi	NA	03224122352	NA	NA	NA	0 	Customer	12/31/1999
+NA	S/S Builders	NA	03225005678	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sabir Ali	NA	0300-9447253	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saeed Sb	NA	03214988255	NA	NA	NA	0 	Customer	12/31/1999
+NA	Safdar sb	NA	03214465159	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sahr	NA	03088888719	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAJID MALIK	NA	03214770851	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAJID MUNIR SULEHRI	NA	03014241078	NA	NA	NA	0 	Customer	12/31/1999
+NA	sajid sab	NA	0300 6820800	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sajid Sb	NA	03004822116	NA	NA	NA	0 	Customer	12/31/1999
+NA	sajid sb	NA	0300-4822116	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAJID Sb C/O ASIM BUTT	NA	03009405371	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAJID TASNEEM SB	NA	0300-4822116	NA	NA	NA	0 	Customer	12/31/1999
+NA	salbeel mir sb	NA	0321-4029028	NA	NA	NA	0 	Customer	12/31/1999
+NA	SALEEM BILAL SB.	NA	0300-6079123	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saleem Sb	NA	03004555937	NA	NA	NA	0 	Customer	12/31/1999
+NA	SALEEM Sb	NA	03214555937	NA	NA	NA	0 	Customer	12/31/1999
+NA	Salman  Sb	NA	03008467868	NA	NA	NA	0 	Customer	12/31/1999
+NA	salman asosciates.	NA	0300-8467868	NA	NA	NA	0 	Customer	12/31/1999
+NA	Salman C/O Mian Nadeem	NA	03008467868	NA	NA	NA	0 	Customer	12/31/1999
+NA	Salman Saeed	NA	03214505200	NA	NA	NA	0 	Customer	12/31/1999
+NA	Salman Sb	NA	0300 846768	NA	NA	NA	0 	Customer	12/31/1999
+NA	SALMAN SB	NA	03008467876	NA	NA	NA	0 	Customer	12/31/1999
+NA	SALMAN SB 117-L	NA	0323-4324861	NA	NA	NA	0 	Customer	12/31/1999
+NA	salman sb.	NA	0300-846768	NA	NA	NA	0 	Customer	12/31/1999
+NA	Salman Sheik Sb	NA	03218888893	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAMI SB C/O ARCH SHOAIB SB	NA	0321-4025402	NA	NA	NA	0 	Customer	12/31/1999
+NA	Samira Asim	NA	03018248544	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sana Ali	NA	03005147444	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saqib Sb	NA	03009480112	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saqib Sb	NA	0321-4018700	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saqib Sb	NA	0333-4408852	NA	NA	NA	0 	Customer	12/31/1999
+NA	Saqib Sb	NA	0323-8441211	NA	NA	NA	0 	Customer	12/31/1999
+NA	SAQIB SB C/O MIAN NADEEM SB	NA	03458433333	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sardar Abdul Qadoos Sb	NA	0333 4262232	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHABAZ ALI SB	NA	03224711963	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHABBER AHMAD Sb	NA	03334237572	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shabbir Malik Sb.	NA	03214500188	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shabbir Skber Sb	NA	0333-4237572	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shafiq Ahmad Sb	NA	03014317379	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shafqat Ramzan Sb	NA	03008436226	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAFQAT RAMZAN SB	NA	0300-8436226	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Amin Sb	NA	03334440440	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Bhatti Sb	NA	0301-6410011	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Bilal	NA	03454022118	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid ch Sb	NA	03234898090	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Dewaan	NA	03334290823	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHID HASHMI SB	NA	0321-8031976	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Khan Sb	NA	03214251200	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHID MAHMOOD SB	NA	0300-8460990	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Majeed Sb	NA	03234194444	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Malik	NA	03224285095	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Malik	NA	03214461260	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHID SAEED C/O AR SAAD	NA	03002005594	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Sb	NA	0321 9484755	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahid Sb	NA	03008423945	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHID Sb	NA	03008898725	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahrukh Sb	NA	03218080530	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahrukh Taimorr	NA	03314090331	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHZAB SB C/O MAHMOOD SB	NA	03214999657	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Mirza	NA	0300-8406474	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Mirza	NA	0300-8406474	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Nazar	NA	03004744465	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHZAD SAB	NA	03008448838	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Saeed	NA	03334808600	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHZAD SB	NA	0321-44440374	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Sb	NA	03214842365	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Sb	NA	03332133435	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shahzad Sb	NA	03354244091	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAHZAIB QURESHI Sb	NA	03008442204	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shaikh Nadeem Sb	NA	03009493468	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shakeel Butt C/O Mehmood	NA	03004290509	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAKEEL SB	NA	0321-2221627	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAKEEL SB	NA	03213331627	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shamim Burni Sb.	NA	0333-4848560	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHARIF Sb C/O FAISAL MIRZA Sb	NA	03218449331	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shayan Sb	NA	03214010555	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAZAD IQBAL	NA	03216620178	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHAZAL SB	NA	03218888935	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shazia Tahir Sb	NA	03334415119	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Adnan Builder	NA	03216676667	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Aftab Sb	NA	03334212232	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHEIKH AFZAL SB	NA	0321-8460108	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Ahsan	NA	0300-8403031	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Ahsan	NA	0300-8403031	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHEIKH AHSAN SB	NA	0321445006	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Amjad	NA	03204333818	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Imran	NA	03004240172	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Khalid KTC	NA	03238449951	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Munir C/O Shoaib	NA	03009411112	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Rizwan Sb	NA	03219450484	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHEIKH Sb	NA	03218475730	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Thair Sb	NA	03004003900	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Umar Sb	NA	0322 4614001	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sheikh Zahid Sb	NA	0322 4931649	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHELTER ASSOCIATES	NA	042-36667917	NA	NA	NA	0 	Customer	12/31/1999
+NA	Shoaib sb	NA	03009425723	NA	NA	NA	0 	Customer	12/31/1999
+NA	SHOAIB SB	NA	03222555333	NA	NA	NA	0 	Customer	12/31/1999
+NA	SIKANDAR Sb	NA	03224432222	NA	NA	NA	0 	Customer	12/31/1999
+NA	SOBAN Sb	NA	0321-9475550	NA	NA	NA	0 	Customer	12/31/1999
+NA	SOBAN Sb	NA	03219475550	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sohaib Afzal C/O Shoaib	NA	03214455711	NA	NA	NA	0 	Customer	12/31/1999
+NA	SOHAIB AHMAD Sb	NA	03214009270	NA	NA	NA	0 	Customer	12/31/1999
+NA	SOHAIB Sb	NA	03214015565	NA	NA	NA	0 	Customer	12/31/1999
+NA	sohail Akram sb	NA	0333-8271723	NA	NA	NA	0 	Customer	12/31/1999
+NA	sohail sb.	NA	0300-9491222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sohail Warraich Sb	NA	03334249456	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sophia Farm C/O Salman Ar	NA	03227833373	NA	NA	NA	0 	Customer	12/31/1999
+NA	STD Company C/O Waseem Sb Landlord	NA	03224232063	NA	NA	NA	0 	Customer	12/31/1999
+NA	SUBHAN SB	NA	0322-4443699	NA	NA	NA	0 	Customer	12/31/1999
+NA	Subhan Sb	NA	03009471417	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sufyan Sb	NA	0321-7777763	NA	NA	NA	0 	Customer	12/31/1999
+NA	SULEMAN BUILDER	NA	0320-4000154	NA	NA	NA	0 	Customer	12/31/1999
+NA	Sultan Sb C/O Imran Sb	NA	0300-4872277	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Amjad Shah Sb	NA	03214441105	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Arjumand Bukhari	NA	03362800000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Bin Amine Sb	NA	03244447674	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED BIN AMINE Sb	NA	03244447672	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED BROTHERS	NA	03334425606	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED BROTHERS	NA	03224359032	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Brothers	NA	03334209597	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED BROTHIRS 455	NA	03224359032	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Ibne Abbas Sb	NA	03008731415	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED MOHSIA	NA	03354039013	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Muhammad Ali	NA	0300-8424424	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Sarosh Sb	NA	0300-8442752	NA	NA	NA	0 	Customer	12/31/1999
+NA	SYED SHAHBAZ HUSSAIN	NA	03437334306	NA	NA	NA	0 	Customer	12/31/1999
+NA	Syed Zahid Ali	NA	03214212694	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir	NA	0300-9676357	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Anwar Sb	NA	03018370677	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Arif C/O Saad	NA	03217428578	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Baig Sb	NA	0300-4143504	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir khan sb	NA	03214525655	NA	NA	NA	0 	Customer	12/31/1999
+NA	TAHIR SAB	NA	03225303333	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Sb	NA	03008401421	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Sb	NA	0300-4771772	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahir Sb	NA	03219405808	NA	NA	NA	0 	Customer	12/31/1999
+NA	TAHIR Sb	NA	03204329076	NA	NA	NA	0 	Customer	12/31/1999
+NA	TAHIR Sb	NA	03214434442	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tahseen Sb	NA	03008567230	NA	NA	NA	0 	Customer	12/31/1999
+NA	TAJ KHAN SB C/O WSEEM SB	NA	0321-8400811	NA	NA	NA	0 	Customer	12/31/1999
+NA	TALAL KHAN Sb	NA	03238415352	NA	NA	NA	0 	Customer	12/31/1999
+NA	Talha Saeed	NA	03214362222	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tallah Sb	NA	03214362222	NA	NA	NA	0 	Customer	12/31/1999
+NA	TANVEER BUTT Sb	NA	03234041235	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tanveer Sb	NA	0345-8645554	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tanveer sb	NA	03004222114	NA	NA	NA	0 	Customer	12/31/1999
+NA	TANVEER USMAN Sb	NA	03458645554	NA	NA	NA	0 	Customer	12/31/1999
+NA	TARIQ ALI Sb	NA	03009402781	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tariq Mehmood	NA	03008415084	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tariq Mehmood Sb	NA	03009493908	NA	NA	NA	0 	Customer	12/31/1999
+NA	TARIQ MUGHAL	NA	03008468886	NA	NA	NA	0 	Customer	12/31/1999
+NA	TARIQ Sb	NA	03334440440	NA	NA	NA	0 	Customer	12/31/1999
+NA	TARIQ WATTO Sb	NA	03008488415	NA	NA	NA	0 	Customer	12/31/1999
+NA	TASEEN Sb	NA	03004352156	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tayyab Sb C/O Shoaib	NA	03218000035	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC -527G	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Tcc 171 C	NA	03244735184	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 278 DD	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 279-CC	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 289-Y	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 358	NA	03344365810	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 480-K	NA	0324-4735184	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 68/1	NA	03244016478	NA	NA	NA	0 	Customer	12/31/1999
+NA	TCC 74CC	NA	03214455337	NA	NA	NA	0 	Customer	12/31/1999
+NA	Toseef Ahmad	NA	03004128050	NA	NA	NA	0 	Customer	12/31/1999
+NA	TOUSEEF Sb	NA	03227571667	NA	NA	NA	0 	Customer	12/31/1999
+NA	TOUSEEF SB C/O ARCH SHOAIB SB	NA	0322-7571667	NA	NA	NA	0 	Customer	12/31/1999
+NA	TOUSEF Sb	NA	03227571667	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umair Chattha Sb	NA	03008748121	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umar Bashir Sb	NA	03224533754	NA	NA	NA	0 	Customer	12/31/1999
+NA	UMAR SB	NA	03218664690	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umar Sb	NA	0322-8866886	NA	NA	NA	0 	Customer	12/31/1999
+NA	UMAR SB	NA	0321-4402726	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umar Sb	NA	03014290377	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umer C/O Ali Bukhari	NA	03214187775	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umer Iqbal	NA	03224109111	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umer sb	NA	0301-4290377	NA	NA	NA	0 	Customer	12/31/1999
+NA	Umer Sb C/O Shoaib	NA	03218448468	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN  SB	NA	03214435235	NA	NA	NA	0 	Customer	12/31/1999
+NA	Usman Javaid	NA	03218422116	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN LATEEF	NA	0323-4699594	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN MASOOD SB	NA	03324330396	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN RANA C/O ARCH FAIZAN	NA	0300-8644838	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN SAB	NA	03004004188	NA	NA	NA	0 	Customer	12/31/1999
+NA	USMAN SB.	NA	03247 88 88 88	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waheed Ahmad	NA	03237686666	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAHEED SB	NA	0321-4437135	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAHEED SB.	NA	0321-4437135	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAIZZ BUTT C/O MIAN HASSAN	NA	0301-4567894	NA	NA	NA	0 	Customer	12/31/1999
+NA	waji-ud-din	NA	0345-8405000	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAJID ALI Sb	NA	03009480048	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAJID ALI Sb	NA	03219434035	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAJID Sb C/O FAISAL MIRZA Sb	NA	03008505556	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAQAR SB	NA	0323-4784792	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waqas Gull	NA	0321-4066531	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waqas Sb	NA	0333-4542590	NA	NA	NA	0 	Customer	12/31/1999
+NA	WAQAS Sb	NA	03214001955	NA	NA	NA	0 	Customer	12/31/1999
+NA	WASAF SB	NA	03008492144	NA	NA	NA	0 	Customer	12/31/1999
+NA	WASEEM C/O ARCH JIYYAD SB	NA	03219419440	NA	NA	NA	0 	Customer	12/31/1999
+NA	waseem DURRANI SB	NA	0300 4141819	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waseem Manzoor Sb	NA	0300 8443945	NA	NA	NA	0 	Customer	12/31/1999
+NA	WASEEM SB	NA	0321-8443945	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waseem Sb	NA	03067622030	NA	NA	NA	0 	Customer	12/31/1999
+NA	WASEEM Sb C/O SAAD	NA	03004240682	NA	NA	NA	0 	Customer	12/31/1999
+NA	Waseem Sial Sb SSP	NA	Not Available	NA	NA	NA	0 	Customer	12/31/1999
+NA	Wasiq Ahmed Sb	NA	03024787411	NA	NA	NA	0 	Customer	12/31/1999
+NA	YASIN SB	NA	03454930500	NA	NA	NA	0 	Customer	12/31/1999
+NA	YASIR SB	NA	0321-4398138	NA	NA	NA	0 	Customer	12/31/1999
+NA	YASIR Sb	NA	03004320675	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZAFAR MAJEED SB	NA	03009446282	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZAFAR SB C/O NISAR CHUGHTAI SB	NA	03008456219	NA	NA	NA	0 	Customer	12/31/1999
+NA	zafar usmani	NA	0314-3266666	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZAHEER A KHAN SB	NA	0300-8889945	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zaheer Ahmad C/O Mansha	NA	03225599933	NA	NA	NA	0 	Customer	12/31/1999
+NA	zahid khan	NA	0300-8462636	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZAHID LATIF C/O HASSAN JAMEEL	NA	0321-8477762	NA	NA	NA	0 	Customer	12/31/1999
+NA	zahid sb	NA	03234342481	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zahid Sb	NA	03004891230	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zahra Raza	NA	03234549000	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zain Sb	NA	03222227724	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zain Sb	NA	03222227724	NA	NA	NA	0 	Customer	12/31/1999
+NA	Zakaullah Sb	NA	03216489999	NA	NA	NA	0 	Customer	12/31/1999
+NA	zaman khan	NA	03469131313	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZEESHAN BUTT Sb C/O ALI RAZA Sb	NA	03018453880	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZEESHAN SB C/O SHOAIB SB	NA	0300-9418203	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZEESHAN SB C/O SHOAIB SB	NA	0300-9418203	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZUBAIR MAHMOOD SB	NA	03218449459	NA	NA	NA	0 	Customer	12/31/1999
+NA	ZUBAIR SB	NA	03008426262	NA	NA	NA	0 	Customer	12/31/1999

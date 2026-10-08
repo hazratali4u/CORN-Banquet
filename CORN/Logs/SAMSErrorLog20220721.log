@@ -1,0 +1,134 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 10:44:14
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 11:06:07
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+ClientConnectionId:2ab22dc5-3b43-41a6-ba23-2cf7b7930286
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 11:24:43
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 11:31:24
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 11:43:26
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:20:48
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+The statement has been terminated. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+ClientConnectionId:128c83a3-cc5c-4067-8f61-3e386c5198c3
+Error Number:-2,State:0,Class:11
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:21:29
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1546
+ClientConnectionId:128c83a3-cc5c-4067-8f61-3e386c5198c3
+Error Number:-2,State:0,Class:11
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:21:59
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1546
+ClientConnectionId:128c83a3-cc5c-4067-8f61-3e386c5198c3
+Error Number:-2,State:0,Class:11
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:22:34
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1546
+ClientConnectionId:128c83a3-cc5c-4067-8f61-3e386c5198c3
+Error Number:-2,State:0,Class:11
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:23:57
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1546
+ClientConnectionId:128c83a3-cc5c-4067-8f61-3e386c5198c3
+Error Number:-2,State:0,Class:11
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:38:36
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 12:40:00
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 21 Jul 22 05:07:35
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'SKU_ID', table 'AyraEvents.dbo.SKU_CATEGORY'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1489
+ClientConnectionId:02ccbe25-738f-41d8-9f33-8a585c185fa4
+Error Number:515,State:2,Class:16
+: ----------------------------------

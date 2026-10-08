@@ -1,0 +1,186 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:02:07
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:03:24
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:03:31
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:04:39
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:05:04
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:05:54
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:06:27
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:06:43
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 81
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 p_ID, DateTime Booking_date, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1339
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 10:37:24
+Exception Information:
+System.ArgumentException: The SqlParameter is already contained by another SqlParameterCollection.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 83
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 10:44:35
+Exception Information:
+System.ArgumentException: The SqlParameter is already contained by another SqlParameterCollection.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID)
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 10:51:43
+Exception Information:
+System.ArgumentException: The SqlParameter is already contained by another SqlParameterCollection.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 10:53:31
+Exception Information:
+System.ArgumentException: The SqlParameter is already contained by another SqlParameterCollection.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 11:01:48
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spInsertFinal_budget' expects parameter '@ID', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+ClientConnectionId:e9a35db2-6964-4df7-82f4-2519e482d800
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 11:14:45
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spInsertFinal_budget' expects parameter '@INTERNAL_COST', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+ClientConnectionId:f6e27d1e-c5b2-48d9-b96a-88a707c9da7f
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 11:39:54
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spInsertFinal_budget' expects parameter '@INTERNAL_COST', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+ClientConnectionId:831fae94-cd07-4ac9-8e42-90120d48411c
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 11:41:02
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spInsertFinal_budget' expects parameter '@INTERNAL_COST', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+ClientConnectionId:831fae94-cd07-4ac9-8e42-90120d48411c
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 11:59:49
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'FINAL_BUDGET_ID', table 'AyraEvents.dbo.SKU_FINAL_BUDGET'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 82
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1350
+ClientConnectionId:33b4762f-cd72-4115-9bcb-cdb4ae7324b1
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 12:21:41
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'FINAL_BUDGET_ID', table 'AyraEvents.dbo.SKU_FINAL_BUDGET'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1351
+ClientConnectionId:ae6dc1c2-6486-41c1-b6bf-51e2d8dd6836
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 25 Jul 22 03:52:51
+Exception Information:
+System.IndexOutOfRangeException: Cannot find table 0.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 133
+   at CORNBusinessLayer.Classes.SkuController.SelectFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Boolean STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1398
+: ----------------------------------

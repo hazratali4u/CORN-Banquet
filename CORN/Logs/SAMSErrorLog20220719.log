@@ -1,0 +1,199 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 09:41:34
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'COMPANY_ID', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 74
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1473
+ClientConnectionId:bc44af12-ccbf-417b-9873-c9cb99b9a7fa
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 09:49:17
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'COMPANY_ID', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 74
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1473
+ClientConnectionId:bc44af12-ccbf-417b-9873-c9cb99b9a7fa
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 10:00:02
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'SKU_CODE', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 74
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1473
+ClientConnectionId:bc44af12-ccbf-417b-9873-c9cb99b9a7fa
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 10:37:23
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 125
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1512
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 10:38:06
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 125
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1512
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 04:53:41
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 04:56:42
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 04:59:48
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor)
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 05:07:55
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor)
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 05:08:56
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor)
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 05:10:19
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor)
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 05:15:58
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 05:58:45
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:20:44
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:21:30
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:23:14
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:37:28
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:38:11
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:39:08
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:42:03
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 19 Jul 22 06:51:02
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------

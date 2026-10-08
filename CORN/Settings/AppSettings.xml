@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Server>DESKTOP-DQB0974</Server>
+  <DBName>AyraEvents</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+</AppSettings>

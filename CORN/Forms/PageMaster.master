@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Forms/Test.master" AutoEventWireup="true" CodeFile="PageMaster.master.cs" Inherits="Forms_PageMaster" %>
+<asp:Content ID="Content2" ContentPlaceHolderID="mainCopy" Runat="Server">
+<asp:ContentPlaceHolder ID="cphHeadPage" runat="server">
+    <style>
+        #blockers
+        {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: .5;
+            background-color: #000;
+            z-index: 1000;
+            overflow: auto;
+        }
+            #blockers div
+            {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: 5em;
+                height: 2em;
+                margin: -1em 0 0 -2.5em;
+                color: #fff;
+                font-weight: bold;
+            }
+    
+            #blockers img
+            {
+                position: relative;
+                top: -55px;
+                left: 15%;
+            }
+            .Mytable > thead > tr > th, .Mytable > tbody > tr > th, .Mytable > tfoot > tr > th, .Mytable > thead > tr > td, .Mytable > tbody > tr > td, .Mytable > tfoot > tr > td{
+                border:none !important;
+            }
+    </style>
+
+    <div id="dialogAlert" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    <p>One fine body&hellip;</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</asp:ContentPlaceHolder>
+<asp:ContentPlaceHolder ID="cphPage" runat="server">
+</asp:ContentPlaceHolder>
+</asp:Content>

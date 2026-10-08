@@ -1,0 +1,10 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jul 22 04:17:06
+Exception Information:
+System.IndexOutOfRangeException: Cannot find table 0.
+   at CORNDatabaseLayer.InputClasses.spInsertFinal_budget.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFinal_budget.cs:line 134
+   at CORNBusinessLayer.Classes.SkuController.SelectFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1404
+: ----------------------------------

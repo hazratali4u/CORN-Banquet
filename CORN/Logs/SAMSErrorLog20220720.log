@@ -1,0 +1,230 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 09:28:53
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:db9ac6be-d0e9-4946-ba03-c21eab45bc3b
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 09:38:31
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:59943b54-59ca-4b74-832a-c20e13aa2c03
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 09:46:55
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:ddd165ec-b472-4f9e-80ed-b1533fa19d45
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 09:50:28
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:144bbc36-646e-4ff2-8685-22f7c6521960
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 09:54:31
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:24fe9e39-fa1f-478d-9bb9-70f4427ae521
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:02:12
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1524
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:03:02
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID)
+ClientConnectionId:acc04524-8b1c-42bf-b45b-703612c46bab
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:08:47
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:7e0deed8-b480-429b-af3d-f09ab07c14a4
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:10:26
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID)
+ClientConnectionId:7e0deed8-b480-429b-af3d-f09ab07c14a4
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:15:45
+Exception Information:
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1524
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:16:44
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID)
+ClientConnectionId:f4f22582-c158-4bd7-9d9f-06985db6162c
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:25:18
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1526
+ClientConnectionId:94e9da26-f51d-4a1a-8dd4-25a506531248
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:42:29
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure spSelectSKUSNew has no parameters and arguments were supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectSKUSNew.cs:line 122
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1523
+ClientConnectionId:8ded3e04-0798-4771-b4d0-173dfcb6d074
+Error Number:8146,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 10:49:25
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSKUSNew has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1527
+ClientConnectionId:79de7e21-f4a7-4065-a882-1abf6d559651
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 11:00:24
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): The formal parameter "@ID" was not declared as an OUTPUT parameter, but the actual parameter passed in requested output.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 126
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSNew(String SKU_Name, String Description, Boolean IsActive, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1527
+ClientConnectionId:3725f200-e2db-4a2f-ab41-ae7ce64cb872
+Error Number:8162,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 11:12:45
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1482
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 12:15:11
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1484
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 12:26:36
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertSku_Category has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Category.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1489
+ClientConnectionId:2ffe81c2-db78-45c6-aca2-7c7fb744e522
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 12:32:51
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'CATEGORY_ID', table 'AyraEvents.dbo.SKU_CATEGORY'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Category.ExecuteQuery()
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1489
+ClientConnectionId:2ffe81c2-db78-45c6-aca2-7c7fb744e522
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 12:38:30
+Exception Information:
+System.InvalidOperationException: ExecuteNonQuery requires the command to have a transaction when the connection assigned to the command is in a pending local transaction.  The Transaction property of the command has not been initialized.
+   at CORNDatabaseLayer.InputClasses.spInsertSku_Vendor.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSku_Vendor.cs:line 76
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1502
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 05:04:41
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 20 Jul 22 06:11:25
+Exception Information:
+System.InvalidCastException: Specified cast is not valid.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID, DataTable dtSKUCategory, DataTable dtSKUVendor) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1476
+: ----------------------------------

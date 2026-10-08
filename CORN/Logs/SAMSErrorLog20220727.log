@@ -1,0 +1,56 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 27 Jul 22 03:26:27
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spSelectVoucherNumber' expects parameter '@Voucher_no', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectVoucherNumber.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectVoucherNumber.cs:line 118
+   at CORNBusinessLayer.Classes.SkuHierarchyController.DDLVoucherNumber(Int32 id, String Voucher_no) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 234
+ClientConnectionId:747e73ec-706c-4e2b-8819-ea3a70af5bc2
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 27 Jul 22 03:31:23
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure spSelectVoucherNumber has no parameters and arguments were supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectVoucherNumber.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectVoucherNumber.cs:line 118
+   at CORNBusinessLayer.Classes.SkuHierarchyController.DDLVoucherNumber(Int32 id, String Voucher_no) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 234
+ClientConnectionId:747e73ec-706c-4e2b-8819-ea3a70af5bc2
+Error Number:8146,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 27 Jul 22 03:34:46
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure spSelectVoucherNumber has no parameters and arguments were supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectVoucherNumber.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectVoucherNumber.cs:line 118
+   at CORNBusinessLayer.Classes.SkuHierarchyController.DDLVoucherNumber(Int32 id, String Voucher_no) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 234
+ClientConnectionId:747e73ec-706c-4e2b-8819-ea3a70af5bc2
+Error Number:8146,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 27 Jul 22 03:36:22
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spSelectVoucherNumber' expects parameter '@Voucher_no', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectVoucherNumber.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelectVoucherNumber.cs:line 118
+   at CORNBusinessLayer.Classes.SkuHierarchyController.DDLVoucherNumber(Int32 id, String Voucher_no) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 234
+ClientConnectionId:747e73ec-706c-4e2b-8819-ea3a70af5bc2
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 27 Jul 22 03:40:47
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spSelectVoucherNumber' expects parameter '@Voucher_no', which was not supplied.
+   at CORNDatabaseLayer.InputClasses.spSelectVoucherNumber.ExecuteTable()
+   at CORNBusinessLayer.Classes.SkuHierarchyController.DDLVoucherNumber(Int32 id, String Voucher_no) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 234
+ClientConnectionId:f9e253c5-1366-4c68-ae65-e326fdbcd59c
+Error Number:201,State:4,Class:16
+: ----------------------------------

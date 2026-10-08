@@ -1,0 +1,100 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 12:35:25
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 12:42:59
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 12:52:33
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 12:57:19
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 12:59:23
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 03:38:09
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 03:38:14
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 03:38:29
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 03 Aug 22 03:39:28
+Exception Information:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at CORNBusinessLayer.Classes.SkuController.InsertFinalBudget(Int32 FINAL_BUDGET_ID, Int32 USER_ID, Int32 CATEGORY_ID, Int32 VENDOR_ID, Int32 SKU_ID, String SIZE_DESCRIPTION, String QUANTITY, String RATE, String INTERNAL_COST, String MARGIN, String EXTERNAL_COST, Int32 STATUS, Boolean IS_ACTIVE, Int32 VOUCHER_ID, DataTable FinalbudgetData, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1348
+: ----------------------------------

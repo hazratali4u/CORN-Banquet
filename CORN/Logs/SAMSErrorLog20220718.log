@@ -1,0 +1,25 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 18 Jul 22 06:27:28
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'COMPANY_ID', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 74
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1473
+ClientConnectionId:8f7f7b04-5068-4ccc-aedc-8ae4e6889f81
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 18 Jul 22 06:32:20
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'COMPANY_ID', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.InputClasses.spInsertSKUSNew.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUSNew.cs:line 74
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSNew(Int32 SKU_ID, String SKU_Name, String Description, Boolean IsActive, Int32 USER_ID, Int32 TYPE_ID)
+ClientConnectionId:8f7f7b04-5068-4ccc-aedc-8ae4e6889f81
+Error Number:515,State:2,Class:16
+: ----------------------------------

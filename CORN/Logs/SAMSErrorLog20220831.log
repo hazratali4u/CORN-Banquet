@@ -1,0 +1,286 @@
+
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:12:14
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:12:14
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:12:30
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:12:30
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:14:05
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spUpdatePURCHASE_MASTER' expects parameter '@FREIGHT_AMOUNT', which was not supplied.
+   at CORNDatabaseLayer.Classes.spUpdatePURCHASE_MASTER.ExecuteQuery() in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spUpdatePURCHASE_MASTER.cs:line 334
+   at CORNBusinessLayer.Classes.LedgerController.UpdatePurchaseMaster(Int64 p_INVOICE_ID, Int32 p_Distributor_Id, Decimal p_Current_Amount) in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\LedgerController.cs:line 2246
+ClientConnectionId:3de730de-5681-445c-b328-e8e006acfdee
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:14:13
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:14:14
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:18:02
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:18:02
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:10
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:11
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:19
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:19
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:45
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spUpdatePURCHASE_MASTER' expects parameter '@FREIGHT_AMOUNT', which was not supplied.
+   at CORNDatabaseLayer.Classes.spUpdatePURCHASE_MASTER.ExecuteQuery() in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spUpdatePURCHASE_MASTER.cs:line 334
+   at CORNBusinessLayer.Classes.LedgerController.UpdatePurchaseMaster(Int64 p_INVOICE_ID, Int32 p_Distributor_Id, Decimal p_Current_Amount) in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\LedgerController.cs:line 2246
+ClientConnectionId:3de730de-5681-445c-b328-e8e006acfdee
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:51
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:19:51
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:12
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spUpdatePURCHASE_MASTER' expects parameter '@FREIGHT_AMOUNT', which was not supplied.
+   at CORNDatabaseLayer.Classes.spUpdatePURCHASE_MASTER.ExecuteQuery() in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spUpdatePURCHASE_MASTER.cs:line 334
+   at CORNBusinessLayer.Classes.LedgerController.UpdatePurchaseMaster(Int64 p_INVOICE_ID, Int32 p_Distributor_Id, Decimal p_Current_Amount) in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\LedgerController.cs:line 2246
+ClientConnectionId:3de730de-5681-445c-b328-e8e006acfdee
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:42
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:42
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:53
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spUpdatePURCHASE_MASTER' expects parameter '@FREIGHT_AMOUNT', which was not supplied.
+   at CORNDatabaseLayer.Classes.spUpdatePURCHASE_MASTER.ExecuteQuery() in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spUpdatePURCHASE_MASTER.cs:line 334
+   at CORNBusinessLayer.Classes.LedgerController.UpdatePurchaseMaster(Int64 p_INVOICE_ID, Int32 p_Distributor_Id, Decimal p_Current_Amount) in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\LedgerController.cs:line 2246
+ClientConnectionId:1dfb00fe-7821-40fe-8077-ebf052be8fed
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:57
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 04:24:57
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 05:06:15
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'spUpdatePURCHASE_MASTER' expects parameter '@FREIGHT_AMOUNT', which was not supplied.
+   at CORNDatabaseLayer.Classes.spUpdatePURCHASE_MASTER.ExecuteQuery() in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spUpdatePURCHASE_MASTER.cs:line 334
+   at CORNBusinessLayer.Classes.LedgerController.UpdatePurchaseMaster(Int64 p_INVOICE_ID, Int32 p_Distributor_Id, Decimal p_Current_Amount) in D:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\LedgerController.cs:line 2246
+ClientConnectionId:d12e898c-aed9-4734-b906-9ce9f8b0ef34
+Error Number:201,State:4,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 05:19:50
+Exception Information:
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Forms_Default.Page_Load(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 46
+: ----------------------------------
+Machine Name:: DESKTOP-DQB0974
+User Name   :: ijaz
+OS Version  :: Microsoft Windows NT 10.0.22000.0
+Date Time   :: 31 Aug 22 05:19:51
+Exception Information:
+System.ObjectDisposedException: Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at System.IO.FileStream.Flush()
+   at Forms_Default.Page_Unload(Object sender, EventArgs e) in d:\FS Apps\AYRA Events\AYRA\CORN-Banquet\CORN\Forms\Default.aspx.cs:line 125
+: ----------------------------------

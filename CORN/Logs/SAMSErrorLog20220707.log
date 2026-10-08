@@ -1,0 +1,35 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 07 Jul 22 10:08:48
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'BRAND_ID', table 'AyraEvents.dbo.SKUS'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at CORNDatabaseLayer.Classes.spInsertSKUS.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertSKUS.cs:line 878
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUS(Boolean p_IsDesc, Boolean p_IsExempted, Boolean p_IsActive, Char p_Gst_On, Int32 p_Company_Id, Int32 p_Division_Id, Int32 p_Category_Id, Int32 p_Brand_Id, Int32 p_Variant_Id, Decimal p_GST_Rate_Reg, Decimal p_GST_Rate_Unreg, Int16 p_Units_In_Case, String p_Sku_Code, String p_Sku_Name, String p_Ip_Address, String p_packSize, Int32 p_UserId, Int32 Companyid, String p_DESCRIPTION, Int32 pSectionId, Boolean p_IsDeal, Boolean p_IsModifier, Decimal minlevel, Decimal reorderlevel, Boolean p_IsRecipe, Boolean p_IS_HasMODIFIER, Int32 p_intSaleMUnitCode, Int32 p_intPurchaseMUnitCode, Int32 p_intStockMUnitCode, Single p_fltFEDPercentage, Single p_fltWHTPercentage, Single p_fltAgeInDays, Boolean p_IsMarketItem, Boolean p_IsReplaceable, Boolean p_IsFEDItem, Boolean p_IsWHTItem, Boolean p_IsSerialized, Boolean p_IsHazardous, Boolean p_IsBatchItem, Boolean p_IsOverSaleAllowed, Boolean p_IsExpiryAllowed, Boolean p_IsWarehouseItem, Decimal p_MAX_LEVEL, Decimal p_Sale_to_PurchaseFactor, Decimal p_Purchase_to_SaleFactor, Decimal p_Sale_to_StockFactor, Decimal p_Purchase_to_StockFactor, Decimal p_Default_Qty, Decimal p_Stock_to_SaleFactor, Decimal p_Stock_to_PurchaseFactor, String p_Sale_to_PurchaseOperator, String p_Purchase_to_SaleOperator, String p_Sale_to_StockOperator, String p_Purchase_to_StockOperator, String p_Stock_to_SaleOperator, String p_Stock_to_PurchaseOperator, String p_strDescription, String p_strSerialCode, String p_strStatus, String p_strERPCode, Single p_ShelfAgeInDays, Int32 p_MUnitLifeCode, Boolean p_IsInventoryWeight, Boolean p_DescOnKOT, String p_BUTTON_COLOR, String p_SKU_IMAGE, Boolean p_IsSaleWeight, Boolean p_IsUnGroup, Boolean p_IsPackage) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1429
+ClientConnectionId:f1319209-cf47-459c-a759-1c7b5e58612e
+Error Number:515,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 07 Jul 22 05:01:24
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure spSelect_EventType has no parameters and arguments were supplied.
+   at CORNDatabaseLayer.InputClasses.spSelect_EventType.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spSelect_EventType.cs:line 122
+   at CORNBusinessLayer.Classes.SkuHierarchyController.SelectDropdown(Int32 EventTypeID, String EventName, Boolean IS_ACTIVE) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUHierarchyController.cs:line 113
+ClientConnectionId:62fb94e5-9f3e-4b88-a57a-f9b0829bec23
+Error Number:8146,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 07 Jul 22 06:00:00
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 130
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, String Name, Int32 Event_TypeID, String Location, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1263
+ClientConnectionId:97a23e8e-f324-4b7f-b0ef-dbe1be0d7ff8
+Error Number:8144,State:2,Class:16
+: ----------------------------------

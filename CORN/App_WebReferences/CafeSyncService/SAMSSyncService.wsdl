@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetServerData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="p_LASTUPDATE_DATE" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="p_TYPE" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="p_DISTRIBUTOR_ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetServerDataResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerLastUpdateDateTime">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="p_TYPE" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="p_DISTRIBUTOR_ID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerLastUpdateDateTimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetServerLastUpdateDateTimeResult" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSaleInvoiceMasterServer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dtParams">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSaleInvoiceMasterServerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSaleInvoiceMasterServerResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSaleInvoiceDetailServer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dtParams">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSaleInvoiceDetailServerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSaleInvoiceDetailServerResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSKUStockRegisterServer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dtParams">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSKUStockRegisterServerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSKUStockRegisterServerResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCustomerServer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dtParams">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCustomerServerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertCustomerServerResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetServerDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerData" />
+  </wsdl:message>
+  <wsdl:message name="GetServerDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerLastUpdateDateTimeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerLastUpdateDateTime" />
+  </wsdl:message>
+  <wsdl:message name="GetServerLastUpdateDateTimeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerLastUpdateDateTimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSaleInvoiceMasterServerSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSaleInvoiceMasterServer" />
+  </wsdl:message>
+  <wsdl:message name="InsertSaleInvoiceMasterServerSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSaleInvoiceMasterServerResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSaleInvoiceDetailServerSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSaleInvoiceDetailServer" />
+  </wsdl:message>
+  <wsdl:message name="InsertSaleInvoiceDetailServerSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSaleInvoiceDetailServerResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSKUStockRegisterServerSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSKUStockRegisterServer" />
+  </wsdl:message>
+  <wsdl:message name="InsertSKUStockRegisterServerSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSKUStockRegisterServerResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerServerSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCustomerServer" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerServerSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCustomerServerResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SAMSSyncServiceSoap">
+    <wsdl:operation name="GetServerData">
+      <wsdl:input message="tns:GetServerDataSoapIn" />
+      <wsdl:output message="tns:GetServerDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerLastUpdateDateTime">
+      <wsdl:input message="tns:GetServerLastUpdateDateTimeSoapIn" />
+      <wsdl:output message="tns:GetServerLastUpdateDateTimeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceMasterServer">
+      <wsdl:input message="tns:InsertSaleInvoiceMasterServerSoapIn" />
+      <wsdl:output message="tns:InsertSaleInvoiceMasterServerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceDetailServer">
+      <wsdl:input message="tns:InsertSaleInvoiceDetailServerSoapIn" />
+      <wsdl:output message="tns:InsertSaleInvoiceDetailServerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSKUStockRegisterServer">
+      <wsdl:input message="tns:InsertSKUStockRegisterServerSoapIn" />
+      <wsdl:output message="tns:InsertSKUStockRegisterServerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerServer">
+      <wsdl:input message="tns:InsertCustomerServerSoapIn" />
+      <wsdl:output message="tns:InsertCustomerServerSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SAMSSyncServiceSoap" type="tns:SAMSSyncServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetServerData">
+      <soap:operation soapAction="http://tempuri.org/GetServerData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerLastUpdateDateTime">
+      <soap:operation soapAction="http://tempuri.org/GetServerLastUpdateDateTime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceMasterServer">
+      <soap:operation soapAction="http://tempuri.org/InsertSaleInvoiceMasterServer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceDetailServer">
+      <soap:operation soapAction="http://tempuri.org/InsertSaleInvoiceDetailServer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSKUStockRegisterServer">
+      <soap:operation soapAction="http://tempuri.org/InsertSKUStockRegisterServer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerServer">
+      <soap:operation soapAction="http://tempuri.org/InsertCustomerServer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SAMSSyncServiceSoap12" type="tns:SAMSSyncServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetServerData">
+      <soap12:operation soapAction="http://tempuri.org/GetServerData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerLastUpdateDateTime">
+      <soap12:operation soapAction="http://tempuri.org/GetServerLastUpdateDateTime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceMasterServer">
+      <soap12:operation soapAction="http://tempuri.org/InsertSaleInvoiceMasterServer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSaleInvoiceDetailServer">
+      <soap12:operation soapAction="http://tempuri.org/InsertSaleInvoiceDetailServer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSKUStockRegisterServer">
+      <soap12:operation soapAction="http://tempuri.org/InsertSKUStockRegisterServer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomerServer">
+      <soap12:operation soapAction="http://tempuri.org/InsertCustomerServer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SAMSSyncService">
+    <wsdl:port name="SAMSSyncServiceSoap" binding="tns:SAMSSyncServiceSoap">
+      <soap:address location="http://localhost/cafesyncservice/SAMSSyncService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SAMSSyncServiceSoap12" binding="tns:SAMSSyncServiceSoap12">
+      <soap12:address location="http://localhost/cafesyncservice/SAMSSyncService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

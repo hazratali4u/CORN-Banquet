@@ -1,0 +1,360 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.IO;
+
+using System.Data;
+using System.Data.SqlClient;
+using CORNCommon.Classes;
+using CORNBusinessLayer.Classes;
+using BarcodeLib.Barcode;
+using System.Web.UI.HtmlControls;
+using CORNBusinessLayer.Reports;
+
+public partial class Forms_frmSKUCreateBarCode : System.Web.UI.Page
+{
+    readonly SkuHierarchyController _mHerController = new SkuHierarchyController();
+    readonly SKUPriceDetailController mSKUController = new SKUPriceDetailController();
+    readonly RoleManagementController mController = new RoleManagementController();
+    private DataTable _mDt;
+
+    Graphics graphics;
+    public static string CompanyName;
+    readonly SkuController _cn = new SkuController();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            Populate_drpSKUCategory();
+            FillddlSkus();
+        }
+    }
+
+    protected void ddskucategory_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        FillddlSkus();            
+    }
+
+    private void Populate_drpSKUCategory()
+    {
+        if (ddlType.SelectedItem != null)
+        {
+            _mDt = _mHerController.SelectSkuHierarchy(Constants.SKUCategory, Constants.IntNullValue, Convert.ToInt32(ddlType.SelectedItem.Value)
+            , null, null, true, int.Parse(Session["CompanyId"].ToString()), Constants.IntNullValue);
+            clsWebFormUtil.FillDxComboBoxList(ddskucategory, _mDt, 0, 3, true);
+            
+            ddskucategory.Items.Insert(0, new DevExpress.Web.ListEditItem("SELECT ITEM"));
+
+            if (ddskucategory.Items.Count > 0)
+            {
+                ddskucategory.SelectedIndex = 0;
+            }
+            if(ddskucategory.SelectedIndex > 0)
+            {
+                FillddlSkus();
+            }
+        }
+    }
+    private void FillddlSkus()
+    {
+        if (ddskucategory.SelectedItem != null && ddlType.SelectedItem != null)
+        {
+            try
+            {
+                SkuController mSKUController = new SkuController();
+                DataTable dt = mSKUController.SelectSkuInfo(Constants.IntNullValue, Constants.IntNullValue
+                    , int.Parse(ddskucategory.SelectedItem.Value.ToString())
+                    , Convert.ToInt32(ddlType.SelectedItem.Value)
+                    , int.Parse(Session["CompanyId"].ToString()), null);
+                clsWebFormUtil.FillDxComboBoxList(ddlProducts, dt, "SKU_ID", "SKU_NAME", true);
+                ddlProducts.Items.Insert(0, new DevExpress.Web.ListEditItem("SELECT ITEM"));
+                if (ddlProducts.Items.Count > 0)
+                {
+                    ddlProducts.SelectedIndex = 0;
+                }
+            }
+            catch (Exception)
+            {
+            }
+        }
+    }
+
+    protected void ddlProducts_OnSelectedIndexChanged(object sender, EventArgs e)
+    {
+        if (ddlProducts.SelectedItem != null)
+            LoadGrid(int.Parse(ddlProducts.SelectedItem.Value.ToString()));
+    }
+
+    private void LoadGrid(int skuid)
+    {
+        DataTable dtsku = mSKUController.SelectSKuCurrentPrice(Constants.IntNullValue, int.Parse(Session["CompanyId"].ToString()), Constants.IntNullValue, Constants.IntNullValue, Constants.IntNullValue, Constants.IntNullValue, Constants.IntNullValue, skuid);
+       if(dtsku.Rows.Count> 0)
+        {
+           
+            string ItemBarcodeNumber = string.Empty;
+            ItemBarcodeNumber = (dtsku.Rows[0]["SKU_CODE"] == System.DBNull.Value) ? null : dtsku.Rows[0]["SKU_CODE"].ToString();
+            txtBarcodeNumber.Text = ItemBarcodeNumber;
+
+            double itemPrice = Convert.ToDouble(dtsku.Rows[0]["TRADE_PRICE"]);
+            txtItemPrice.Text = itemPrice.ToString();
+
+            string itemName = dtsku.Rows[0]["SKU_Name"].ToString();
+            txtItemName.Text = itemName;
+
+            //----------------------------------
+
+            var oBitmap = Generatecode();
+            // var oBitmap = new Bitmap(w, 100);
+            // var oGraphics = Graphics.FromImage(oBitmap);
+
+            // var oFont = new Font("IDAutomationHC39M", 20);
+            // var oPoint = new PointF(2f, 2f);
+
+            // var oBrushWrite = new SolidBrush(Color.Black);
+            // var oBrush = new SolidBrush(Color.White);
+
+            // oGraphics.FillRectangle(oBrush, 0, 0, w, 100);
+            // oGraphics.DrawString(code, oFont, oBrushWrite, oPoint);
+
+            //lbl_pcode.Text = txt_productName.Text;
+            //lbl_pprice.Text = txt_price.Text;
+
+            var ms = new MemoryStream();
+            oBitmap.Save(ms, ImageFormat.Png);
+
+            var bytearray = ms.ToArray();
+            var base64Data = Convert.ToBase64String(ms.ToArray());
+
+            img_brcode.ImageUrl = "data:image/Jpeg;base64," + base64Data;
+
+            Session["base64Data"] = base64Data;
+
+            if (Session["base64Data"] != null)
+            {
+                Panel1.Visible = true;
+                img_brcode.Visible = true;
+            }
+
+
+           // _cn.InsertBarcode(CompanyName, Convert.ToString(lbl_pcode.Text), Convert.ToString("Rs. " + txt_price.Text), bytearray);
+
+
+            //var sk = new SkuController();
+            //_mDt = sk.SelectSkuBarcode();
+            //for (int i = 1; i < int.Parse(txt_row.Text); i++)
+            //{
+            //    var dr = _mDt.Rows[0];
+            //    _mDt.ImportRow(dr);
+            //}
+
+            //var crpReport = new CrpBarcode();
+            //crpReport.SetDataSource(_mDt);
+            //crpReport.Refresh();
+
+            //Session.Add("ReportType", 0);
+            //Session.Add("CrpReport", crpReport);
+            //const string url = "'Default.aspx'";
+            //const string script = "<script language='JavaScript' type='text/javascript'> window.open(" + url + ",\"Link\",\"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=800,height=600,left=10,top=10\");</script>";
+            //var cstype = GetType();
+            //ClientScriptManager cs = Page.ClientScript;
+            //cs.RegisterStartupScript(cstype, "OpenWindow", script);
+
+            //string barCode = txtBarcodeNumber.Text;
+            //System.Web.UI.WebControls.Image imgBarCode = new System.Web.UI.WebControls.Image();
+            //using (Bitmap bitMap = new Bitmap(barCode.Length * 40, 80))
+            //{
+            //    using (Graphics graphics = Graphics.FromImage(bitMap))
+            //    {
+            //        Font oFont = new Font("IDAutomationHC39M", 16);
+            //        PointF point = new PointF(2f, 2f);
+            //        SolidBrush blackBrush = new SolidBrush(Color.Black);
+            //        SolidBrush whiteBrush = new SolidBrush(Color.White);
+            //        graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
+            //        graphics.DrawString("*" + barCode + "*", oFont, blackBrush, point);
+            //    }
+            //    using (MemoryStream ms = new MemoryStream())
+            //    {                  
+            //        bitMap.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+            //        byte[] byteImage = ms.ToArray();
+
+            //        Convert.ToBase64String(byteImage);
+            //        //imgBarCode.ImageUrl = "data:image/png;base64," + Convert.ToBase64String(byteImage);
+            //        img_brcode.ImageUrl = "data:image/png;base64," + Convert.ToBase64String(byteImage);
+            //    }
+            //    plBarCode.Controls.Add(imgBarCode);
+            //}
+        }   
+    }
+
+    private Bitmap Generatecode()
+    {
+        //BarcodeLib.Barcode.Linear barcode = new BarcodeLib.Barcode.Linear();
+        //barcode.Type = BarcodeType.CODE128;
+
+        Linear barcode = new Linear();
+        barcode.Type = BarcodeType.CODE128;
+        barcode.Data = txtBarcodeNumber.Text;
+
+        barcode.LeftMargin = 0;
+        barcode.RightMargin = 0;
+        barcode.TopMargin = 0;
+        barcode.BottomMargin = 0;
+
+        barcode.Resolution = 72;
+        //  barcode.Rotate = RotateOrientation.BottomFacingDown;
+        barcode.UOM = UnitOfMeasure.PIXEL;
+
+        byte[] barcodeInBytes = barcode.drawBarcodeAsBytes();
+
+        //generate barcode to <strong>Graphics object<strong>
+        string code = txtBarcodeNumber.Text;
+        int w = code.Length * 35;
+        var oBitmap = new Bitmap(w, 100);
+        Graphics graphics = Graphics.FromImage(oBitmap);
+        barcode.drawBarcode(graphics);
+
+        //generate barcode and output to Bitmap object
+        Bitmap barcodeInBitmap = barcode.drawBarcode();
+        return barcodeInBitmap;
+
+    }
+    private Bitmap Generatecode(string Bar_Code)
+    {
+        Linear barcode = new Linear();
+        barcode.Type = BarcodeType.EAN13;
+        barcode.Data = Bar_Code;
+        barcode.LeftMargin = 0;
+        barcode.RightMargin = 0;
+        barcode.TopMargin = 0;
+        barcode.BottomMargin = 0;
+        barcode.Resolution = 72;
+        barcode.UOM = UnitOfMeasure.PIXEL;
+        byte[] barcodeInBytes = barcode.drawBarcodeAsBytes();
+        Bitmap barcodeInBitmap = barcode.drawBarcode();
+        return barcodeInBitmap;
+    }
+
+
+    protected void btnPrint_Click(object sender, EventArgs e)
+    {
+
+        if ((txt_row.Text != null) && (txt_col.Text != null))
+        {
+            int noOfCopies = Convert.ToInt32(txtCopies.Text);
+
+            int tblRows = Convert.ToInt32(noOfCopies/2); // Convert.ToInt32(txt_row.Text);
+
+            int tblCols = Convert.ToInt32(txt_col.Text);
+
+            Unit width = new Unit(500, UnitType.Pixel);
+
+            Table tbl = new Table();
+            tbl.ID = "tcResource";
+            tbl.Width = width;
+            tbl.Height = Unit.Pixel(1000);
+            tbl.BorderStyle = BorderStyle.Double;
+            tbl.BorderWidth = 2;
+            tbl.CellPadding = 0;
+            tbl.CellSpacing = 0;
+
+            tbl.HorizontalAlign = HorizontalAlign.Center;
+
+            for (int i = 0; i < tblRows; i++)
+            {
+                TableRow tr = new TableRow();
+                tr.HorizontalAlign = HorizontalAlign.Center;
+                for (int j = 0; j < tblCols; j++)
+                {
+                    System.Web.UI.WebControls.Image img = new System.Web.UI.WebControls.Image();
+
+                    Label lblpname = new Label();
+                    lblpname.Font.Size = new FontUnit(10);
+
+                    Label lblprice = new Label();
+                    lblprice.Font.Size = new FontUnit(10);
+
+                    Label lblCompany = new Label();
+                    lblCompany.Text = "Corn";
+
+                    TableCell tc = new TableCell();
+                    tc.Width = Unit.Pixel(125);
+                    tc.HorizontalAlign = HorizontalAlign.Center;
+                    tc.BorderStyle = BorderStyle.Double;
+                    tc.BorderWidth = 2;
+
+                    Panel dpnl1 = new Panel();
+                    Panel dpnl2 = new Panel();
+                    //Panel dpnl3 = new Panel();
+                    Panel dpnl4 = new Panel();
+
+
+
+                    //lblprice.Text = txtItemPrice.Text;
+                    lblpname.Text = txtItemName.Text + " " + " " + "Rs." + " " + txtItemPrice.Text;
+
+                    var data = Session["base64Data"];
+                    img.ImageUrl = "data:image/Jpeg;base64," + data;
+                    //img.Height = Unit.Pixel(60);
+                    //img.Width = Unit.Pixel(300);
+
+                    img.Height = Unit.Pixel(70);
+                    img.Width = Unit.Pixel(250);
+
+                    // Add the control to the TableCell
+                    dpnl1.Controls.Add(lblCompany);
+                    dpnl2.Controls.Add(lblpname);
+                    //dpnl3.Controls.Add(lblprice);
+                    dpnl4.Controls.Add(img);
+
+                    tc.Controls.Add(dpnl1);
+                    tc.Controls.Add(dpnl2);
+                    //tc.Controls.Add(dpnl3);
+                    tc.Controls.Add(dpnl4);
+                    tr.Cells.Add(tc);
+                }
+                // Add the TableRow to the Table
+                tbl.Rows.Add(tr);
+                Panel1.Controls.Add(tbl);
+                Session["ctrl"] = tbl;
+            }
+        }
+        Control ctrl = (Control)Session["ctrl"];
+        // PrintHelper.PrintWebControl(ctrl);
+        Page.ClientScript.RegisterStartupScript(this.GetType(), "OnClick", "<script language=javascript>window.open('~/Forms/frmSKUCreateBarCode.aspx','_blank','height=300px,width=300px,scrollbars=1');</script>");
+        
+
+        //string Script;
+        StringWriter stringWrite = new StringWriter();
+        System.Web.UI.HtmlTextWriter htmlWrite = new System.Web.UI.HtmlTextWriter(stringWrite);
+
+        if (ctrl is WebControl)
+        {
+            Unit w = new Unit(40, UnitType.Percentage);
+            ((WebControl)ctrl).Width = w;
+        }
+        Page pg = new Page();
+        pg.EnableEventValidation = false;
+        HtmlForm frm = new HtmlForm();
+
+        pg.Controls.Add(frm);
+
+        frm.Attributes.Add("runat", "server");
+        frm.Controls.Add(ctrl);
+        pg.DesignerInitialize();
+        pg.RenderControl(htmlWrite);
+
+        string strHTML = stringWrite.ToString();
+        HttpContext.Current.Response.Clear();
+        HttpContext.Current.Response.Write(strHTML);
+       // HttpContext.Current.Response.Write("<script>window.print();</script>");
+        HttpContext.Current.Response.End();
+    }
+
+}

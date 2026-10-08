@@ -1,0 +1,133 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 12:40:36
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:40dd2c85-e12f-4520-8db5-41e065691460
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 12:49:19
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:e6ecde80-d6d4-4cc1-a744-1d4799db001b
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 12:53:23
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:e6ecde80-d6d4-4cc1-a744-1d4799db001b
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 12:56:55
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:f7ca3da3-99ee-400a-853b-4f61d0e1d07f
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 12:59:33
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:f7ca3da3-99ee-400a-853b-4f61d0e1d07f
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 03:38:49
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:e3c3c0e7-782f-449a-878f-2f8b2d225e24
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 03:47:45
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:1a458735-badc-4dc9-8e04-a580f5972d34
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 03:55:58
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:388227bc-6f03-43af-a718-3926c6898eaa
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 04:43:35
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:b85d251a-f92d-48e4-a7a7-0af996e888e9
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 04:53:36
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(Int32 p_ID, DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:214c1277-3672-49d9-a3b6-6feae02d67f1
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 04:57:20
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:ac79e140-c92c-47b8-bf43-ff27927971dd
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 06 Jul 22 05:10:12
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteTable() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 127
+   at CORNBusinessLayer.Classes.SkuController.SelectSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue, Int32 p_TYPE_ID) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1259
+ClientConnectionId:9e897191-5acf-4c4a-ac06-2a480434960e
+Error Number:8144,State:2,Class:16
+: ----------------------------------

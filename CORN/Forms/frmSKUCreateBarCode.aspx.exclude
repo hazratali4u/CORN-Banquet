@@ -1,0 +1,185 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Forms/PageMaster.master" AutoEventWireup="true" CodeFile="frmSKUCreateBarCode.aspx.cs" Inherits="Forms_frmSKUCreateBarCode" %>
+
+<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="cphHeadPage" runat="Server">
+
+
+    <script type="text/javascript">
+        function PrintDiv() {
+            var divContents = document.getElementById("dvBarcode").innerHTML;
+            var printWindow = window.open('', '', 'height=1000,width=800');
+            printWindow.document.write('<html><head><title>DIV Contents</title>');
+            printWindow.document.write('</head><body >');
+            printWindow.document.write(divContents);
+            printWindow.document.write('</body></html>');
+            printWindow.document.close();
+            printWindow.print();
+        }
+    </script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphPage" runat="Server">
+
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+        <ContentTemplate>
+            <%-- <asp:Panel ID="Panel1" runat="server" DefaultButton="btndummy">--%>
+            <div class="main-contents">
+                <div class="container role_management">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <asp:HiddenField ID="hfSKU" runat="server" />
+                            <asp:HiddenField ID="hfSKUID" runat="server" />
+                            <asp:DropDownList ID="ddlType" runat="server" AutoPostBack="True"
+                                Width="200px" Visible="false">
+                                <asp:ListItem Text="Finish" Value="1"></asp:ListItem>
+                                <asp:ListItem Text="Raw" Value="2"></asp:ListItem>
+                            </asp:DropDownList>
+
+
+
+                            <label>
+                                Item Category</label>
+                            <dx:ASPxComboBox ID="ddskucategory" runat="server" AutoPostBack="True"
+                                OnSelectedIndexChanged="ddskucategory_SelectedIndexChanged" CssClass="form-control">
+                            </dx:ASPxComboBox>
+                            <label>
+                                Search By Product Name</label>
+                            <dx:ASPxComboBox ID="ddlProducts" OnSelectedIndexChanged="ddlProducts_OnSelectedIndexChanged" runat="server" AutoPostBack="True" CssClass="form-control">
+                            </dx:ASPxComboBox>
+                        </div>
+
+
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>Barcode Number</label>
+                            <asp:TextBox ID="txtBarcodeNumber" runat="server" placeholder="0123456789" CssClass="form-control"></asp:TextBox>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="dvBarcode" class="col-md-4" style="text-align: center;">
+                            <asp:Panel ID="Panel1" runat="server" Visible="false">
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <label>Barcode</label>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="lblCompany" runat="server"></asp:Label>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="lblpname" runat="server"></asp:Label>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="lblprice" runat="server"></asp:Label>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <asp:Image ID="img_brcode" runat="server" />
+                                        </td>
+                                    </tr>
+
+
+                                    <tr>
+                                        <td>
+                                            <asp:TextBox ID="txt_row" runat="server" Width="60" MaxLength="2" Visible="false"></asp:TextBox>
+                                            <cc1:FilteredTextBoxExtender ID="ftbe_txtrow" runat="server" ValidChars="0123456789"
+                                                TargetControlID="txt_row"></cc1:FilteredTextBoxExtender>
+
+                                            <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="txt_row"
+                                                MaximumValue="10" MinimumValue="1" SetFocusOnError="true" ValidationGroup="vg"></asp:RangeValidator>
+
+                                            <asp:TextBox ID="txt_col" runat="server" Width="60" MaxLength="1" Text="2" ReadOnly="true" Visible="false"></asp:TextBox>
+
+                                            <cc1:FilteredTextBoxExtender ID="ftbe_txtcol" runat="server" ValidChars="012345"
+                                                TargetControlID="txt_col"></cc1:FilteredTextBoxExtender>
+                                        </td>
+                                    </tr>
+
+                                </table>
+                            </asp:Panel>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+
+                            <label></span>Name</label>
+                            <asp:TextBox ID="txtItemName" runat="server" CssClass="form-control"></asp:TextBox>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-4">
+
+                            <label></span>Price</label>
+                            <asp:TextBox ID="txtItemPrice" runat="server" placeholder="0.0" CssClass="form-control"></asp:TextBox>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-1">
+
+                            <label>Copies</label>
+                            <asp:TextBox ID="txtCopies" runat="server" placeholder="10" Text="10" CssClass="form-control"></asp:TextBox>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            <asp:CheckBox ID="ChkItemName" Text="Item Name" runat="server" Checked="true" />
+                        </div>
+                        <div class="col-md-3">
+                            <asp:RadioButtonList ID="rbItemNameLocation" runat="server" Width="180px" RepeatDirection="Horizontal"
+                                AutoPostBack="true">
+                                <asp:ListItem Value="0" Selected="True" Text="Left" />
+                                <asp:ListItem Value="1" Text="Center" />
+                                <asp:ListItem Value="2" Text="Right" />
+                            </asp:RadioButtonList>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            <asp:CheckBox ID="ChkItemPrice" Text="Item Price" runat="server" Checked="true" />
+                        </div>
+                        <div class="col-md-3">
+                            <asp:RadioButtonList ID="rbItemPriceLocation" runat="server" Width="180px" RepeatDirection="Horizontal"
+                                AutoPostBack="true">
+                                <asp:ListItem Value="0" Selected="True" Text="Left" />
+                                <asp:ListItem Value="1" Text="Center" />
+                                <asp:ListItem Value="2" Text="Right" />
+                            </asp:RadioButtonList>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+
+    <div class="btnlist">
+        <asp:Button class="btn btn-success" Text="Print Preview"
+            runat="server" ID="btnPrintPreview" TabIndex="9"></asp:Button>
+
+        <asp:Button class="btn btn-success" Text="Print" OnClick="btnPrint_Click"
+            runat="server" ID="btnPrint" TabIndex="10"></asp:Button>
+    </div>
+</asp:Content>
+

@@ -1,0 +1,144 @@
+
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:35
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:37
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:38
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:38
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:38
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:39
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:39
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:39
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:12:40
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:14:56
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:8820f091-0a41-402f-84bf-c0042d7e6d30
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 10:27:10
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'spInsertFrom_Customer'.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:45c5e52e-aeba-4811-be93-462b27289883
+Error Number:2812,State:62,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 12:40:48
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:2a110781-d432-4bac-bb7b-a3b2de52bb4b
+Error Number:8144,State:2,Class:16
+: ----------------------------------
+Machine Name:: DESKTOP-0H4OS18
+User Name   :: Syed Hassan Raza
+OS Version  :: Microsoft Windows NT 10.0.19044.0
+Date Time   :: 29 Jun 22 12:43:28
+Exception Information:
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function spInsertFrom_Customer has too many arguments specified.
+   at CORNDatabaseLayer.InputClasses.spInsertFrom_Customer.ExecuteQuery() in D:\FSApps\AYRA\CORN-Banquet\CORNDatabaseLayer\InputClasses\spInsertFrom_Customer.cs:line 75
+   at CORNBusinessLayer.Classes.SkuController.InsertSKUSCustomerForm(DateTime Booking_date, String Voucher_no, String Eventwise_cost_entry, String Payment_plan, String CNIC_NTN_no_client, String Contact_no_client, String Address_client, DateTime EventType_date_venue) in D:\FSApps\AYRA\CORN-Banquet\CORNBusinessLayer\Classes\SKUController.cs:line 1213
+ClientConnectionId:2a110781-d432-4bac-bb7b-a3b2de52bb4b
+Error Number:8144,State:2,Class:16
+: ----------------------------------
